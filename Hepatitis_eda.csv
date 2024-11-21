@@ -1,4 +1,4 @@
-,Country,Time,Gender,Category_age,Chronic_percentage,Acute_percentage
+,Country,Time,Gender,Age,Chronic_percentage,Acute_percentage
 0,Austria,2008,Female,0-4,0.0,0.0
 1,Austria,2008,Female,15-19,0.0,10.92
 2,Austria,2008,Female,20-24,0.0,2.08
@@ -1421,1302 +1421,6 @@
 1419,Denmark,2023,Male,5-14,0.0,0.0
 1420,Denmark,2023,Male,55-64,0.0,4.84
 1421,Denmark,2023,Male,65+,0.0,9.68
-1422,EU (with UK until 2019),2006,Female,0-4,0.0,0.0
-1423,EU (with UK until 2019),2006,Female,15-19,0.04,3.06
-1424,EU (with UK until 2019),2006,Female,20-24,0.12,4.760000000000001
-1425,EU (with UK until 2019),2006,Female,25-34,0.16,8.5
-1426,EU (with UK until 2019),2006,Female,35-44,0.08,6.800000000000001
-1427,EU (with UK until 2019),2006,Female,45-54,0.04,4.42
-1428,EU (with UK until 2019),2006,Female,5-14,0.0,0.34
-1429,EU (with UK until 2019),2006,Female,55-64,0.02,2.72
-1430,EU (with UK until 2019),2006,Female,65+,0.0,1.7000000000000002
-1431,EU (with UK until 2019),2006,Male,0-4,0.0,0.0
-1432,EU (with UK until 2019),2006,Male,15-19,0.06,5.85
-1433,EU (with UK until 2019),2006,Male,20-24,0.18,9.1
-1434,EU (with UK until 2019),2006,Male,25-34,0.24,16.25
-1435,EU (with UK until 2019),2006,Male,35-44,0.12,13.0
-1436,EU (with UK until 2019),2006,Male,45-54,0.06,8.450000000000001
-1437,EU (with UK until 2019),2006,Male,5-14,0.0,0.65
-1438,EU (with UK until 2019),2006,Male,55-64,0.03,5.2
-1439,EU (with UK until 2019),2006,Male,65+,0.0,3.25
-1440,EU (with UK until 2019),2007,Female,0-4,0.0,0.0
-1441,EU (with UK until 2019),2007,Female,15-19,0.09,2.24
-1442,EU (with UK until 2019),2007,Female,20-24,0.24,4.16
-1443,EU (with UK until 2019),2007,Female,25-34,0.3,8.32
-1444,EU (with UK until 2019),2007,Female,35-44,0.15,6.4
-1445,EU (with UK until 2019),2007,Female,45-54,0.09,4.48
-1446,EU (with UK until 2019),2007,Female,5-14,0.0,0.32
-1447,EU (with UK until 2019),2007,Female,55-64,0.03,2.56
-1448,EU (with UK until 2019),2007,Female,65+,0.0,1.92
-1449,EU (with UK until 2019),2007,Male,0-4,0.0,0.0
-1450,EU (with UK until 2019),2007,Male,15-19,0.12,4.69
-1451,EU (with UK until 2019),2007,Male,20-24,0.32,8.71
-1452,EU (with UK until 2019),2007,Male,25-34,0.4,17.42
-1453,EU (with UK until 2019),2007,Male,35-44,0.2,13.4
-1454,EU (with UK until 2019),2007,Male,45-54,0.12,9.38
-1455,EU (with UK until 2019),2007,Male,5-14,0.0,0.67
-1456,EU (with UK until 2019),2007,Male,55-64,0.04,5.36
-1457,EU (with UK until 2019),2007,Male,65+,0.0,4.02
-1458,EU (with UK until 2019),2008,Female,0-4,0.0,0.0
-1459,EU (with UK until 2019),2008,Female,15-19,0.09,1.55
-1460,EU (with UK until 2019),2008,Female,20-24,0.24,3.72
-1461,EU (with UK until 2019),2008,Female,25-34,0.33,8.68
-1462,EU (with UK until 2019),2008,Female,35-44,0.15,6.819999999999999
-1463,EU (with UK until 2019),2008,Female,45-54,0.09,4.34
-1464,EU (with UK until 2019),2008,Female,5-14,0.0,0.31
-1465,EU (with UK until 2019),2008,Female,55-64,0.06,2.48
-1466,EU (with UK until 2019),2008,Female,65+,0.0,1.86
-1467,EU (with UK until 2019),2008,Male,0-4,0.0,0.0
-1468,EU (with UK until 2019),2008,Male,15-19,0.12,3.4000000000000004
-1469,EU (with UK until 2019),2008,Male,20-24,0.32,8.16
-1470,EU (with UK until 2019),2008,Male,25-34,0.44,19.040000000000003
-1471,EU (with UK until 2019),2008,Male,35-44,0.2,14.96
-1472,EU (with UK until 2019),2008,Male,45-54,0.12,9.52
-1473,EU (with UK until 2019),2008,Male,5-14,0.0,0.68
-1474,EU (with UK until 2019),2008,Male,55-64,0.08,5.44
-1475,EU (with UK until 2019),2008,Male,65+,0.0,4.08
-1476,EU (with UK until 2019),2009,Female,0-4,0.0,0.0
-1477,EU (with UK until 2019),2009,Female,15-19,0.09,1.28
-1478,EU (with UK until 2019),2009,Female,20-24,0.2699999999999999,3.84
-1479,EU (with UK until 2019),2009,Female,25-34,0.3899999999999999,8.32
-1480,EU (with UK until 2019),2009,Female,35-44,0.18,6.72
-1481,EU (with UK until 2019),2009,Female,45-54,0.09,4.8
-1482,EU (with UK until 2019),2009,Female,5-14,0.0,0.32
-1483,EU (with UK until 2019),2009,Female,55-64,0.06,2.88
-1484,EU (with UK until 2019),2009,Female,65+,0.03,2.24
-1485,EU (with UK until 2019),2009,Male,0-4,0.0,0.0
-1486,EU (with UK until 2019),2009,Male,15-19,0.15,2.68
-1487,EU (with UK until 2019),2009,Male,20-24,0.4499999999999999,8.04
-1488,EU (with UK until 2019),2009,Male,25-34,0.65,17.42
-1489,EU (with UK until 2019),2009,Male,35-44,0.3,14.07
-1490,EU (with UK until 2019),2009,Male,45-54,0.15,10.05
-1491,EU (with UK until 2019),2009,Male,5-14,0.0,0.67
-1492,EU (with UK until 2019),2009,Male,55-64,0.1,6.03
-1493,EU (with UK until 2019),2009,Male,65+,0.05,4.69
-1494,EU (with UK until 2019),2010,Female,0-4,0.0,0.0
-1495,EU (with UK until 2019),2010,Female,15-19,0.09,0.93
-1496,EU (with UK until 2019),2010,Female,20-24,0.24,3.41
-1497,EU (with UK until 2019),2010,Female,25-34,0.36,8.06
-1498,EU (with UK until 2019),2010,Female,35-44,0.21,6.509999999999999
-1499,EU (with UK until 2019),2010,Female,45-54,0.09,4.65
-1500,EU (with UK until 2019),2010,Female,5-14,0.0,0.0
-1501,EU (with UK until 2019),2010,Female,55-64,0.06,3.1
-1502,EU (with UK until 2019),2010,Female,65+,0.0,2.79
-1503,EU (with UK until 2019),2010,Male,0-4,0.0,0.0
-1504,EU (with UK until 2019),2010,Male,15-19,0.15,2.04
-1505,EU (with UK until 2019),2010,Male,20-24,0.4,7.48
-1506,EU (with UK until 2019),2010,Male,25-34,0.6,17.68
-1507,EU (with UK until 2019),2010,Male,35-44,0.35,14.28
-1508,EU (with UK until 2019),2010,Male,45-54,0.15,10.2
-1509,EU (with UK until 2019),2010,Male,5-14,0.0,0.0
-1510,EU (with UK until 2019),2010,Male,55-64,0.1,6.800000000000001
-1511,EU (with UK until 2019),2010,Male,65+,0.0,6.12
-1512,EU (with UK until 2019),2011,Female,0-4,0.0,0.0
-1513,EU (with UK until 2019),2011,Female,15-19,0.12,0.96
-1514,EU (with UK until 2019),2011,Female,20-24,0.36,3.2
-1515,EU (with UK until 2019),2011,Female,25-34,0.56,8.64
-1516,EU (with UK until 2019),2011,Female,35-44,0.32,7.04
-1517,EU (with UK until 2019),2011,Female,45-54,0.16,4.8
-1518,EU (with UK until 2019),2011,Female,5-14,0.0,0.0
-1519,EU (with UK until 2019),2011,Female,55-64,0.12,3.2
-1520,EU (with UK until 2019),2011,Female,65+,0.04,2.56
-1521,EU (with UK until 2019),2011,Male,0-4,0.0,0.0
-1522,EU (with UK until 2019),2011,Male,15-19,0.15,2.01
-1523,EU (with UK until 2019),2011,Male,20-24,0.4499999999999999,6.7
-1524,EU (with UK until 2019),2011,Male,25-34,0.7000000000000001,18.090000000000003
-1525,EU (with UK until 2019),2011,Male,35-44,0.4,14.74
-1526,EU (with UK until 2019),2011,Male,45-54,0.2,10.05
-1527,EU (with UK until 2019),2011,Male,5-14,0.0,0.0
-1528,EU (with UK until 2019),2011,Male,55-64,0.15,6.7
-1529,EU (with UK until 2019),2011,Male,65+,0.05,5.36
-1530,EU (with UK until 2019),2012,Female,0-4,0.0,0.0
-1531,EU (with UK until 2019),2012,Female,15-19,0.12,0.58
-1532,EU (with UK until 2019),2012,Female,20-24,0.36,2.32
-1533,EU (with UK until 2019),2012,Female,25-34,0.6,6.959999999999999
-1534,EU (with UK until 2019),2012,Female,35-44,0.36,6.959999999999999
-1535,EU (with UK until 2019),2012,Female,45-54,0.16,4.930000000000001
-1536,EU (with UK until 2019),2012,Female,5-14,0.0,0.0
-1537,EU (with UK until 2019),2012,Female,55-64,0.12,3.4799999999999995
-1538,EU (with UK until 2019),2012,Female,65+,0.04,2.32
-1539,EU (with UK until 2019),2012,Male,0-4,0.0,0.0
-1540,EU (with UK until 2019),2012,Male,15-19,0.18,1.4
-1541,EU (with UK until 2019),2012,Male,20-24,0.5399999999999999,5.6
-1542,EU (with UK until 2019),2012,Male,25-34,0.8999999999999999,16.799999999999997
-1543,EU (with UK until 2019),2012,Male,35-44,0.5399999999999999,16.799999999999997
-1544,EU (with UK until 2019),2012,Male,45-54,0.24,11.9
-1545,EU (with UK until 2019),2012,Male,5-14,0.0,0.0
-1546,EU (with UK until 2019),2012,Male,55-64,0.18,8.399999999999999
-1547,EU (with UK until 2019),2012,Male,65+,0.06,5.6
-1548,EU (with UK until 2019),2013,Female,0-4,0.0,0.0
-1549,EU (with UK until 2019),2013,Female,15-19,0.12,0.93
-1550,EU (with UK until 2019),2013,Female,20-24,0.28,2.48
-1551,EU (with UK until 2019),2013,Female,25-34,0.52,7.75
-1552,EU (with UK until 2019),2013,Female,35-44,0.36,7.439999999999999
-1553,EU (with UK until 2019),2013,Female,45-54,0.16,5.2700000000000005
-1554,EU (with UK until 2019),2013,Female,5-14,0.0,0.31
-1555,EU (with UK until 2019),2013,Female,55-64,0.08,3.1
-1556,EU (with UK until 2019),2013,Female,65+,0.04,2.79
-1557,EU (with UK until 2019),2013,Male,0-4,0.0,0.0
-1558,EU (with UK until 2019),2013,Male,15-19,0.15,2.04
-1559,EU (with UK until 2019),2013,Male,20-24,0.35,5.44
-1560,EU (with UK until 2019),2013,Male,25-34,0.65,17.0
-1561,EU (with UK until 2019),2013,Male,35-44,0.4499999999999999,16.32
-1562,EU (with UK until 2019),2013,Male,45-54,0.2,11.560000000000002
-1563,EU (with UK until 2019),2013,Male,5-14,0.0,0.68
-1564,EU (with UK until 2019),2013,Male,55-64,0.1,6.800000000000001
-1565,EU (with UK until 2019),2013,Male,65+,0.05,6.12
-1566,EU (with UK until 2019),2014,Female,0-4,0.0,0.0
-1567,EU (with UK until 2019),2014,Female,15-19,0.08,0.93
-1568,EU (with UK until 2019),2014,Female,20-24,0.28,1.86
-1569,EU (with UK until 2019),2014,Female,25-34,0.56,7.439999999999999
-1570,EU (with UK until 2019),2014,Female,35-44,0.4,6.819999999999999
-1571,EU (with UK until 2019),2014,Female,45-54,0.2,5.89
-1572,EU (with UK until 2019),2014,Female,5-14,0.0,0.0
-1573,EU (with UK until 2019),2014,Female,55-64,0.12,3.72
-1574,EU (with UK until 2019),2014,Female,65+,0.04,3.1
-1575,EU (with UK until 2019),2014,Male,0-4,0.0,0.0
-1576,EU (with UK until 2019),2014,Male,15-19,0.12,2.04
-1577,EU (with UK until 2019),2014,Male,20-24,0.42,4.08
-1578,EU (with UK until 2019),2014,Male,25-34,0.8400000000000001,16.32
-1579,EU (with UK until 2019),2014,Male,35-44,0.6,14.96
-1580,EU (with UK until 2019),2014,Male,45-54,0.3,12.920000000000002
-1581,EU (with UK until 2019),2014,Male,5-14,0.0,0.0
-1582,EU (with UK until 2019),2014,Male,55-64,0.18,8.16
-1583,EU (with UK until 2019),2014,Male,65+,0.06,6.800000000000001
-1584,EU (with UK until 2019),2015,Female,0-4,0.0,0.0
-1585,EU (with UK until 2019),2015,Female,15-19,0.16,0.93
-1586,EU (with UK until 2019),2015,Female,20-24,0.28,1.86
-1587,EU (with UK until 2019),2015,Female,25-34,0.56,6.819999999999999
-1588,EU (with UK until 2019),2015,Female,35-44,0.44,7.13
-1589,EU (with UK until 2019),2015,Female,45-54,0.24,6.2
-1590,EU (with UK until 2019),2015,Female,5-14,0.0,0.0
-1591,EU (with UK until 2019),2015,Female,55-64,0.12,3.72
-1592,EU (with UK until 2019),2015,Female,65+,0.04,3.1
-1593,EU (with UK until 2019),2015,Male,0-4,0.0,0.0
-1594,EU (with UK until 2019),2015,Male,15-19,0.28,2.04
-1595,EU (with UK until 2019),2015,Male,20-24,0.49,4.08
-1596,EU (with UK until 2019),2015,Male,25-34,0.98,14.96
-1597,EU (with UK until 2019),2015,Male,35-44,0.7700000000000001,15.64
-1598,EU (with UK until 2019),2015,Male,45-54,0.42,13.6
-1599,EU (with UK until 2019),2015,Male,5-14,0.0,0.0
-1600,EU (with UK until 2019),2015,Male,55-64,0.21,8.16
-1601,EU (with UK until 2019),2015,Male,65+,0.07,6.800000000000001
-1602,EU (with UK until 2019),2016,Female,0-4,0.0,0.0
-1603,EU (with UK until 2019),2016,Female,15-19,0.2,1.24
-1604,EU (with UK until 2019),2016,Female,20-24,0.35,1.86
-1605,EU (with UK until 2019),2016,Female,25-34,0.7000000000000001,6.819999999999999
-1606,EU (with UK until 2019),2016,Female,35-44,0.55,6.819999999999999
-1607,EU (with UK until 2019),2016,Female,45-54,0.35,6.2
-1608,EU (with UK until 2019),2016,Female,5-14,0.0,0.0
-1609,EU (with UK until 2019),2016,Female,55-64,0.2,3.72
-1610,EU (with UK until 2019),2016,Female,65+,0.1,3.1
-1611,EU (with UK until 2019),2016,Male,0-4,0.0,0.0
-1612,EU (with UK until 2019),2016,Male,15-19,0.28,2.72
-1613,EU (with UK until 2019),2016,Male,20-24,0.49,4.08
-1614,EU (with UK until 2019),2016,Male,25-34,0.98,14.96
-1615,EU (with UK until 2019),2016,Male,35-44,0.7700000000000001,14.96
-1616,EU (with UK until 2019),2016,Male,45-54,0.49,13.6
-1617,EU (with UK until 2019),2016,Male,5-14,0.0,0.0
-1618,EU (with UK until 2019),2016,Male,55-64,0.28,8.16
-1619,EU (with UK until 2019),2016,Male,65+,0.14,6.800000000000001
-1620,EU (with UK until 2019),2017,Female,0-4,0.0,0.0
-1621,EU (with UK until 2019),2017,Female,15-19,0.08,1.24
-1622,EU (with UK until 2019),2017,Female,20-24,0.2,1.86
-1623,EU (with UK until 2019),2017,Female,25-34,0.48,6.2
-1624,EU (with UK until 2019),2017,Female,35-44,0.4,6.509999999999999
-1625,EU (with UK until 2019),2017,Female,45-54,0.24,6.509999999999999
-1626,EU (with UK until 2019),2017,Female,5-14,0.0,0.31
-1627,EU (with UK until 2019),2017,Female,55-64,0.12,4.03
-1628,EU (with UK until 2019),2017,Female,65+,0.04,3.1
-1629,EU (with UK until 2019),2017,Male,0-4,0.0,0.0
-1630,EU (with UK until 2019),2017,Male,15-19,0.12,2.72
-1631,EU (with UK until 2019),2017,Male,20-24,0.3,4.08
-1632,EU (with UK until 2019),2017,Male,25-34,0.72,13.6
-1633,EU (with UK until 2019),2017,Male,35-44,0.6,14.28
-1634,EU (with UK until 2019),2017,Male,45-54,0.36,14.28
-1635,EU (with UK until 2019),2017,Male,5-14,0.0,0.68
-1636,EU (with UK until 2019),2017,Male,55-64,0.18,8.84
-1637,EU (with UK until 2019),2017,Male,65+,0.06,6.800000000000001
-1638,EU (with UK until 2019),2018,Female,0-4,0.0,0.0
-1639,EU (with UK until 2019),2018,Female,15-19,0.06,1.02
-1640,EU (with UK until 2019),2018,Female,20-24,0.12,1.7000000000000002
-1641,EU (with UK until 2019),2018,Female,25-34,0.3,6.800000000000001
-1642,EU (with UK until 2019),2018,Female,35-44,0.24,7.48
-1643,EU (with UK until 2019),2018,Female,45-54,0.15,6.800000000000001
-1644,EU (with UK until 2019),2018,Female,5-14,0.0,0.0
-1645,EU (with UK until 2019),2018,Female,55-64,0.09,4.42
-1646,EU (with UK until 2019),2018,Female,65+,0.03,4.08
-1647,EU (with UK until 2019),2018,Male,0-4,0.0,0.0
-1648,EU (with UK until 2019),2018,Male,15-19,0.1,1.95
-1649,EU (with UK until 2019),2018,Male,20-24,0.2,3.25
-1650,EU (with UK until 2019),2018,Male,25-34,0.5000000000000001,13.0
-1651,EU (with UK until 2019),2018,Male,35-44,0.4,14.3
-1652,EU (with UK until 2019),2018,Male,45-54,0.25,13.0
-1653,EU (with UK until 2019),2018,Male,5-14,0.0,0.0
-1654,EU (with UK until 2019),2018,Male,55-64,0.15,8.450000000000001
-1655,EU (with UK until 2019),2018,Male,65+,0.05,7.8
-1656,EU (with UK until 2019),2019,Female,0-4,0.0,0.0
-1657,EU (with UK until 2019),2019,Female,15-19,0.08,0.99
-1658,EU (with UK until 2019),2019,Female,20-24,0.16,1.98
-1659,EU (with UK until 2019),2019,Female,25-34,0.4,6.2700000000000005
-1660,EU (with UK until 2019),2019,Female,35-44,0.36,6.93
-1661,EU (with UK until 2019),2019,Female,45-54,0.24,6.6000000000000005
-1662,EU (with UK until 2019),2019,Female,5-14,0.0,0.0
-1663,EU (with UK until 2019),2019,Female,55-64,0.12,4.62
-1664,EU (with UK until 2019),2019,Female,65+,0.08,3.96
-1665,EU (with UK until 2019),2019,Male,0-4,0.0,0.0
-1666,EU (with UK until 2019),2019,Male,15-19,0.1,1.98
-1667,EU (with UK until 2019),2019,Male,20-24,0.2,3.96
-1668,EU (with UK until 2019),2019,Male,25-34,0.5000000000000001,12.54
-1669,EU (with UK until 2019),2019,Male,35-44,0.4499999999999999,13.86
-1670,EU (with UK until 2019),2019,Male,45-54,0.3,13.2
-1671,EU (with UK until 2019),2019,Male,5-14,0.0,0.0
-1672,EU (with UK until 2019),2019,Male,55-64,0.15,9.24
-1673,EU (with UK until 2019),2019,Male,65+,0.1,7.920000000000001
-1674,EU (with UK until 2019),2020,Female,0-4,0.0,0.0
-1675,EU (with UK until 2019),2020,Female,15-19,0.0,0.96
-1676,EU (with UK until 2019),2020,Female,20-24,0.01,1.6
-1677,EU (with UK until 2019),2020,Female,25-34,0.04,5.44
-1678,EU (with UK until 2019),2020,Female,35-44,0.03,7.68
-1679,EU (with UK until 2019),2020,Female,45-54,0.02,7.04
-1680,EU (with UK until 2019),2020,Female,5-14,0.0,0.0
-1681,EU (with UK until 2019),2020,Female,55-64,0.01,4.48
-1682,EU (with UK until 2019),2020,Female,65+,0.01,3.84
-1683,EU (with UK until 2019),2020,Male,0-4,0.0,0.0
-1684,EU (with UK until 2019),2020,Male,15-19,0.0,2.01
-1685,EU (with UK until 2019),2020,Male,20-24,0.02,3.35
-1686,EU (with UK until 2019),2020,Male,25-34,0.08,11.390000000000002
-1687,EU (with UK until 2019),2020,Male,35-44,0.06,16.08
-1688,EU (with UK until 2019),2020,Male,45-54,0.04,14.74
-1689,EU (with UK until 2019),2020,Male,5-14,0.0,0.0
-1690,EU (with UK until 2019),2020,Male,55-64,0.02,9.38
-1691,EU (with UK until 2019),2020,Male,65+,0.02,8.04
-1692,EU (with UK until 2019),2021,Female,0-4,0.0,0.0
-1693,EU (with UK until 2019),2021,Female,15-19,0.0,0.8999999999999999
-1694,EU (with UK until 2019),2021,Female,20-24,0.01,1.7999999999999998
-1695,EU (with UK until 2019),2021,Female,25-34,0.04,5.1000000000000005
-1696,EU (with UK until 2019),2021,Female,35-44,0.04,6.3
-1697,EU (with UK until 2019),2021,Female,45-54,0.03,5.699999999999999
-1698,EU (with UK until 2019),2021,Female,5-14,0.0,0.0
-1699,EU (with UK until 2019),2021,Female,55-64,0.02,4.5
-1700,EU (with UK until 2019),2021,Female,65+,0.01,4.5
-1701,EU (with UK until 2019),2021,Male,0-4,0.0,0.0
-1702,EU (with UK until 2019),2021,Male,15-19,0.0,2.0699999999999994
-1703,EU (with UK until 2019),2021,Male,20-24,0.02,4.139999999999999
-1704,EU (with UK until 2019),2021,Male,25-34,0.08,11.73
-1705,EU (with UK until 2019),2021,Male,35-44,0.08,14.489999999999997
-1706,EU (with UK until 2019),2021,Male,45-54,0.06,13.11
-1707,EU (with UK until 2019),2021,Male,5-14,0.0,0.0
-1708,EU (with UK until 2019),2021,Male,55-64,0.04,10.35
-1709,EU (with UK until 2019),2021,Male,65+,0.02,10.35
-1710,EU (with UK until 2019),2022,Female,0-4,0.0,0.0
-1711,EU (with UK until 2019),2022,Female,15-19,0.0,0.66
-1712,EU (with UK until 2019),2022,Female,20-24,0.06,1.65
-1713,EU (with UK until 2019),2022,Female,25-34,0.12,4.95
-1714,EU (with UK until 2019),2022,Female,35-44,0.21,6.93
-1715,EU (with UK until 2019),2022,Female,45-54,0.15,6.6000000000000005
-1716,EU (with UK until 2019),2022,Female,5-14,0.0,0.0
-1717,EU (with UK until 2019),2022,Female,55-64,0.12,5.28
-1718,EU (with UK until 2019),2022,Female,65+,0.06,5.28
-1719,EU (with UK until 2019),2022,Male,0-4,0.0,0.0
-1720,EU (with UK until 2019),2022,Male,15-19,0.0,1.32
-1721,EU (with UK until 2019),2022,Male,20-24,0.08,3.3000000000000003
-1722,EU (with UK until 2019),2022,Male,25-34,0.16,9.9
-1723,EU (with UK until 2019),2022,Male,35-44,0.28,13.86
-1724,EU (with UK until 2019),2022,Male,45-54,0.2,13.2
-1725,EU (with UK until 2019),2022,Male,5-14,0.0,0.0
-1726,EU (with UK until 2019),2022,Male,55-64,0.16,10.56
-1727,EU (with UK until 2019),2022,Male,65+,0.08,10.56
-1728,EU (with UK until 2019),2023,Female,0-4,0.0,0.0
-1729,EU (with UK until 2019),2023,Female,15-19,0.04,0.64
-1730,EU (with UK until 2019),2023,Female,20-24,0.08,1.6
-1731,EU (with UK until 2019),2023,Female,25-34,0.24,5.12
-1732,EU (with UK until 2019),2023,Female,35-44,0.36,7.04
-1733,EU (with UK until 2019),2023,Female,45-54,0.28,6.4
-1734,EU (with UK until 2019),2023,Female,5-14,0.0,0.0
-1735,EU (with UK until 2019),2023,Female,55-64,0.2,5.44
-1736,EU (with UK until 2019),2023,Female,65+,0.12,4.8
-1737,EU (with UK until 2019),2023,Male,0-4,0.0,0.0
-1738,EU (with UK until 2019),2023,Male,15-19,0.05,1.34
-1739,EU (with UK until 2019),2023,Male,20-24,0.1,3.35
-1740,EU (with UK until 2019),2023,Male,25-34,0.3,10.72
-1741,EU (with UK until 2019),2023,Male,35-44,0.4499999999999999,14.74
-1742,EU (with UK until 2019),2023,Male,45-54,0.35,13.4
-1743,EU (with UK until 2019),2023,Male,5-14,0.0,0.0
-1744,EU (with UK until 2019),2023,Male,55-64,0.25,11.390000000000002
-1745,EU (with UK until 2019),2023,Male,65+,0.15,10.05
-1746,EU (without UK),2006,Female,0-4,0.0,0.0
-1747,EU (without UK),2006,Female,15-19,0.04,3.15
-1748,EU (without UK),2006,Female,20-24,0.1,5.25
-1749,EU (without UK),2006,Female,25-34,0.14,8.399999999999999
-1750,EU (without UK),2006,Female,35-44,0.06,6.649999999999999
-1751,EU (without UK),2006,Female,45-54,0.02,4.55
-1752,EU (without UK),2006,Female,5-14,0.0,0.35
-1753,EU (without UK),2006,Female,55-64,0.02,2.8
-1754,EU (without UK),2006,Female,65+,0.0,1.7499999999999998
-1755,EU (without UK),2006,Male,0-4,0.0,0.0
-1756,EU (without UK),2006,Male,15-19,0.04,5.76
-1757,EU (without UK),2006,Male,20-24,0.1,9.6
-1758,EU (without UK),2006,Male,25-34,0.14,15.36
-1759,EU (without UK),2006,Male,35-44,0.06,12.16
-1760,EU (without UK),2006,Male,45-54,0.02,8.32
-1761,EU (without UK),2006,Male,5-14,0.0,0.64
-1762,EU (without UK),2006,Male,55-64,0.02,5.12
-1763,EU (without UK),2006,Male,65+,0.0,3.2
-1764,EU (without UK),2007,Female,0-4,0.0,0.0
-1765,EU (without UK),2007,Female,15-19,0.04,2.24
-1766,EU (without UK),2007,Female,20-24,0.14,4.16
-1767,EU (without UK),2007,Female,25-34,0.16,8.64
-1768,EU (without UK),2007,Female,35-44,0.08,6.4
-1769,EU (without UK),2007,Female,45-54,0.04,4.16
-1770,EU (without UK),2007,Female,5-14,0.0,0.32
-1771,EU (without UK),2007,Female,55-64,0.02,2.56
-1772,EU (without UK),2007,Female,65+,0.0,1.92
-1773,EU (without UK),2007,Male,0-4,0.0,0.0
-1774,EU (without UK),2007,Male,15-19,0.06,4.69
-1775,EU (without UK),2007,Male,20-24,0.21,8.71
-1776,EU (without UK),2007,Male,25-34,0.24,18.090000000000003
-1777,EU (without UK),2007,Male,35-44,0.12,13.4
-1778,EU (without UK),2007,Male,45-54,0.06,8.71
-1779,EU (without UK),2007,Male,5-14,0.0,0.67
-1780,EU (without UK),2007,Male,55-64,0.03,5.36
-1781,EU (without UK),2007,Male,65+,0.0,4.02
-1782,EU (without UK),2008,Female,0-4,0.0,0.0
-1783,EU (without UK),2008,Female,15-19,0.04,1.55
-1784,EU (without UK),2008,Female,20-24,0.14,3.72
-1785,EU (without UK),2008,Female,25-34,0.16,8.68
-1786,EU (without UK),2008,Female,35-44,0.08,6.509999999999999
-1787,EU (without UK),2008,Female,45-54,0.04,4.34
-1788,EU (without UK),2008,Female,5-14,0.0,0.31
-1789,EU (without UK),2008,Female,55-64,0.02,2.48
-1790,EU (without UK),2008,Female,65+,0.0,1.86
-1791,EU (without UK),2008,Male,0-4,0.0,0.0
-1792,EU (without UK),2008,Male,15-19,0.06,3.4000000000000004
-1793,EU (without UK),2008,Male,20-24,0.21,8.16
-1794,EU (without UK),2008,Male,25-34,0.24,19.040000000000003
-1795,EU (without UK),2008,Male,35-44,0.12,14.28
-1796,EU (without UK),2008,Male,45-54,0.06,9.52
-1797,EU (without UK),2008,Male,5-14,0.0,0.68
-1798,EU (without UK),2008,Male,55-64,0.03,5.44
-1799,EU (without UK),2008,Male,65+,0.0,4.08
-1800,EU (without UK),2009,Female,0-4,0.0,0.0
-1801,EU (without UK),2009,Female,15-19,0.06,1.28
-1802,EU (without UK),2009,Female,20-24,0.14,3.84
-1803,EU (without UK),2009,Female,25-34,0.16,8.32
-1804,EU (without UK),2009,Female,35-44,0.08,6.72
-1805,EU (without UK),2009,Female,45-54,0.04,4.48
-1806,EU (without UK),2009,Female,5-14,0.0,0.32
-1807,EU (without UK),2009,Female,55-64,0.04,2.88
-1808,EU (without UK),2009,Female,65+,0.0,2.24
-1809,EU (without UK),2009,Male,0-4,0.0,0.0
-1810,EU (without UK),2009,Male,15-19,0.09,2.68
-1811,EU (without UK),2009,Male,20-24,0.21,8.04
-1812,EU (without UK),2009,Male,25-34,0.24,17.42
-1813,EU (without UK),2009,Male,35-44,0.12,14.07
-1814,EU (without UK),2009,Male,45-54,0.06,9.38
-1815,EU (without UK),2009,Male,5-14,0.0,0.67
-1816,EU (without UK),2009,Male,55-64,0.06,6.03
-1817,EU (without UK),2009,Male,65+,0.0,4.69
-1818,EU (without UK),2010,Female,0-4,0.0,0.0
-1819,EU (without UK),2010,Female,15-19,0.06,0.93
-1820,EU (without UK),2010,Female,20-24,0.12,3.41
-1821,EU (without UK),2010,Female,25-34,0.16,8.06
-1822,EU (without UK),2010,Female,35-44,0.08,6.2
-1823,EU (without UK),2010,Female,45-54,0.04,4.65
-1824,EU (without UK),2010,Female,5-14,0.0,0.0
-1825,EU (without UK),2010,Female,55-64,0.04,3.1
-1826,EU (without UK),2010,Female,65+,0.0,2.79
-1827,EU (without UK),2010,Male,0-4,0.0,0.0
-1828,EU (without UK),2010,Male,15-19,0.09,2.04
-1829,EU (without UK),2010,Male,20-24,0.18,7.48
-1830,EU (without UK),2010,Male,25-34,0.24,17.68
-1831,EU (without UK),2010,Male,35-44,0.12,13.6
-1832,EU (without UK),2010,Male,45-54,0.06,10.2
-1833,EU (without UK),2010,Male,5-14,0.0,0.0
-1834,EU (without UK),2010,Male,55-64,0.06,6.800000000000001
-1835,EU (without UK),2010,Male,65+,0.0,6.12
-1836,EU (without UK),2011,Female,0-4,0.0,0.0
-1837,EU (without UK),2011,Female,15-19,0.04,0.96
-1838,EU (without UK),2011,Female,20-24,0.1,3.2
-1839,EU (without UK),2011,Female,25-34,0.14,8.64
-1840,EU (without UK),2011,Female,35-44,0.06,6.72
-1841,EU (without UK),2011,Female,45-54,0.04,4.8
-1842,EU (without UK),2011,Female,5-14,0.0,0.0
-1843,EU (without UK),2011,Female,55-64,0.02,3.2
-1844,EU (without UK),2011,Female,65+,0.0,2.88
-1845,EU (without UK),2011,Male,0-4,0.0,0.0
-1846,EU (without UK),2011,Male,15-19,0.06,2.01
-1847,EU (without UK),2011,Male,20-24,0.15,6.7
-1848,EU (without UK),2011,Male,25-34,0.21,18.090000000000003
-1849,EU (without UK),2011,Male,35-44,0.09,14.07
-1850,EU (without UK),2011,Male,45-54,0.06,10.05
-1851,EU (without UK),2011,Male,5-14,0.0,0.0
-1852,EU (without UK),2011,Male,55-64,0.03,6.7
-1853,EU (without UK),2011,Male,65+,0.0,6.03
-1854,EU (without UK),2012,Female,0-4,0.0,0.0
-1855,EU (without UK),2012,Female,15-19,0.04,0.8699999999999999
-1856,EU (without UK),2012,Female,20-24,0.08,2.03
-1857,EU (without UK),2012,Female,25-34,0.14,6.959999999999999
-1858,EU (without UK),2012,Female,35-44,0.06,6.959999999999999
-1859,EU (without UK),2012,Female,45-54,0.04,4.930000000000001
-1860,EU (without UK),2012,Female,5-14,0.0,0.0
-1861,EU (without UK),2012,Female,55-64,0.02,3.4799999999999995
-1862,EU (without UK),2012,Female,65+,0.0,2.32
-1863,EU (without UK),2012,Male,0-4,0.0,0.0
-1864,EU (without UK),2012,Male,15-19,0.06,2.1
-1865,EU (without UK),2012,Male,20-24,0.12,4.9
-1866,EU (without UK),2012,Male,25-34,0.21,16.799999999999997
-1867,EU (without UK),2012,Male,35-44,0.09,16.799999999999997
-1868,EU (without UK),2012,Male,45-54,0.06,11.9
-1869,EU (without UK),2012,Male,5-14,0.0,0.0
-1870,EU (without UK),2012,Male,55-64,0.03,8.399999999999999
-1871,EU (without UK),2012,Male,65+,0.0,5.6
-1872,EU (without UK),2013,Female,0-4,0.0,0.32
-1873,EU (without UK),2013,Female,15-19,0.02,0.64
-1874,EU (without UK),2013,Female,20-24,0.03,2.24
-1875,EU (without UK),2013,Female,25-34,0.06,8.0
-1876,EU (without UK),2013,Female,35-44,0.04,8.0
-1877,EU (without UK),2013,Female,45-54,0.02,5.12
-1878,EU (without UK),2013,Female,5-14,0.0,0.32
-1879,EU (without UK),2013,Female,55-64,0.01,3.2
-1880,EU (without UK),2013,Female,65+,0.0,3.2
-1881,EU (without UK),2013,Male,0-4,0.0,0.67
-1882,EU (without UK),2013,Male,15-19,0.04,1.34
-1883,EU (without UK),2013,Male,20-24,0.06,4.69
-1884,EU (without UK),2013,Male,25-34,0.12,16.75
-1885,EU (without UK),2013,Male,35-44,0.08,16.75
-1886,EU (without UK),2013,Male,45-54,0.04,10.72
-1887,EU (without UK),2013,Male,5-14,0.0,0.67
-1888,EU (without UK),2013,Male,55-64,0.02,6.7
-1889,EU (without UK),2013,Male,65+,0.0,6.7
-1890,EU (without UK),2014,Female,0-4,0.0,0.0
-1891,EU (without UK),2014,Female,15-19,0.04,0.93
-1892,EU (without UK),2014,Female,20-24,0.08,1.86
-1893,EU (without UK),2014,Female,25-34,0.12,7.439999999999999
-1894,EU (without UK),2014,Female,35-44,0.08,7.13
-1895,EU (without UK),2014,Female,45-54,0.04,5.579999999999999
-1896,EU (without UK),2014,Female,5-14,0.0,0.0
-1897,EU (without UK),2014,Female,55-64,0.02,3.72
-1898,EU (without UK),2014,Female,65+,0.0,3.1
-1899,EU (without UK),2014,Male,0-4,0.0,0.0
-1900,EU (without UK),2014,Male,15-19,0.06,2.04
-1901,EU (without UK),2014,Male,20-24,0.12,4.08
-1902,EU (without UK),2014,Male,25-34,0.18,16.32
-1903,EU (without UK),2014,Male,35-44,0.12,15.64
-1904,EU (without UK),2014,Male,45-54,0.06,12.24
-1905,EU (without UK),2014,Male,5-14,0.0,0.0
-1906,EU (without UK),2014,Male,55-64,0.03,8.16
-1907,EU (without UK),2014,Male,65+,0.0,6.800000000000001
-1908,EU (without UK),2015,Female,0-4,0.0,0.0
-1909,EU (without UK),2015,Female,15-19,0.06,0.93
-1910,EU (without UK),2015,Female,20-24,0.08,1.86
-1911,EU (without UK),2015,Female,25-34,0.12,6.819999999999999
-1912,EU (without UK),2015,Female,35-44,0.1,6.819999999999999
-1913,EU (without UK),2015,Female,45-54,0.04,6.2
-1914,EU (without UK),2015,Female,5-14,0.0,0.0
-1915,EU (without UK),2015,Female,55-64,0.02,3.41
-1916,EU (without UK),2015,Female,65+,0.0,3.41
-1917,EU (without UK),2015,Male,0-4,0.0,0.0
-1918,EU (without UK),2015,Male,15-19,0.09,2.04
-1919,EU (without UK),2015,Male,20-24,0.12,4.08
-1920,EU (without UK),2015,Male,25-34,0.18,14.96
-1921,EU (without UK),2015,Male,35-44,0.15,14.96
-1922,EU (without UK),2015,Male,45-54,0.06,13.6
-1923,EU (without UK),2015,Male,5-14,0.0,0.0
-1924,EU (without UK),2015,Male,55-64,0.03,7.48
-1925,EU (without UK),2015,Male,65+,0.0,7.48
-1926,EU (without UK),2016,Female,0-4,0.0,0.0
-1927,EU (without UK),2016,Female,15-19,0.08,1.24
-1928,EU (without UK),2016,Female,20-24,0.08,1.55
-1929,EU (without UK),2016,Female,25-34,0.12,6.819999999999999
-1930,EU (without UK),2016,Female,35-44,0.08,6.819999999999999
-1931,EU (without UK),2016,Female,45-54,0.06,5.89
-1932,EU (without UK),2016,Female,5-14,0.0,0.0
-1933,EU (without UK),2016,Female,55-64,0.04,3.72
-1934,EU (without UK),2016,Female,65+,0.02,3.1
-1935,EU (without UK),2016,Male,0-4,0.0,0.0
-1936,EU (without UK),2016,Male,15-19,0.12,2.72
-1937,EU (without UK),2016,Male,20-24,0.12,3.4000000000000004
-1938,EU (without UK),2016,Male,25-34,0.18,14.96
-1939,EU (without UK),2016,Male,35-44,0.12,14.96
-1940,EU (without UK),2016,Male,45-54,0.09,12.920000000000002
-1941,EU (without UK),2016,Male,5-14,0.0,0.0
-1942,EU (without UK),2016,Male,55-64,0.06,8.16
-1943,EU (without UK),2016,Male,65+,0.03,6.800000000000001
-1944,EU (without UK),2017,Female,0-4,0.0,0.0
-1945,EU (without UK),2017,Female,15-19,0.02,1.2
-1946,EU (without UK),2017,Female,20-24,0.04,1.5
-1947,EU (without UK),2017,Female,25-34,0.1,5.699999999999999
-1948,EU (without UK),2017,Female,35-44,0.08,6.3
-1949,EU (without UK),2017,Female,45-54,0.04,6.6000000000000005
-1950,EU (without UK),2017,Female,5-14,0.0,0.0
-1951,EU (without UK),2017,Female,55-64,0.02,3.9
-1952,EU (without UK),2017,Female,65+,0.0,3.3000000000000003
-1953,EU (without UK),2017,Male,0-4,0.0,0.0
-1954,EU (without UK),2017,Male,15-19,0.02,2.76
-1955,EU (without UK),2017,Male,20-24,0.04,3.45
-1956,EU (without UK),2017,Male,25-34,0.1,13.11
-1957,EU (without UK),2017,Male,35-44,0.08,14.489999999999997
-1958,EU (without UK),2017,Male,45-54,0.04,15.18
-1959,EU (without UK),2017,Male,5-14,0.0,0.0
-1960,EU (without UK),2017,Male,55-64,0.02,8.97
-1961,EU (without UK),2017,Male,65+,0.0,7.59
-1962,EU (without UK),2018,Female,0-4,0.0,0.0
-1963,EU (without UK),2018,Female,15-19,0.01,0.96
-1964,EU (without UK),2018,Female,20-24,0.02,1.6
-1965,EU (without UK),2018,Female,25-34,0.05,5.76
-1966,EU (without UK),2018,Female,35-44,0.04,7.04
-1967,EU (without UK),2018,Female,45-54,0.02,6.4
-1968,EU (without UK),2018,Female,5-14,0.0,0.0
-1969,EU (without UK),2018,Female,55-64,0.02,4.48
-1970,EU (without UK),2018,Female,65+,0.0,4.16
-1971,EU (without UK),2018,Male,0-4,0.0,0.0
-1972,EU (without UK),2018,Male,15-19,0.02,2.01
-1973,EU (without UK),2018,Male,20-24,0.04,3.35
-1974,EU (without UK),2018,Male,25-34,0.1,12.06
-1975,EU (without UK),2018,Male,35-44,0.08,14.74
-1976,EU (without UK),2018,Male,45-54,0.04,13.4
-1977,EU (without UK),2018,Male,5-14,0.0,0.0
-1978,EU (without UK),2018,Male,55-64,0.04,9.38
-1979,EU (without UK),2018,Male,65+,0.0,8.71
-1980,EU (without UK),2019,Female,0-4,0.0,0.0
-1981,EU (without UK),2019,Female,15-19,0.03,0.96
-1982,EU (without UK),2019,Female,20-24,0.09,1.92
-1983,EU (without UK),2019,Female,25-34,0.24,6.08
-1984,EU (without UK),2019,Female,35-44,0.21,6.72
-1985,EU (without UK),2019,Female,45-54,0.15,6.4
-1986,EU (without UK),2019,Female,5-14,0.0,0.32
-1987,EU (without UK),2019,Female,55-64,0.09,4.48
-1988,EU (without UK),2019,Female,65+,0.03,3.84
-1989,EU (without UK),2019,Male,0-4,0.0,0.0
-1990,EU (without UK),2019,Male,15-19,0.04,2.01
-1991,EU (without UK),2019,Male,20-24,0.12,4.02
-1992,EU (without UK),2019,Male,25-34,0.32,12.73
-1993,EU (without UK),2019,Male,35-44,0.28,14.07
-1994,EU (without UK),2019,Male,45-54,0.2,13.4
-1995,EU (without UK),2019,Male,5-14,0.0,0.67
-1996,EU (without UK),2019,Male,55-64,0.12,9.38
-1997,EU (without UK),2019,Male,65+,0.04,8.04
-1998,EU (without UK),2020,Female,0-4,0.0,0.0
-1999,EU (without UK),2020,Female,15-19,0.0,0.96
-2000,EU (without UK),2020,Female,20-24,0.01,1.6
-2001,EU (without UK),2020,Female,25-34,0.04,5.44
-2002,EU (without UK),2020,Female,35-44,0.03,7.68
-2003,EU (without UK),2020,Female,45-54,0.02,7.04
-2004,EU (without UK),2020,Female,5-14,0.0,0.0
-2005,EU (without UK),2020,Female,55-64,0.01,4.48
-2006,EU (without UK),2020,Female,65+,0.01,3.84
-2007,EU (without UK),2020,Male,0-4,0.0,0.0
-2008,EU (without UK),2020,Male,15-19,0.0,2.01
-2009,EU (without UK),2020,Male,20-24,0.02,3.35
-2010,EU (without UK),2020,Male,25-34,0.08,11.390000000000002
-2011,EU (without UK),2020,Male,35-44,0.06,16.08
-2012,EU (without UK),2020,Male,45-54,0.04,14.74
-2013,EU (without UK),2020,Male,5-14,0.0,0.0
-2014,EU (without UK),2020,Male,55-64,0.02,9.38
-2015,EU (without UK),2020,Male,65+,0.02,8.04
-2016,EU (without UK),2021,Female,0-4,0.0,0.0
-2017,EU (without UK),2021,Female,15-19,0.0,0.8999999999999999
-2018,EU (without UK),2021,Female,20-24,0.01,1.7999999999999998
-2019,EU (without UK),2021,Female,25-34,0.04,5.1000000000000005
-2020,EU (without UK),2021,Female,35-44,0.04,6.3
-2021,EU (without UK),2021,Female,45-54,0.03,5.699999999999999
-2022,EU (without UK),2021,Female,5-14,0.0,0.0
-2023,EU (without UK),2021,Female,55-64,0.02,4.5
-2024,EU (without UK),2021,Female,65+,0.01,4.5
-2025,EU (without UK),2021,Male,0-4,0.0,0.0
-2026,EU (without UK),2021,Male,15-19,0.0,2.0699999999999994
-2027,EU (without UK),2021,Male,20-24,0.02,4.139999999999999
-2028,EU (without UK),2021,Male,25-34,0.08,11.73
-2029,EU (without UK),2021,Male,35-44,0.08,14.489999999999997
-2030,EU (without UK),2021,Male,45-54,0.06,13.11
-2031,EU (without UK),2021,Male,5-14,0.0,0.0
-2032,EU (without UK),2021,Male,55-64,0.04,10.35
-2033,EU (without UK),2021,Male,65+,0.02,10.35
-2034,EU (without UK),2022,Female,0-4,0.0,0.0
-2035,EU (without UK),2022,Female,15-19,0.0,0.66
-2036,EU (without UK),2022,Female,20-24,0.06,1.65
-2037,EU (without UK),2022,Female,25-34,0.12,4.95
-2038,EU (without UK),2022,Female,35-44,0.21,6.93
-2039,EU (without UK),2022,Female,45-54,0.15,6.6000000000000005
-2040,EU (without UK),2022,Female,5-14,0.0,0.0
-2041,EU (without UK),2022,Female,55-64,0.12,5.28
-2042,EU (without UK),2022,Female,65+,0.06,5.28
-2043,EU (without UK),2022,Male,0-4,0.0,0.0
-2044,EU (without UK),2022,Male,15-19,0.0,1.32
-2045,EU (without UK),2022,Male,20-24,0.08,3.3000000000000003
-2046,EU (without UK),2022,Male,25-34,0.16,9.9
-2047,EU (without UK),2022,Male,35-44,0.28,13.86
-2048,EU (without UK),2022,Male,45-54,0.2,13.2
-2049,EU (without UK),2022,Male,5-14,0.0,0.0
-2050,EU (without UK),2022,Male,55-64,0.16,10.56
-2051,EU (without UK),2022,Male,65+,0.08,10.56
-2052,EU (without UK),2023,Female,0-4,0.0,0.0
-2053,EU (without UK),2023,Female,15-19,0.04,0.64
-2054,EU (without UK),2023,Female,20-24,0.08,1.6
-2055,EU (without UK),2023,Female,25-34,0.24,5.12
-2056,EU (without UK),2023,Female,35-44,0.36,7.04
-2057,EU (without UK),2023,Female,45-54,0.28,6.4
-2058,EU (without UK),2023,Female,5-14,0.0,0.0
-2059,EU (without UK),2023,Female,55-64,0.2,5.44
-2060,EU (without UK),2023,Female,65+,0.12,4.8
-2061,EU (without UK),2023,Male,0-4,0.0,0.0
-2062,EU (without UK),2023,Male,15-19,0.05,1.34
-2063,EU (without UK),2023,Male,20-24,0.1,3.35
-2064,EU (without UK),2023,Male,25-34,0.3,10.72
-2065,EU (without UK),2023,Male,35-44,0.4499999999999999,14.74
-2066,EU (without UK),2023,Male,45-54,0.35,13.4
-2067,EU (without UK),2023,Male,5-14,0.0,0.0
-2068,EU (without UK),2023,Male,55-64,0.25,11.390000000000002
-2069,EU (without UK),2023,Male,65+,0.15,10.05
-2070,EU/EEA (with UK until 2019),2006,Female,0-4,0.0,0.0
-2071,EU/EEA (with UK until 2019),2006,Female,15-19,0.04,3.06
-2072,EU/EEA (with UK until 2019),2006,Female,20-24,0.12,4.760000000000001
-2073,EU/EEA (with UK until 2019),2006,Female,25-34,0.18,8.16
-2074,EU/EEA (with UK until 2019),2006,Female,35-44,0.08,6.800000000000001
-2075,EU/EEA (with UK until 2019),2006,Female,45-54,0.04,4.42
-2076,EU/EEA (with UK until 2019),2006,Female,5-14,0.0,0.34
-2077,EU/EEA (with UK until 2019),2006,Female,55-64,0.02,2.72
-2078,EU/EEA (with UK until 2019),2006,Female,65+,0.0,1.7000000000000002
-2079,EU/EEA (with UK until 2019),2006,Male,0-4,0.0,0.0
-2080,EU/EEA (with UK until 2019),2006,Male,15-19,0.06,5.85
-2081,EU/EEA (with UK until 2019),2006,Male,20-24,0.18,9.1
-2082,EU/EEA (with UK until 2019),2006,Male,25-34,0.2699999999999999,15.6
-2083,EU/EEA (with UK until 2019),2006,Male,35-44,0.12,13.0
-2084,EU/EEA (with UK until 2019),2006,Male,45-54,0.06,8.450000000000001
-2085,EU/EEA (with UK until 2019),2006,Male,5-14,0.0,0.65
-2086,EU/EEA (with UK until 2019),2006,Male,55-64,0.03,5.2
-2087,EU/EEA (with UK until 2019),2006,Male,65+,0.0,3.25
-2088,EU/EEA (with UK until 2019),2007,Female,0-4,0.0,0.0
-2089,EU/EEA (with UK until 2019),2007,Female,15-19,0.09,2.24
-2090,EU/EEA (with UK until 2019),2007,Female,20-24,0.24,4.16
-2091,EU/EEA (with UK until 2019),2007,Female,25-34,0.33,8.64
-2092,EU/EEA (with UK until 2019),2007,Female,35-44,0.15,6.4
-2093,EU/EEA (with UK until 2019),2007,Female,45-54,0.09,4.48
-2094,EU/EEA (with UK until 2019),2007,Female,5-14,0.0,0.32
-2095,EU/EEA (with UK until 2019),2007,Female,55-64,0.03,2.56
-2096,EU/EEA (with UK until 2019),2007,Female,65+,0.0,1.92
-2097,EU/EEA (with UK until 2019),2007,Male,0-4,0.0,0.0
-2098,EU/EEA (with UK until 2019),2007,Male,15-19,0.12,4.69
-2099,EU/EEA (with UK until 2019),2007,Male,20-24,0.32,8.71
-2100,EU/EEA (with UK until 2019),2007,Male,25-34,0.44,18.090000000000003
-2101,EU/EEA (with UK until 2019),2007,Male,35-44,0.2,13.4
-2102,EU/EEA (with UK until 2019),2007,Male,45-54,0.12,9.38
-2103,EU/EEA (with UK until 2019),2007,Male,5-14,0.0,0.67
-2104,EU/EEA (with UK until 2019),2007,Male,55-64,0.04,5.36
-2105,EU/EEA (with UK until 2019),2007,Male,65+,0.0,4.02
-2106,EU/EEA (with UK until 2019),2008,Female,0-4,0.0,0.0
-2107,EU/EEA (with UK until 2019),2008,Female,15-19,0.09,1.55
-2108,EU/EEA (with UK until 2019),2008,Female,20-24,0.24,3.72
-2109,EU/EEA (with UK until 2019),2008,Female,25-34,0.36,8.68
-2110,EU/EEA (with UK until 2019),2008,Female,35-44,0.18,6.819999999999999
-2111,EU/EEA (with UK until 2019),2008,Female,45-54,0.09,4.34
-2112,EU/EEA (with UK until 2019),2008,Female,5-14,0.0,0.31
-2113,EU/EEA (with UK until 2019),2008,Female,55-64,0.06,2.48
-2114,EU/EEA (with UK until 2019),2008,Female,65+,0.0,1.86
-2115,EU/EEA (with UK until 2019),2008,Male,0-4,0.0,0.0
-2116,EU/EEA (with UK until 2019),2008,Male,15-19,0.12,3.4000000000000004
-2117,EU/EEA (with UK until 2019),2008,Male,20-24,0.32,8.16
-2118,EU/EEA (with UK until 2019),2008,Male,25-34,0.48,19.040000000000003
-2119,EU/EEA (with UK until 2019),2008,Male,35-44,0.24,14.96
-2120,EU/EEA (with UK until 2019),2008,Male,45-54,0.12,9.52
-2121,EU/EEA (with UK until 2019),2008,Male,5-14,0.0,0.68
-2122,EU/EEA (with UK until 2019),2008,Male,55-64,0.08,5.44
-2123,EU/EEA (with UK until 2019),2008,Male,65+,0.0,4.08
-2124,EU/EEA (with UK until 2019),2009,Female,0-4,0.0,0.0
-2125,EU/EEA (with UK until 2019),2009,Female,15-19,0.12,1.28
-2126,EU/EEA (with UK until 2019),2009,Female,20-24,0.2699999999999999,3.84
-2127,EU/EEA (with UK until 2019),2009,Female,25-34,0.3899999999999999,8.32
-2128,EU/EEA (with UK until 2019),2009,Female,35-44,0.21,6.72
-2129,EU/EEA (with UK until 2019),2009,Female,45-54,0.09,4.8
-2130,EU/EEA (with UK until 2019),2009,Female,5-14,0.0,0.32
-2131,EU/EEA (with UK until 2019),2009,Female,55-64,0.06,2.88
-2132,EU/EEA (with UK until 2019),2009,Female,65+,0.03,2.24
-2133,EU/EEA (with UK until 2019),2009,Male,0-4,0.0,0.0
-2134,EU/EEA (with UK until 2019),2009,Male,15-19,0.2,2.68
-2135,EU/EEA (with UK until 2019),2009,Male,20-24,0.4499999999999999,8.04
-2136,EU/EEA (with UK until 2019),2009,Male,25-34,0.65,17.42
-2137,EU/EEA (with UK until 2019),2009,Male,35-44,0.35,14.07
-2138,EU/EEA (with UK until 2019),2009,Male,45-54,0.15,10.05
-2139,EU/EEA (with UK until 2019),2009,Male,5-14,0.0,0.67
-2140,EU/EEA (with UK until 2019),2009,Male,55-64,0.1,6.03
-2141,EU/EEA (with UK until 2019),2009,Male,65+,0.05,4.69
-2142,EU/EEA (with UK until 2019),2010,Female,0-4,0.0,0.0
-2143,EU/EEA (with UK until 2019),2010,Female,15-19,0.16,0.8999999999999999
-2144,EU/EEA (with UK until 2019),2010,Female,20-24,0.36,3.3000000000000003
-2145,EU/EEA (with UK until 2019),2010,Female,25-34,0.52,7.8
-2146,EU/EEA (with UK until 2019),2010,Female,35-44,0.28,6.3
-2147,EU/EEA (with UK until 2019),2010,Female,45-54,0.12,4.5
-2148,EU/EEA (with UK until 2019),2010,Female,5-14,0.0,0.0
-2149,EU/EEA (with UK until 2019),2010,Female,55-64,0.08,3.0
-2150,EU/EEA (with UK until 2019),2010,Female,65+,0.04,2.4
-2151,EU/EEA (with UK until 2019),2010,Male,0-4,0.0,0.0
-2152,EU/EEA (with UK until 2019),2010,Male,15-19,0.2,2.0699999999999994
-2153,EU/EEA (with UK until 2019),2010,Male,20-24,0.4499999999999999,7.59
-2154,EU/EEA (with UK until 2019),2010,Male,25-34,0.65,17.94
-2155,EU/EEA (with UK until 2019),2010,Male,35-44,0.35,14.489999999999997
-2156,EU/EEA (with UK until 2019),2010,Male,45-54,0.15,10.35
-2157,EU/EEA (with UK until 2019),2010,Male,5-14,0.0,0.0
-2158,EU/EEA (with UK until 2019),2010,Male,55-64,0.1,6.9
-2159,EU/EEA (with UK until 2019),2010,Male,65+,0.05,5.52
-2160,EU/EEA (with UK until 2019),2011,Female,0-4,0.0,0.0
-2161,EU/EEA (with UK until 2019),2011,Female,15-19,0.12,0.96
-2162,EU/EEA (with UK until 2019),2011,Female,20-24,0.36,3.2
-2163,EU/EEA (with UK until 2019),2011,Female,25-34,0.56,8.64
-2164,EU/EEA (with UK until 2019),2011,Female,35-44,0.32,7.04
-2165,EU/EEA (with UK until 2019),2011,Female,45-54,0.16,5.12
-2166,EU/EEA (with UK until 2019),2011,Female,5-14,0.0,0.0
-2167,EU/EEA (with UK until 2019),2011,Female,55-64,0.12,3.2
-2168,EU/EEA (with UK until 2019),2011,Female,65+,0.04,2.56
-2169,EU/EEA (with UK until 2019),2011,Male,0-4,0.0,0.0
-2170,EU/EEA (with UK until 2019),2011,Male,15-19,0.15,2.01
-2171,EU/EEA (with UK until 2019),2011,Male,20-24,0.4499999999999999,6.7
-2172,EU/EEA (with UK until 2019),2011,Male,25-34,0.7000000000000001,18.090000000000003
-2173,EU/EEA (with UK until 2019),2011,Male,35-44,0.4,14.74
-2174,EU/EEA (with UK until 2019),2011,Male,45-54,0.2,10.72
-2175,EU/EEA (with UK until 2019),2011,Male,5-14,0.0,0.0
-2176,EU/EEA (with UK until 2019),2011,Male,55-64,0.15,6.7
-2177,EU/EEA (with UK until 2019),2011,Male,65+,0.05,5.36
-2178,EU/EEA (with UK until 2019),2012,Female,0-4,0.0,0.0
-2179,EU/EEA (with UK until 2019),2012,Female,15-19,0.12,0.58
-2180,EU/EEA (with UK until 2019),2012,Female,20-24,0.36,2.32
-2181,EU/EEA (with UK until 2019),2012,Female,25-34,0.6,6.959999999999999
-2182,EU/EEA (with UK until 2019),2012,Female,35-44,0.36,6.959999999999999
-2183,EU/EEA (with UK until 2019),2012,Female,45-54,0.16,4.930000000000001
-2184,EU/EEA (with UK until 2019),2012,Female,5-14,0.0,0.0
-2185,EU/EEA (with UK until 2019),2012,Female,55-64,0.12,3.4799999999999995
-2186,EU/EEA (with UK until 2019),2012,Female,65+,0.04,2.32
-2187,EU/EEA (with UK until 2019),2012,Male,0-4,0.0,0.0
-2188,EU/EEA (with UK until 2019),2012,Male,15-19,0.18,1.4
-2189,EU/EEA (with UK until 2019),2012,Male,20-24,0.5399999999999999,5.6
-2190,EU/EEA (with UK until 2019),2012,Male,25-34,0.8999999999999999,16.799999999999997
-2191,EU/EEA (with UK until 2019),2012,Male,35-44,0.5399999999999999,16.799999999999997
-2192,EU/EEA (with UK until 2019),2012,Male,45-54,0.24,11.9
-2193,EU/EEA (with UK until 2019),2012,Male,5-14,0.0,0.0
-2194,EU/EEA (with UK until 2019),2012,Male,55-64,0.18,8.399999999999999
-2195,EU/EEA (with UK until 2019),2012,Male,65+,0.06,5.6
-2196,EU/EEA (with UK until 2019),2013,Female,0-4,0.0,0.0
-2197,EU/EEA (with UK until 2019),2013,Female,15-19,0.12,0.93
-2198,EU/EEA (with UK until 2019),2013,Female,20-24,0.32,2.48
-2199,EU/EEA (with UK until 2019),2013,Female,25-34,0.52,7.75
-2200,EU/EEA (with UK until 2019),2013,Female,35-44,0.36,7.439999999999999
-2201,EU/EEA (with UK until 2019),2013,Female,45-54,0.16,5.2700000000000005
-2202,EU/EEA (with UK until 2019),2013,Female,5-14,0.0,0.31
-2203,EU/EEA (with UK until 2019),2013,Female,55-64,0.08,3.1
-2204,EU/EEA (with UK until 2019),2013,Female,65+,0.04,2.79
-2205,EU/EEA (with UK until 2019),2013,Male,0-4,0.0,0.0
-2206,EU/EEA (with UK until 2019),2013,Male,15-19,0.15,2.04
-2207,EU/EEA (with UK until 2019),2013,Male,20-24,0.4,5.44
-2208,EU/EEA (with UK until 2019),2013,Male,25-34,0.65,17.0
-2209,EU/EEA (with UK until 2019),2013,Male,35-44,0.4499999999999999,16.32
-2210,EU/EEA (with UK until 2019),2013,Male,45-54,0.2,11.560000000000002
-2211,EU/EEA (with UK until 2019),2013,Male,5-14,0.0,0.68
-2212,EU/EEA (with UK until 2019),2013,Male,55-64,0.1,6.800000000000001
-2213,EU/EEA (with UK until 2019),2013,Male,65+,0.05,6.12
-2214,EU/EEA (with UK until 2019),2014,Female,0-4,0.0,0.0
-2215,EU/EEA (with UK until 2019),2014,Female,15-19,0.08,0.93
-2216,EU/EEA (with UK until 2019),2014,Female,20-24,0.28,1.86
-2217,EU/EEA (with UK until 2019),2014,Female,25-34,0.56,7.13
-2218,EU/EEA (with UK until 2019),2014,Female,35-44,0.4,6.819999999999999
-2219,EU/EEA (with UK until 2019),2014,Female,45-54,0.2,5.89
-2220,EU/EEA (with UK until 2019),2014,Female,5-14,0.0,0.0
-2221,EU/EEA (with UK until 2019),2014,Female,55-64,0.12,3.72
-2222,EU/EEA (with UK until 2019),2014,Female,65+,0.04,3.1
-2223,EU/EEA (with UK until 2019),2014,Male,0-4,0.0,0.0
-2224,EU/EEA (with UK until 2019),2014,Male,15-19,0.12,2.04
-2225,EU/EEA (with UK until 2019),2014,Male,20-24,0.42,4.08
-2226,EU/EEA (with UK until 2019),2014,Male,25-34,0.8400000000000001,15.64
-2227,EU/EEA (with UK until 2019),2014,Male,35-44,0.6,14.96
-2228,EU/EEA (with UK until 2019),2014,Male,45-54,0.3,12.920000000000002
-2229,EU/EEA (with UK until 2019),2014,Male,5-14,0.0,0.0
-2230,EU/EEA (with UK until 2019),2014,Male,55-64,0.18,8.16
-2231,EU/EEA (with UK until 2019),2014,Male,65+,0.06,6.800000000000001
-2232,EU/EEA (with UK until 2019),2015,Female,0-4,0.0,0.0
-2233,EU/EEA (with UK until 2019),2015,Female,15-19,0.16,0.93
-2234,EU/EEA (with UK until 2019),2015,Female,20-24,0.28,1.86
-2235,EU/EEA (with UK until 2019),2015,Female,25-34,0.6,6.819999999999999
-2236,EU/EEA (with UK until 2019),2015,Female,35-44,0.48,7.13
-2237,EU/EEA (with UK until 2019),2015,Female,45-54,0.24,6.2
-2238,EU/EEA (with UK until 2019),2015,Female,5-14,0.0,0.0
-2239,EU/EEA (with UK until 2019),2015,Female,55-64,0.12,3.72
-2240,EU/EEA (with UK until 2019),2015,Female,65+,0.04,3.1
-2241,EU/EEA (with UK until 2019),2015,Male,0-4,0.0,0.0
-2242,EU/EEA (with UK until 2019),2015,Male,15-19,0.28,2.04
-2243,EU/EEA (with UK until 2019),2015,Male,20-24,0.49,4.08
-2244,EU/EEA (with UK until 2019),2015,Male,25-34,1.05,14.96
-2245,EU/EEA (with UK until 2019),2015,Male,35-44,0.8400000000000001,15.64
-2246,EU/EEA (with UK until 2019),2015,Male,45-54,0.42,13.6
-2247,EU/EEA (with UK until 2019),2015,Male,5-14,0.0,0.0
-2248,EU/EEA (with UK until 2019),2015,Male,55-64,0.21,8.16
-2249,EU/EEA (with UK until 2019),2015,Male,65+,0.07,6.800000000000001
-2250,EU/EEA (with UK until 2019),2016,Female,0-4,0.0,0.0
-2251,EU/EEA (with UK until 2019),2016,Female,15-19,0.25,1.24
-2252,EU/EEA (with UK until 2019),2016,Female,20-24,0.35,1.86
-2253,EU/EEA (with UK until 2019),2016,Female,25-34,0.75,6.819999999999999
-2254,EU/EEA (with UK until 2019),2016,Female,35-44,0.55,6.819999999999999
-2255,EU/EEA (with UK until 2019),2016,Female,45-54,0.35,6.2
-2256,EU/EEA (with UK until 2019),2016,Female,5-14,0.0,0.0
-2257,EU/EEA (with UK until 2019),2016,Female,55-64,0.2,3.72
-2258,EU/EEA (with UK until 2019),2016,Female,65+,0.1,3.1
-2259,EU/EEA (with UK until 2019),2016,Male,0-4,0.0,0.0
-2260,EU/EEA (with UK until 2019),2016,Male,15-19,0.35,2.72
-2261,EU/EEA (with UK until 2019),2016,Male,20-24,0.49,4.08
-2262,EU/EEA (with UK until 2019),2016,Male,25-34,1.05,14.96
-2263,EU/EEA (with UK until 2019),2016,Male,35-44,0.7700000000000001,14.96
-2264,EU/EEA (with UK until 2019),2016,Male,45-54,0.49,13.6
-2265,EU/EEA (with UK until 2019),2016,Male,5-14,0.0,0.0
-2266,EU/EEA (with UK until 2019),2016,Male,55-64,0.28,8.16
-2267,EU/EEA (with UK until 2019),2016,Male,65+,0.14,6.800000000000001
-2268,EU/EEA (with UK until 2019),2017,Female,0-4,0.0,0.0
-2269,EU/EEA (with UK until 2019),2017,Female,15-19,0.08,1.24
-2270,EU/EEA (with UK until 2019),2017,Female,20-24,0.2,1.55
-2271,EU/EEA (with UK until 2019),2017,Female,25-34,0.48,6.2
-2272,EU/EEA (with UK until 2019),2017,Female,35-44,0.4,6.509999999999999
-2273,EU/EEA (with UK until 2019),2017,Female,45-54,0.24,6.509999999999999
-2274,EU/EEA (with UK until 2019),2017,Female,5-14,0.0,0.0
-2275,EU/EEA (with UK until 2019),2017,Female,55-64,0.12,4.03
-2276,EU/EEA (with UK until 2019),2017,Female,65+,0.04,3.1
-2277,EU/EEA (with UK until 2019),2017,Male,0-4,0.0,0.0
-2278,EU/EEA (with UK until 2019),2017,Male,15-19,0.12,2.72
-2279,EU/EEA (with UK until 2019),2017,Male,20-24,0.3,3.4000000000000004
-2280,EU/EEA (with UK until 2019),2017,Male,25-34,0.72,13.6
-2281,EU/EEA (with UK until 2019),2017,Male,35-44,0.6,14.28
-2282,EU/EEA (with UK until 2019),2017,Male,45-54,0.36,14.28
-2283,EU/EEA (with UK until 2019),2017,Male,5-14,0.0,0.0
-2284,EU/EEA (with UK until 2019),2017,Male,55-64,0.18,8.84
-2285,EU/EEA (with UK until 2019),2017,Male,65+,0.06,6.800000000000001
-2286,EU/EEA (with UK until 2019),2018,Female,0-4,0.0,0.0
-2287,EU/EEA (with UK until 2019),2018,Female,15-19,0.06,0.99
-2288,EU/EEA (with UK until 2019),2018,Female,20-24,0.12,1.65
-2289,EU/EEA (with UK until 2019),2018,Female,25-34,0.3,6.6000000000000005
-2290,EU/EEA (with UK until 2019),2018,Female,35-44,0.24,7.26
-2291,EU/EEA (with UK until 2019),2018,Female,45-54,0.15,6.6000000000000005
-2292,EU/EEA (with UK until 2019),2018,Female,5-14,0.0,0.0
-2293,EU/EEA (with UK until 2019),2018,Female,55-64,0.09,4.62
-2294,EU/EEA (with UK until 2019),2018,Female,65+,0.03,3.96
-2295,EU/EEA (with UK until 2019),2018,Male,0-4,0.0,0.0
-2296,EU/EEA (with UK until 2019),2018,Male,15-19,0.1,1.98
-2297,EU/EEA (with UK until 2019),2018,Male,20-24,0.2,3.3000000000000003
-2298,EU/EEA (with UK until 2019),2018,Male,25-34,0.5000000000000001,13.2
-2299,EU/EEA (with UK until 2019),2018,Male,35-44,0.4,14.52
-2300,EU/EEA (with UK until 2019),2018,Male,45-54,0.25,13.2
-2301,EU/EEA (with UK until 2019),2018,Male,5-14,0.0,0.0
-2302,EU/EEA (with UK until 2019),2018,Male,55-64,0.15,9.24
-2303,EU/EEA (with UK until 2019),2018,Male,65+,0.05,7.920000000000001
-2304,EU/EEA (with UK until 2019),2019,Female,0-4,0.0,0.0
-2305,EU/EEA (with UK until 2019),2019,Female,15-19,0.08,0.96
-2306,EU/EEA (with UK until 2019),2019,Female,20-24,0.16,1.92
-2307,EU/EEA (with UK until 2019),2019,Female,25-34,0.4,6.08
-2308,EU/EEA (with UK until 2019),2019,Female,35-44,0.36,6.72
-2309,EU/EEA (with UK until 2019),2019,Female,45-54,0.24,6.4
-2310,EU/EEA (with UK until 2019),2019,Female,5-14,0.0,0.0
-2311,EU/EEA (with UK until 2019),2019,Female,55-64,0.12,4.48
-2312,EU/EEA (with UK until 2019),2019,Female,65+,0.08,3.84
-2313,EU/EEA (with UK until 2019),2019,Male,0-4,0.0,0.0
-2314,EU/EEA (with UK until 2019),2019,Male,15-19,0.1,2.01
-2315,EU/EEA (with UK until 2019),2019,Male,20-24,0.2,4.02
-2316,EU/EEA (with UK until 2019),2019,Male,25-34,0.5000000000000001,12.73
-2317,EU/EEA (with UK until 2019),2019,Male,35-44,0.4499999999999999,14.07
-2318,EU/EEA (with UK until 2019),2019,Male,45-54,0.3,13.4
-2319,EU/EEA (with UK until 2019),2019,Male,5-14,0.0,0.0
-2320,EU/EEA (with UK until 2019),2019,Male,55-64,0.15,9.38
-2321,EU/EEA (with UK until 2019),2019,Male,65+,0.1,8.04
-2322,EU/EEA (with UK until 2019),2020,Female,0-4,0.0,0.0
-2323,EU/EEA (with UK until 2019),2020,Female,15-19,0.0,0.96
-2324,EU/EEA (with UK until 2019),2020,Female,20-24,0.01,1.6
-2325,EU/EEA (with UK until 2019),2020,Female,25-34,0.04,5.44
-2326,EU/EEA (with UK until 2019),2020,Female,35-44,0.04,7.359999999999999
-2327,EU/EEA (with UK until 2019),2020,Female,45-54,0.02,7.04
-2328,EU/EEA (with UK until 2019),2020,Female,5-14,0.0,0.0
-2329,EU/EEA (with UK until 2019),2020,Female,55-64,0.01,4.48
-2330,EU/EEA (with UK until 2019),2020,Female,65+,0.01,3.84
-2331,EU/EEA (with UK until 2019),2020,Male,0-4,0.0,0.0
-2332,EU/EEA (with UK until 2019),2020,Male,15-19,0.0,2.01
-2333,EU/EEA (with UK until 2019),2020,Male,20-24,0.02,3.35
-2334,EU/EEA (with UK until 2019),2020,Male,25-34,0.08,11.390000000000002
-2335,EU/EEA (with UK until 2019),2020,Male,35-44,0.08,15.410000000000002
-2336,EU/EEA (with UK until 2019),2020,Male,45-54,0.04,14.74
-2337,EU/EEA (with UK until 2019),2020,Male,5-14,0.0,0.0
-2338,EU/EEA (with UK until 2019),2020,Male,55-64,0.02,9.38
-2339,EU/EEA (with UK until 2019),2020,Male,65+,0.02,8.04
-2340,EU/EEA (with UK until 2019),2021,Female,0-4,0.0,0.0
-2341,EU/EEA (with UK until 2019),2021,Female,15-19,0.0,0.8999999999999999
-2342,EU/EEA (with UK until 2019),2021,Female,20-24,0.02,1.7999999999999998
-2343,EU/EEA (with UK until 2019),2021,Female,25-34,0.08,5.1000000000000005
-2344,EU/EEA (with UK until 2019),2021,Female,35-44,0.08,6.3
-2345,EU/EEA (with UK until 2019),2021,Female,45-54,0.06,5.699999999999999
-2346,EU/EEA (with UK until 2019),2021,Female,5-14,0.0,0.0
-2347,EU/EEA (with UK until 2019),2021,Female,55-64,0.04,4.5
-2348,EU/EEA (with UK until 2019),2021,Female,65+,0.02,4.5
-2349,EU/EEA (with UK until 2019),2021,Male,0-4,0.0,0.0
-2350,EU/EEA (with UK until 2019),2021,Male,15-19,0.0,2.0699999999999994
-2351,EU/EEA (with UK until 2019),2021,Male,20-24,0.02,4.139999999999999
-2352,EU/EEA (with UK until 2019),2021,Male,25-34,0.08,11.73
-2353,EU/EEA (with UK until 2019),2021,Male,35-44,0.08,14.489999999999997
-2354,EU/EEA (with UK until 2019),2021,Male,45-54,0.06,13.11
-2355,EU/EEA (with UK until 2019),2021,Male,5-14,0.0,0.0
-2356,EU/EEA (with UK until 2019),2021,Male,55-64,0.04,10.35
-2357,EU/EEA (with UK until 2019),2021,Male,65+,0.02,10.35
-2358,EU/EEA (with UK until 2019),2022,Female,0-4,0.0,0.0
-2359,EU/EEA (with UK until 2019),2022,Female,15-19,0.0,0.66
-2360,EU/EEA (with UK until 2019),2022,Female,20-24,0.06,1.65
-2361,EU/EEA (with UK until 2019),2022,Female,25-34,0.15,4.95
-2362,EU/EEA (with UK until 2019),2022,Female,35-44,0.21,6.93
-2363,EU/EEA (with UK until 2019),2022,Female,45-54,0.15,6.6000000000000005
-2364,EU/EEA (with UK until 2019),2022,Female,5-14,0.0,0.0
-2365,EU/EEA (with UK until 2019),2022,Female,55-64,0.12,5.28
-2366,EU/EEA (with UK until 2019),2022,Female,65+,0.06,5.28
-2367,EU/EEA (with UK until 2019),2022,Male,0-4,0.0,0.0
-2368,EU/EEA (with UK until 2019),2022,Male,15-19,0.0,1.32
-2369,EU/EEA (with UK until 2019),2022,Male,20-24,0.08,3.3000000000000003
-2370,EU/EEA (with UK until 2019),2022,Male,25-34,0.2,9.9
-2371,EU/EEA (with UK until 2019),2022,Male,35-44,0.28,13.86
-2372,EU/EEA (with UK until 2019),2022,Male,45-54,0.2,13.2
-2373,EU/EEA (with UK until 2019),2022,Male,5-14,0.0,0.0
-2374,EU/EEA (with UK until 2019),2022,Male,55-64,0.16,10.56
-2375,EU/EEA (with UK until 2019),2022,Male,65+,0.08,10.56
-2376,EU/EEA (with UK until 2019),2023,Female,0-4,0.0,0.0
-2377,EU/EEA (with UK until 2019),2023,Female,15-19,0.04,0.64
-2378,EU/EEA (with UK until 2019),2023,Female,20-24,0.08,1.6
-2379,EU/EEA (with UK until 2019),2023,Female,25-34,0.24,5.12
-2380,EU/EEA (with UK until 2019),2023,Female,35-44,0.4,7.04
-2381,EU/EEA (with UK until 2019),2023,Female,45-54,0.28,6.4
-2382,EU/EEA (with UK until 2019),2023,Female,5-14,0.0,0.0
-2383,EU/EEA (with UK until 2019),2023,Female,55-64,0.2,5.44
-2384,EU/EEA (with UK until 2019),2023,Female,65+,0.12,4.8
-2385,EU/EEA (with UK until 2019),2023,Male,0-4,0.0,0.0
-2386,EU/EEA (with UK until 2019),2023,Male,15-19,0.05,1.34
-2387,EU/EEA (with UK until 2019),2023,Male,20-24,0.1,3.35
-2388,EU/EEA (with UK until 2019),2023,Male,25-34,0.3,10.72
-2389,EU/EEA (with UK until 2019),2023,Male,35-44,0.5000000000000001,14.74
-2390,EU/EEA (with UK until 2019),2023,Male,45-54,0.35,13.4
-2391,EU/EEA (with UK until 2019),2023,Male,5-14,0.0,0.0
-2392,EU/EEA (with UK until 2019),2023,Male,55-64,0.25,11.390000000000002
-2393,EU/EEA (with UK until 2019),2023,Male,65+,0.15,10.05
-2394,EU/EEA (without UK),2006,Female,0-4,0.0,0.0
-2395,EU/EEA (without UK),2006,Female,15-19,0.04,3.15
-2396,EU/EEA (without UK),2006,Female,20-24,0.12,5.25
-2397,EU/EEA (without UK),2006,Female,25-34,0.16,8.399999999999999
-2398,EU/EEA (without UK),2006,Female,35-44,0.06,6.999999999999999
-2399,EU/EEA (without UK),2006,Female,45-54,0.04,4.55
-2400,EU/EEA (without UK),2006,Female,5-14,0.0,0.35
-2401,EU/EEA (without UK),2006,Female,55-64,0.02,2.8
-2402,EU/EEA (without UK),2006,Female,65+,0.0,1.7499999999999998
-2403,EU/EEA (without UK),2006,Male,0-4,0.0,0.0
-2404,EU/EEA (without UK),2006,Male,15-19,0.06,5.76
-2405,EU/EEA (without UK),2006,Male,20-24,0.18,9.6
-2406,EU/EEA (without UK),2006,Male,25-34,0.24,15.36
-2407,EU/EEA (without UK),2006,Male,35-44,0.09,12.8
-2408,EU/EEA (without UK),2006,Male,45-54,0.06,8.32
-2409,EU/EEA (without UK),2006,Male,5-14,0.0,0.64
-2410,EU/EEA (without UK),2006,Male,55-64,0.03,5.12
-2411,EU/EEA (without UK),2006,Male,65+,0.0,3.2
-2412,EU/EEA (without UK),2007,Female,0-4,0.0,0.0
-2413,EU/EEA (without UK),2007,Female,15-19,0.06,2.24
-2414,EU/EEA (without UK),2007,Female,20-24,0.14,4.16
-2415,EU/EEA (without UK),2007,Female,25-34,0.18,8.64
-2416,EU/EEA (without UK),2007,Female,35-44,0.08,6.4
-2417,EU/EEA (without UK),2007,Female,45-54,0.04,4.16
-2418,EU/EEA (without UK),2007,Female,5-14,0.0,0.32
-2419,EU/EEA (without UK),2007,Female,55-64,0.02,2.56
-2420,EU/EEA (without UK),2007,Female,65+,0.0,1.92
-2421,EU/EEA (without UK),2007,Male,0-4,0.0,0.0
-2422,EU/EEA (without UK),2007,Male,15-19,0.09,4.69
-2423,EU/EEA (without UK),2007,Male,20-24,0.21,8.71
-2424,EU/EEA (without UK),2007,Male,25-34,0.2699999999999999,18.090000000000003
-2425,EU/EEA (without UK),2007,Male,35-44,0.12,13.4
-2426,EU/EEA (without UK),2007,Male,45-54,0.06,8.71
-2427,EU/EEA (without UK),2007,Male,5-14,0.0,0.67
-2428,EU/EEA (without UK),2007,Male,55-64,0.03,5.36
-2429,EU/EEA (without UK),2007,Male,65+,0.0,4.02
-2430,EU/EEA (without UK),2008,Female,0-4,0.0,0.0
-2431,EU/EEA (without UK),2008,Female,15-19,0.06,1.55
-2432,EU/EEA (without UK),2008,Female,20-24,0.16,3.72
-2433,EU/EEA (without UK),2008,Female,25-34,0.18,8.68
-2434,EU/EEA (without UK),2008,Female,35-44,0.08,6.509999999999999
-2435,EU/EEA (without UK),2008,Female,45-54,0.04,4.34
-2436,EU/EEA (without UK),2008,Female,5-14,0.0,0.31
-2437,EU/EEA (without UK),2008,Female,55-64,0.02,2.48
-2438,EU/EEA (without UK),2008,Female,65+,0.0,1.86
-2439,EU/EEA (without UK),2008,Male,0-4,0.0,0.0
-2440,EU/EEA (without UK),2008,Male,15-19,0.12,3.4000000000000004
-2441,EU/EEA (without UK),2008,Male,20-24,0.32,8.16
-2442,EU/EEA (without UK),2008,Male,25-34,0.36,19.040000000000003
-2443,EU/EEA (without UK),2008,Male,35-44,0.16,14.28
-2444,EU/EEA (without UK),2008,Male,45-54,0.08,9.52
-2445,EU/EEA (without UK),2008,Male,5-14,0.0,0.68
-2446,EU/EEA (without UK),2008,Male,55-64,0.04,5.44
-2447,EU/EEA (without UK),2008,Male,65+,0.0,4.08
-2448,EU/EEA (without UK),2009,Female,0-4,0.0,0.0
-2449,EU/EEA (without UK),2009,Female,15-19,0.06,1.28
-2450,EU/EEA (without UK),2009,Female,20-24,0.16,4.16
-2451,EU/EEA (without UK),2009,Female,25-34,0.2,8.32
-2452,EU/EEA (without UK),2009,Female,35-44,0.1,6.72
-2453,EU/EEA (without UK),2009,Female,45-54,0.04,4.48
-2454,EU/EEA (without UK),2009,Female,5-14,0.0,0.32
-2455,EU/EEA (without UK),2009,Female,55-64,0.04,2.88
-2456,EU/EEA (without UK),2009,Female,65+,0.0,2.24
-2457,EU/EEA (without UK),2009,Male,0-4,0.0,0.0
-2458,EU/EEA (without UK),2009,Male,15-19,0.12,2.68
-2459,EU/EEA (without UK),2009,Male,20-24,0.32,8.71
-2460,EU/EEA (without UK),2009,Male,25-34,0.4,17.42
-2461,EU/EEA (without UK),2009,Male,35-44,0.2,14.07
-2462,EU/EEA (without UK),2009,Male,45-54,0.08,9.38
-2463,EU/EEA (without UK),2009,Male,5-14,0.0,0.67
-2464,EU/EEA (without UK),2009,Male,55-64,0.08,6.03
-2465,EU/EEA (without UK),2009,Male,65+,0.0,4.69
-2466,EU/EEA (without UK),2010,Female,0-4,0.0,0.0
-2467,EU/EEA (without UK),2010,Female,15-19,0.08,0.8999999999999999
-2468,EU/EEA (without UK),2010,Female,20-24,0.14,3.3000000000000003
-2469,EU/EEA (without UK),2010,Female,25-34,0.18,7.8
-2470,EU/EEA (without UK),2010,Female,35-44,0.1,6.3
-2471,EU/EEA (without UK),2010,Female,45-54,0.04,4.5
-2472,EU/EEA (without UK),2010,Female,5-14,0.0,0.0
-2473,EU/EEA (without UK),2010,Female,55-64,0.04,3.3000000000000003
-2474,EU/EEA (without UK),2010,Female,65+,0.0,2.7
-2475,EU/EEA (without UK),2010,Male,0-4,0.0,0.0
-2476,EU/EEA (without UK),2010,Male,15-19,0.16,2.0699999999999994
-2477,EU/EEA (without UK),2010,Male,20-24,0.28,7.59
-2478,EU/EEA (without UK),2010,Male,25-34,0.36,17.94
-2479,EU/EEA (without UK),2010,Male,35-44,0.2,14.489999999999997
-2480,EU/EEA (without UK),2010,Male,45-54,0.08,10.35
-2481,EU/EEA (without UK),2010,Male,5-14,0.0,0.0
-2482,EU/EEA (without UK),2010,Male,55-64,0.08,7.59
-2483,EU/EEA (without UK),2010,Male,65+,0.0,6.21
-2484,EU/EEA (without UK),2011,Female,0-4,0.0,0.0
-2485,EU/EEA (without UK),2011,Female,15-19,0.04,0.93
-2486,EU/EEA (without UK),2011,Female,20-24,0.1,3.1
-2487,EU/EEA (without UK),2011,Female,25-34,0.16,8.370000000000001
-2488,EU/EEA (without UK),2011,Female,35-44,0.08,6.509999999999999
-2489,EU/EEA (without UK),2011,Female,45-54,0.04,4.96
-2490,EU/EEA (without UK),2011,Female,5-14,0.0,0.0
-2491,EU/EEA (without UK),2011,Female,55-64,0.02,3.1
-2492,EU/EEA (without UK),2011,Female,65+,0.0,2.79
-2493,EU/EEA (without UK),2011,Male,0-4,0.0,0.0
-2494,EU/EEA (without UK),2011,Male,15-19,0.06,2.04
-2495,EU/EEA (without UK),2011,Male,20-24,0.15,6.800000000000001
-2496,EU/EEA (without UK),2011,Male,25-34,0.24,18.360000000000003
-2497,EU/EEA (without UK),2011,Male,35-44,0.12,14.28
-2498,EU/EEA (without UK),2011,Male,45-54,0.06,10.88
-2499,EU/EEA (without UK),2011,Male,5-14,0.0,0.0
-2500,EU/EEA (without UK),2011,Male,55-64,0.03,6.800000000000001
-2501,EU/EEA (without UK),2011,Male,65+,0.0,6.12
-2502,EU/EEA (without UK),2012,Female,0-4,0.0,0.0
-2503,EU/EEA (without UK),2012,Female,15-19,0.06,0.8699999999999999
-2504,EU/EEA (without UK),2012,Female,20-24,0.1,2.03
-2505,EU/EEA (without UK),2012,Female,25-34,0.16,6.959999999999999
-2506,EU/EEA (without UK),2012,Female,35-44,0.08,6.959999999999999
-2507,EU/EEA (without UK),2012,Female,45-54,0.04,4.930000000000001
-2508,EU/EEA (without UK),2012,Female,5-14,0.0,0.0
-2509,EU/EEA (without UK),2012,Female,55-64,0.02,3.19
-2510,EU/EEA (without UK),2012,Female,65+,0.0,2.32
-2511,EU/EEA (without UK),2012,Male,0-4,0.0,0.0
-2512,EU/EEA (without UK),2012,Male,15-19,0.09,2.1
-2513,EU/EEA (without UK),2012,Male,20-24,0.15,4.9
-2514,EU/EEA (without UK),2012,Male,25-34,0.24,16.799999999999997
-2515,EU/EEA (without UK),2012,Male,35-44,0.12,16.799999999999997
-2516,EU/EEA (without UK),2012,Male,45-54,0.06,11.9
-2517,EU/EEA (without UK),2012,Male,5-14,0.0,0.0
-2518,EU/EEA (without UK),2012,Male,55-64,0.03,7.7
-2519,EU/EEA (without UK),2012,Male,65+,0.0,5.6
-2520,EU/EEA (without UK),2013,Female,0-4,0.0,0.32
-2521,EU/EEA (without UK),2013,Female,15-19,0.04,0.64
-2522,EU/EEA (without UK),2013,Female,20-24,0.08,2.24
-2523,EU/EEA (without UK),2013,Female,25-34,0.12,8.0
-2524,EU/EEA (without UK),2013,Female,35-44,0.08,8.0
-2525,EU/EEA (without UK),2013,Female,45-54,0.04,5.12
-2526,EU/EEA (without UK),2013,Female,5-14,0.0,0.32
-2527,EU/EEA (without UK),2013,Female,55-64,0.02,3.2
-2528,EU/EEA (without UK),2013,Female,65+,0.0,3.2
-2529,EU/EEA (without UK),2013,Male,0-4,0.0,0.67
-2530,EU/EEA (without UK),2013,Male,15-19,0.06,1.34
-2531,EU/EEA (without UK),2013,Male,20-24,0.12,4.69
-2532,EU/EEA (without UK),2013,Male,25-34,0.18,16.75
-2533,EU/EEA (without UK),2013,Male,35-44,0.12,16.75
-2534,EU/EEA (without UK),2013,Male,45-54,0.06,10.72
-2535,EU/EEA (without UK),2013,Male,5-14,0.0,0.67
-2536,EU/EEA (without UK),2013,Male,55-64,0.03,6.7
-2537,EU/EEA (without UK),2013,Male,65+,0.0,6.7
-2538,EU/EEA (without UK),2014,Female,0-4,0.0,0.0
-2539,EU/EEA (without UK),2014,Female,15-19,0.04,0.93
-2540,EU/EEA (without UK),2014,Female,20-24,0.08,1.86
-2541,EU/EEA (without UK),2014,Female,25-34,0.14,7.439999999999999
-2542,EU/EEA (without UK),2014,Female,35-44,0.1,7.13
-2543,EU/EEA (without UK),2014,Female,45-54,0.04,5.579999999999999
-2544,EU/EEA (without UK),2014,Female,5-14,0.0,0.0
-2545,EU/EEA (without UK),2014,Female,55-64,0.02,3.72
-2546,EU/EEA (without UK),2014,Female,65+,0.0,3.1
-2547,EU/EEA (without UK),2014,Male,0-4,0.0,0.0
-2548,EU/EEA (without UK),2014,Male,15-19,0.06,2.04
-2549,EU/EEA (without UK),2014,Male,20-24,0.12,4.08
-2550,EU/EEA (without UK),2014,Male,25-34,0.21,16.32
-2551,EU/EEA (without UK),2014,Male,35-44,0.15,15.64
-2552,EU/EEA (without UK),2014,Male,45-54,0.06,12.24
-2553,EU/EEA (without UK),2014,Male,5-14,0.0,0.0
-2554,EU/EEA (without UK),2014,Male,55-64,0.03,8.16
-2555,EU/EEA (without UK),2014,Male,65+,0.0,6.800000000000001
-2556,EU/EEA (without UK),2015,Female,0-4,0.0,0.0
-2557,EU/EEA (without UK),2015,Female,15-19,0.08,0.93
-2558,EU/EEA (without UK),2015,Female,20-24,0.08,1.86
-2559,EU/EEA (without UK),2015,Female,25-34,0.14,6.819999999999999
-2560,EU/EEA (without UK),2015,Female,35-44,0.1,6.819999999999999
-2561,EU/EEA (without UK),2015,Female,45-54,0.04,6.2
-2562,EU/EEA (without UK),2015,Female,5-14,0.0,0.0
-2563,EU/EEA (without UK),2015,Female,55-64,0.02,3.41
-2564,EU/EEA (without UK),2015,Female,65+,0.0,3.41
-2565,EU/EEA (without UK),2015,Male,0-4,0.0,0.0
-2566,EU/EEA (without UK),2015,Male,15-19,0.16,2.04
-2567,EU/EEA (without UK),2015,Male,20-24,0.16,4.08
-2568,EU/EEA (without UK),2015,Male,25-34,0.28,14.96
-2569,EU/EEA (without UK),2015,Male,35-44,0.2,14.96
-2570,EU/EEA (without UK),2015,Male,45-54,0.08,13.6
-2571,EU/EEA (without UK),2015,Male,5-14,0.0,0.0
-2572,EU/EEA (without UK),2015,Male,55-64,0.04,7.48
-2573,EU/EEA (without UK),2015,Male,65+,0.0,7.48
-2574,EU/EEA (without UK),2016,Female,0-4,0.0,0.0
-2575,EU/EEA (without UK),2016,Female,15-19,0.08,1.24
-2576,EU/EEA (without UK),2016,Female,20-24,0.08,1.55
-2577,EU/EEA (without UK),2016,Female,25-34,0.14,6.819999999999999
-2578,EU/EEA (without UK),2016,Female,35-44,0.1,6.819999999999999
-2579,EU/EEA (without UK),2016,Female,45-54,0.06,5.89
-2580,EU/EEA (without UK),2016,Female,5-14,0.0,0.0
-2581,EU/EEA (without UK),2016,Female,55-64,0.04,3.72
-2582,EU/EEA (without UK),2016,Female,65+,0.02,3.1
-2583,EU/EEA (without UK),2016,Male,0-4,0.0,0.0
-2584,EU/EEA (without UK),2016,Male,15-19,0.16,2.72
-2585,EU/EEA (without UK),2016,Male,20-24,0.16,3.4000000000000004
-2586,EU/EEA (without UK),2016,Male,25-34,0.28,14.96
-2587,EU/EEA (without UK),2016,Male,35-44,0.2,14.96
-2588,EU/EEA (without UK),2016,Male,45-54,0.12,12.920000000000002
-2589,EU/EEA (without UK),2016,Male,5-14,0.0,0.0
-2590,EU/EEA (without UK),2016,Male,55-64,0.08,8.16
-2591,EU/EEA (without UK),2016,Male,65+,0.04,6.800000000000001
-2592,EU/EEA (without UK),2017,Female,0-4,0.0,0.0
-2593,EU/EEA (without UK),2017,Female,15-19,0.02,1.2
-2594,EU/EEA (without UK),2017,Female,20-24,0.04,1.5
-2595,EU/EEA (without UK),2017,Female,25-34,0.12,5.699999999999999
-2596,EU/EEA (without UK),2017,Female,35-44,0.08,6.3
-2597,EU/EEA (without UK),2017,Female,45-54,0.04,6.6000000000000005
-2598,EU/EEA (without UK),2017,Female,5-14,0.0,0.0
-2599,EU/EEA (without UK),2017,Female,55-64,0.02,3.9
-2600,EU/EEA (without UK),2017,Female,65+,0.0,3.3000000000000003
-2601,EU/EEA (without UK),2017,Male,0-4,0.0,0.0
-2602,EU/EEA (without UK),2017,Male,15-19,0.02,2.76
-2603,EU/EEA (without UK),2017,Male,20-24,0.04,3.45
-2604,EU/EEA (without UK),2017,Male,25-34,0.12,13.11
-2605,EU/EEA (without UK),2017,Male,35-44,0.08,14.489999999999997
-2606,EU/EEA (without UK),2017,Male,45-54,0.04,15.18
-2607,EU/EEA (without UK),2017,Male,5-14,0.0,0.0
-2608,EU/EEA (without UK),2017,Male,55-64,0.02,8.97
-2609,EU/EEA (without UK),2017,Male,65+,0.0,7.59
-2610,EU/EEA (without UK),2018,Female,0-4,0.0,0.0
-2611,EU/EEA (without UK),2018,Female,15-19,0.02,0.96
-2612,EU/EEA (without UK),2018,Female,20-24,0.04,1.6
-2613,EU/EEA (without UK),2018,Female,25-34,0.1,5.76
-2614,EU/EEA (without UK),2018,Female,35-44,0.08,7.04
-2615,EU/EEA (without UK),2018,Female,45-54,0.04,6.4
-2616,EU/EEA (without UK),2018,Female,5-14,0.0,0.0
-2617,EU/EEA (without UK),2018,Female,55-64,0.04,4.48
-2618,EU/EEA (without UK),2018,Female,65+,0.0,4.16
-2619,EU/EEA (without UK),2018,Male,0-4,0.0,0.0
-2620,EU/EEA (without UK),2018,Male,15-19,0.02,2.01
-2621,EU/EEA (without UK),2018,Male,20-24,0.04,3.35
-2622,EU/EEA (without UK),2018,Male,25-34,0.1,12.06
-2623,EU/EEA (without UK),2018,Male,35-44,0.08,14.74
-2624,EU/EEA (without UK),2018,Male,45-54,0.04,13.4
-2625,EU/EEA (without UK),2018,Male,5-14,0.0,0.0
-2626,EU/EEA (without UK),2018,Male,55-64,0.04,9.38
-2627,EU/EEA (without UK),2018,Male,65+,0.0,8.71
-2628,EU/EEA (without UK),2019,Female,0-4,0.0,0.0
-2629,EU/EEA (without UK),2019,Female,15-19,0.03,0.93
-2630,EU/EEA (without UK),2019,Female,20-24,0.09,1.86
-2631,EU/EEA (without UK),2019,Female,25-34,0.24,5.89
-2632,EU/EEA (without UK),2019,Female,35-44,0.21,6.509999999999999
-2633,EU/EEA (without UK),2019,Female,45-54,0.15,6.2
-2634,EU/EEA (without UK),2019,Female,5-14,0.0,0.31
-2635,EU/EEA (without UK),2019,Female,55-64,0.09,4.34
-2636,EU/EEA (without UK),2019,Female,65+,0.03,3.72
-2637,EU/EEA (without UK),2019,Male,0-4,0.0,0.0
-2638,EU/EEA (without UK),2019,Male,15-19,0.04,2.04
-2639,EU/EEA (without UK),2019,Male,20-24,0.12,4.08
-2640,EU/EEA (without UK),2019,Male,25-34,0.32,12.920000000000002
-2641,EU/EEA (without UK),2019,Male,35-44,0.28,14.28
-2642,EU/EEA (without UK),2019,Male,45-54,0.2,13.6
-2643,EU/EEA (without UK),2019,Male,5-14,0.0,0.68
-2644,EU/EEA (without UK),2019,Male,55-64,0.12,9.52
-2645,EU/EEA (without UK),2019,Male,65+,0.04,8.16
-2646,EU/EEA (without UK),2020,Female,0-4,0.0,0.0
-2647,EU/EEA (without UK),2020,Female,15-19,0.0,0.96
-2648,EU/EEA (without UK),2020,Female,20-24,0.01,1.6
-2649,EU/EEA (without UK),2020,Female,25-34,0.04,5.44
-2650,EU/EEA (without UK),2020,Female,35-44,0.04,7.359999999999999
-2651,EU/EEA (without UK),2020,Female,45-54,0.02,7.04
-2652,EU/EEA (without UK),2020,Female,5-14,0.0,0.0
-2653,EU/EEA (without UK),2020,Female,55-64,0.01,4.48
-2654,EU/EEA (without UK),2020,Female,65+,0.01,3.84
-2655,EU/EEA (without UK),2020,Male,0-4,0.0,0.0
-2656,EU/EEA (without UK),2020,Male,15-19,0.0,2.01
-2657,EU/EEA (without UK),2020,Male,20-24,0.02,3.35
-2658,EU/EEA (without UK),2020,Male,25-34,0.08,11.390000000000002
-2659,EU/EEA (without UK),2020,Male,35-44,0.08,15.410000000000002
-2660,EU/EEA (without UK),2020,Male,45-54,0.04,14.74
-2661,EU/EEA (without UK),2020,Male,5-14,0.0,0.0
-2662,EU/EEA (without UK),2020,Male,55-64,0.02,9.38
-2663,EU/EEA (without UK),2020,Male,65+,0.02,8.04
-2664,EU/EEA (without UK),2021,Female,0-4,0.0,0.0
-2665,EU/EEA (without UK),2021,Female,15-19,0.0,0.8999999999999999
-2666,EU/EEA (without UK),2021,Female,20-24,0.02,1.7999999999999998
-2667,EU/EEA (without UK),2021,Female,25-34,0.08,5.1000000000000005
-2668,EU/EEA (without UK),2021,Female,35-44,0.08,6.3
-2669,EU/EEA (without UK),2021,Female,45-54,0.06,5.699999999999999
-2670,EU/EEA (without UK),2021,Female,5-14,0.0,0.0
-2671,EU/EEA (without UK),2021,Female,55-64,0.04,4.5
-2672,EU/EEA (without UK),2021,Female,65+,0.02,4.5
-2673,EU/EEA (without UK),2021,Male,0-4,0.0,0.0
-2674,EU/EEA (without UK),2021,Male,15-19,0.0,2.0699999999999994
-2675,EU/EEA (without UK),2021,Male,20-24,0.02,4.139999999999999
-2676,EU/EEA (without UK),2021,Male,25-34,0.08,11.73
-2677,EU/EEA (without UK),2021,Male,35-44,0.08,14.489999999999997
-2678,EU/EEA (without UK),2021,Male,45-54,0.06,13.11
-2679,EU/EEA (without UK),2021,Male,5-14,0.0,0.0
-2680,EU/EEA (without UK),2021,Male,55-64,0.04,10.35
-2681,EU/EEA (without UK),2021,Male,65+,0.02,10.35
-2682,EU/EEA (without UK),2022,Female,0-4,0.0,0.0
-2683,EU/EEA (without UK),2022,Female,15-19,0.0,0.66
-2684,EU/EEA (without UK),2022,Female,20-24,0.06,1.65
-2685,EU/EEA (without UK),2022,Female,25-34,0.15,4.95
-2686,EU/EEA (without UK),2022,Female,35-44,0.21,6.93
-2687,EU/EEA (without UK),2022,Female,45-54,0.15,6.6000000000000005
-2688,EU/EEA (without UK),2022,Female,5-14,0.0,0.0
-2689,EU/EEA (without UK),2022,Female,55-64,0.12,5.28
-2690,EU/EEA (without UK),2022,Female,65+,0.06,5.28
-2691,EU/EEA (without UK),2022,Male,0-4,0.0,0.0
-2692,EU/EEA (without UK),2022,Male,15-19,0.0,1.32
-2693,EU/EEA (without UK),2022,Male,20-24,0.08,3.3000000000000003
-2694,EU/EEA (without UK),2022,Male,25-34,0.2,9.9
-2695,EU/EEA (without UK),2022,Male,35-44,0.28,13.86
-2696,EU/EEA (without UK),2022,Male,45-54,0.2,13.2
-2697,EU/EEA (without UK),2022,Male,5-14,0.0,0.0
-2698,EU/EEA (without UK),2022,Male,55-64,0.16,10.56
-2699,EU/EEA (without UK),2022,Male,65+,0.08,10.56
-2700,EU/EEA (without UK),2023,Female,0-4,0.0,0.0
-2701,EU/EEA (without UK),2023,Female,15-19,0.04,0.64
-2702,EU/EEA (without UK),2023,Female,20-24,0.08,1.6
-2703,EU/EEA (without UK),2023,Female,25-34,0.24,5.12
-2704,EU/EEA (without UK),2023,Female,35-44,0.4,7.04
-2705,EU/EEA (without UK),2023,Female,45-54,0.28,6.4
-2706,EU/EEA (without UK),2023,Female,5-14,0.0,0.0
-2707,EU/EEA (without UK),2023,Female,55-64,0.2,5.44
-2708,EU/EEA (without UK),2023,Female,65+,0.12,4.8
-2709,EU/EEA (without UK),2023,Male,0-4,0.0,0.0
-2710,EU/EEA (without UK),2023,Male,15-19,0.05,1.34
-2711,EU/EEA (without UK),2023,Male,20-24,0.1,3.35
-2712,EU/EEA (without UK),2023,Male,25-34,0.3,10.72
-2713,EU/EEA (without UK),2023,Male,35-44,0.5000000000000001,14.74
-2714,EU/EEA (without UK),2023,Male,45-54,0.35,13.4
-2715,EU/EEA (without UK),2023,Male,5-14,0.0,0.0
-2716,EU/EEA (without UK),2023,Male,55-64,0.25,11.390000000000002
-2717,EU/EEA (without UK),2023,Male,65+,0.15,10.05
 2718,Estonia,2006,Female,0-4,0.0,0.0
 2719,Estonia,2006,Female,15-19,0.0,2.1
 2720,Estonia,2006,Female,20-24,0.0,7.7
@@ -3365,330 +2069,330 @@
 3363,Finland,2023,Male,5-14,0.0,0.0
 3364,Finland,2023,Male,55-64,0.18,5.12
 3365,Finland,2023,Male,65+,0.12,0.64
-3366,France,2006,Female,0-4,,0.0
-3367,France,2006,Female,15-19,,2.1
-3368,France,2006,Female,20-24,,1.7999999999999998
-3369,France,2006,Female,25-34,,5.4
-3370,France,2006,Female,35-44,,6.9
-3371,France,2006,Female,45-54,,5.4
-3372,France,2006,Female,5-14,,0.8999999999999999
-3373,France,2006,Female,55-64,,4.2
-3374,France,2006,Female,65+,,2.1
-3375,France,2006,Male,0-4,,0.0
-3376,France,2006,Male,15-19,,4.83
-3377,France,2006,Male,20-24,,4.139999999999999
-3378,France,2006,Male,25-34,,12.42
-3379,France,2006,Male,35-44,,15.87
-3380,France,2006,Male,45-54,,12.42
-3381,France,2006,Male,5-14,,2.0699999999999994
-3382,France,2006,Male,55-64,,9.66
-3383,France,2006,Male,65+,,4.83
-3384,France,2007,Female,0-4,,0.54
-3385,France,2007,Female,15-19,,1.8900000000000003
-3386,France,2007,Female,20-24,,1.8900000000000003
-3387,France,2007,Female,25-34,,4.05
-3388,France,2007,Female,35-44,,6.75
-3389,France,2007,Female,45-54,,5.130000000000001
-3390,France,2007,Female,5-14,,0.0
-3391,France,2007,Female,55-64,,3.7800000000000007
-3392,France,2007,Female,65+,,1.8900000000000003
-3393,France,2007,Male,0-4,,1.44
-3394,France,2007,Male,15-19,,5.04
-3395,France,2007,Male,20-24,,5.04
-3396,France,2007,Male,25-34,,10.8
-3397,France,2007,Male,35-44,,18.0
-3398,France,2007,Male,45-54,,13.68
-3399,France,2007,Male,5-14,,0.0
-3400,France,2007,Male,55-64,,10.08
-3401,France,2007,Male,65+,,5.04
-3402,France,2008,Female,0-4,,0.0
-3403,France,2008,Female,15-19,,2.03
-3404,France,2008,Female,20-24,,2.61
-3405,France,2008,Female,25-34,,5.51
-3406,France,2008,Female,35-44,,8.41
-3407,France,2008,Female,45-54,,4.0600000000000005
-3408,France,2008,Female,5-14,,0.0
-3409,France,2008,Female,55-64,,3.19
-3410,France,2008,Female,65+,,1.7399999999999998
-3411,France,2008,Male,0-4,,0.0
-3412,France,2008,Male,15-19,,4.9
-3413,France,2008,Male,20-24,,6.3
-3414,France,2008,Male,25-34,,13.299999999999995
-3415,France,2008,Male,35-44,,20.3
-3416,France,2008,Male,45-54,,9.8
-3417,France,2008,Male,5-14,,0.0
-3418,France,2008,Male,55-64,,7.7
-3419,France,2008,Male,65+,,4.199999999999999
-3420,France,2009,Female,0-4,,0.21
-3421,France,2009,Female,15-19,,1.2599999999999998
-3422,France,2009,Female,20-24,,1.4700000000000002
-3423,France,2009,Female,25-34,,3.78
-3424,France,2009,Female,35-44,,5.880000000000001
-3425,France,2009,Female,45-54,,3.15
-3426,France,2009,Female,5-14,,0.0
-3427,France,2009,Female,55-64,,2.73
-3428,France,2009,Female,65+,,1.68
-3429,France,2009,Male,0-4,,0.78
-3430,France,2009,Male,15-19,,4.68
-3431,France,2009,Male,20-24,,5.460000000000001
-3432,France,2009,Male,25-34,,14.04
-3433,France,2009,Male,35-44,,21.840000000000003
-3434,France,2009,Male,45-54,,11.7
-3435,France,2009,Male,5-14,,0.0
-3436,France,2009,Male,55-64,,10.14
-3437,France,2009,Male,65+,,6.24
-3438,France,2010,Female,0-4,,0.6
-3439,France,2010,Female,15-19,,2.4
-3440,France,2010,Female,20-24,,3.0
-3441,France,2010,Female,25-34,,5.1000000000000005
-3442,France,2010,Female,35-44,,6.9
-3443,France,2010,Female,45-54,,4.8
-3444,France,2010,Female,5-14,,1.5
-3445,France,2010,Female,55-64,,2.4
-3446,France,2010,Female,65+,,1.7999999999999998
-3447,France,2010,Male,0-4,,1.38
-3448,France,2010,Male,15-19,,5.52
-3449,France,2010,Male,20-24,,6.9
-3450,France,2010,Male,25-34,,11.73
-3451,France,2010,Male,35-44,,15.87
-3452,France,2010,Male,45-54,,11.04
-3453,France,2010,Male,5-14,,3.45
-3454,France,2010,Male,55-64,,5.52
-3455,France,2010,Male,65+,,4.139999999999999
-3456,France,2011,Female,0-4,,0.34
-3457,France,2011,Female,15-19,,3.74
-3458,France,2011,Female,20-24,,3.74
-3459,France,2011,Female,25-34,,4.08
-3460,France,2011,Female,35-44,,5.1000000000000005
-3461,France,2011,Female,45-54,,7.140000000000001
-3462,France,2011,Female,5-14,,0.0
-3463,France,2011,Female,55-64,,4.760000000000001
-3464,France,2011,Female,65+,,2.72
-3465,France,2011,Male,0-4,,0.65
-3466,France,2011,Male,15-19,,7.15
-3467,France,2011,Male,20-24,,7.15
-3468,France,2011,Male,25-34,,7.8
-3469,France,2011,Male,35-44,,9.75
-3470,France,2011,Male,45-54,,13.65
-3471,France,2011,Male,5-14,,0.0
-3472,France,2011,Male,55-64,,9.1
-3473,France,2011,Male,65+,,5.2
-3474,France,2012,Female,0-4,,0.0
-3475,France,2012,Female,15-19,,1.36
-3476,France,2012,Female,20-24,,1.53
-3477,France,2012,Female,25-34,,3.4000000000000004
-3478,France,2012,Female,35-44,,2.890000000000001
-3479,France,2012,Female,45-54,,3.5700000000000003
-3480,France,2012,Female,5-14,,0.34
-3481,France,2012,Female,55-64,,2.3800000000000003
-3482,France,2012,Female,65+,,1.36
-3483,France,2012,Male,0-4,,0.0
-3484,France,2012,Male,15-19,,6.559999999999999
-3485,France,2012,Male,20-24,,7.379999999999999
-3486,France,2012,Male,25-34,,16.400000000000002
-3487,France,2012,Male,35-44,,13.94
-3488,France,2012,Male,45-54,,17.22
-3489,France,2012,Male,5-14,,1.6399999999999997
-3490,France,2012,Male,55-64,,11.48
-3491,France,2012,Male,65+,,6.559999999999999
-3492,France,2013,Female,0-4,,0.27
-3493,France,2013,Female,15-19,,1.08
-3494,France,2013,Female,20-24,,1.08
-3495,France,2013,Female,25-34,,5.67
-3496,France,2013,Female,35-44,,8.1
-3497,France,2013,Female,45-54,,5.130000000000001
-3498,France,2013,Female,5-14,,0.0
-3499,France,2013,Female,55-64,,3.5100000000000007
-3500,France,2013,Female,65+,,1.08
-3501,France,2013,Male,0-4,,0.72
-3502,France,2013,Male,15-19,,2.88
-3503,France,2013,Male,20-24,,2.88
-3504,France,2013,Male,25-34,,15.12
-3505,France,2013,Male,35-44,,21.6
-3506,France,2013,Male,45-54,,13.68
-3507,France,2013,Male,5-14,,0.0
-3508,France,2013,Male,55-64,,9.36
-3509,France,2013,Male,65+,,2.88
-3510,France,2014,Female,0-4,,0.0
-3511,France,2014,Female,15-19,,2.43
-3512,France,2014,Female,20-24,,2.16
-3513,France,2014,Female,25-34,,3.24
-3514,France,2014,Female,35-44,,5.4
-3515,France,2014,Female,45-54,,5.94
-3516,France,2014,Female,5-14,,0.0
-3517,France,2014,Female,55-64,,3.24
-3518,France,2014,Female,65+,,3.5100000000000007
-3519,France,2014,Male,0-4,,0.0
-3520,France,2014,Male,15-19,,6.48
-3521,France,2014,Male,20-24,,5.76
-3522,France,2014,Male,25-34,,8.639999999999999
-3523,France,2014,Male,35-44,,14.4
-3524,France,2014,Male,45-54,,15.839999999999998
-3525,France,2014,Male,5-14,,0.0
-3526,France,2014,Male,55-64,,8.639999999999999
-3527,France,2014,Male,65+,,9.36
-3528,France,2015,Female,0-4,,0.0
-3529,France,2015,Female,15-19,,1.4
-3530,France,2015,Female,20-24,,3.0800000000000005
-3531,France,2015,Female,25-34,,6.440000000000001
-3532,France,2015,Female,35-44,,4.48
-3533,France,2015,Female,45-54,,4.48
-3534,France,2015,Female,5-14,,0.56
-3535,France,2015,Female,55-64,,2.8000000000000003
-3536,France,2015,Female,65+,,4.48
-3537,France,2015,Male,0-4,,0.0
-3538,France,2015,Male,15-19,,3.55
-3539,France,2015,Male,20-24,,7.81
-3540,France,2015,Male,25-34,,16.33
-3541,France,2015,Male,35-44,,11.36
-3542,France,2015,Male,45-54,,11.36
-3543,France,2015,Male,5-14,,1.42
-3544,France,2015,Male,55-64,,7.1
-3545,France,2015,Male,65+,,11.36
-3546,France,2016,Female,0-4,,0.0
-3547,France,2016,Female,15-19,,1.7000000000000002
-3548,France,2016,Female,20-24,,5.1000000000000005
-3549,France,2016,Female,25-34,,7.48
-3550,France,2016,Female,35-44,,4.08
-3551,France,2016,Female,45-54,,3.74
-3552,France,2016,Female,5-14,,0.0
-3553,France,2016,Female,55-64,,6.460000000000001
-3554,France,2016,Female,65+,,4.08
-3555,France,2016,Male,0-4,,0.0
-3556,France,2016,Male,15-19,,3.25
-3557,France,2016,Male,20-24,,9.75
-3558,France,2016,Male,25-34,,14.3
-3559,France,2016,Male,35-44,,7.8
-3560,France,2016,Male,45-54,,7.15
-3561,France,2016,Male,5-14,,0.0
-3562,France,2016,Male,55-64,,12.35
-3563,France,2016,Male,65+,,7.8
-3564,France,2017,Female,0-4,,0.0
-3565,France,2017,Female,15-19,,2.52
-3566,France,2017,Female,20-24,,4.68
-3567,France,2017,Female,25-34,,7.199999999999999
-3568,France,2017,Female,35-44,,6.84
-3569,France,2017,Female,45-54,,5.04
-3570,France,2017,Female,5-14,,0.72
-3571,France,2017,Female,55-64,,2.88
-3572,France,2017,Female,65+,,4.68
-3573,France,2017,Male,0-4,,0.0
-3574,France,2017,Male,15-19,,4.410000000000001
-3575,France,2017,Male,20-24,,8.19
-3576,France,2017,Male,25-34,,12.6
-3577,France,2017,Male,35-44,,11.97
-3578,France,2017,Male,45-54,,8.820000000000002
-3579,France,2017,Male,5-14,,1.26
-3580,France,2017,Male,55-64,,5.04
-3581,France,2017,Male,65+,,8.19
-3582,France,2018,Female,0-4,,0.0
-3583,France,2018,Female,15-19,,0.58
-3584,France,2018,Female,20-24,,2.9
-3585,France,2018,Female,25-34,,5.8
-3586,France,2018,Female,35-44,,7.539999999999999
-3587,France,2018,Female,45-54,,6.09
-3588,France,2018,Female,5-14,,0.29
-3589,France,2018,Female,55-64,,2.32
-3590,France,2018,Female,65+,,2.61
-3591,France,2018,Male,0-4,,0.0
-3592,France,2018,Male,15-19,,1.4
-3593,France,2018,Male,20-24,,6.999999999999999
-3594,France,2018,Male,25-34,,13.999999999999998
-3595,France,2018,Male,35-44,,18.2
-3596,France,2018,Male,45-54,,14.7
-3597,France,2018,Male,5-14,,0.7
-3598,France,2018,Male,55-64,,5.6
-3599,France,2018,Male,65+,,6.3
-3600,France,2019,Female,0-4,,0.0
-3601,France,2019,Female,15-19,,2.86
-3602,France,2019,Female,20-24,,3.74
-3603,France,2019,Female,25-34,,2.86
-3604,France,2019,Female,35-44,,2.64
-3605,France,2019,Female,45-54,,2.86
-3606,France,2019,Female,5-14,,0.22
-3607,France,2019,Female,55-64,,3.0800000000000005
-3608,France,2019,Female,65+,,2.86
-3609,France,2019,Male,0-4,,0.0
-3610,France,2019,Male,15-19,,10.010000000000002
-3611,France,2019,Male,20-24,,13.090000000000002
-3612,France,2019,Male,25-34,,10.010000000000002
-3613,France,2019,Male,35-44,,9.24
-3614,France,2019,Male,45-54,,10.010000000000002
-3615,France,2019,Male,5-14,,0.77
-3616,France,2019,Male,55-64,,10.78
-3617,France,2019,Male,65+,,10.010000000000002
-3618,France,2020,Female,0-4,,0.0
-3619,France,2020,Female,15-19,,1.2599999999999998
-3620,France,2020,Female,20-24,,2.31
-3621,France,2020,Female,25-34,,3.99
-3622,France,2020,Female,35-44,,3.78
-3623,France,2020,Female,45-54,,2.9400000000000004
-3624,France,2020,Female,5-14,,0.0
-3625,France,2020,Female,55-64,,3.99
-3626,France,2020,Female,65+,,1.89
-3627,France,2020,Male,0-4,,0.0
-3628,France,2020,Male,15-19,,4.68
-3629,France,2020,Male,20-24,,8.58
-3630,France,2020,Male,25-34,,14.82
-3631,France,2020,Male,35-44,,14.04
-3632,France,2020,Male,45-54,,10.920000000000002
-3633,France,2020,Male,5-14,,0.0
-3634,France,2020,Male,55-64,,14.82
-3635,France,2020,Male,65+,,7.02
-3636,France,2021,Female,0-4,,0.0
-3637,France,2021,Female,15-19,,3.24
-3638,France,2021,Female,20-24,,6.12
-3639,France,2021,Female,25-34,,8.28
-3640,France,2021,Female,35-44,,5.76
-3641,France,2021,Female,45-54,,4.319999999999999
-3642,France,2021,Female,5-14,,0.36
-3643,France,2021,Female,55-64,,2.88
-3644,France,2021,Female,65+,,3.96
-3645,France,2021,Male,0-4,,0.0
-3646,France,2021,Male,15-19,,5.67
-3647,France,2021,Male,20-24,,10.71
-3648,France,2021,Male,25-34,,14.49
-3649,France,2021,Male,35-44,,10.08
-3650,France,2021,Male,45-54,,7.56
-3651,France,2021,Male,5-14,,0.63
-3652,France,2021,Male,55-64,,5.04
-3653,France,2021,Male,65+,,6.93
-3654,France,2022,Female,0-4,,0.0
-3655,France,2022,Female,15-19,,2.24
-3656,France,2022,Female,20-24,,2.24
-3657,France,2022,Female,25-34,,8.4
-3658,France,2022,Female,35-44,,5.6000000000000005
-3659,France,2022,Female,45-54,,2.8000000000000003
-3660,France,2022,Female,5-14,,0.0
-3661,France,2022,Female,55-64,,3.0800000000000005
-3662,France,2022,Female,65+,,3.3600000000000003
-3663,France,2022,Male,0-4,,0.0
-3664,France,2022,Male,15-19,,5.68
-3665,France,2022,Male,20-24,,5.68
-3666,France,2022,Male,25-34,,21.3
-3667,France,2022,Male,35-44,,14.2
-3668,France,2022,Male,45-54,,7.1
-3669,France,2022,Male,5-14,,0.0
-3670,France,2022,Male,55-64,,7.81
-3671,France,2022,Male,65+,,8.52
-3672,France,2023,Female,0-4,,0.0
-3673,France,2023,Female,15-19,,2.0900000000000003
-3674,France,2023,Female,20-24,,1.52
-3675,France,2023,Female,25-34,,4.94
-3676,France,2023,Female,35-44,,3.61
-3677,France,2023,Female,45-54,,1.71
-3678,France,2023,Female,5-14,,0.0
-3679,France,2023,Female,55-64,,2.66
-3680,France,2023,Female,65+,,1.9000000000000004
-3681,France,2023,Male,0-4,,0.0
-3682,France,2023,Male,15-19,,8.8
-3683,France,2023,Male,20-24,,6.4
-3684,France,2023,Male,25-34,,20.8
-3685,France,2023,Male,35-44,,15.200000000000005
-3686,France,2023,Male,45-54,,7.199999999999999
-3687,France,2023,Male,5-14,,0.0
-3688,France,2023,Male,55-64,,11.2
-3689,France,2023,Male,65+,,8.000000000000002
+3366,France,2006,Female,0-4,0.3579356725146199,0.0
+3367,France,2006,Female,15-19,0.3579356725146199,2.1
+3368,France,2006,Female,20-24,0.3579356725146199,1.7999999999999998
+3369,France,2006,Female,25-34,0.3579356725146199,5.4
+3370,France,2006,Female,35-44,0.3579356725146199,6.9
+3371,France,2006,Female,45-54,0.3579356725146199,5.4
+3372,France,2006,Female,5-14,0.3579356725146199,0.8999999999999999
+3373,France,2006,Female,55-64,0.3579356725146199,4.2
+3374,France,2006,Female,65+,0.3579356725146199,2.1
+3375,France,2006,Male,0-4,0.3579356725146199,0.0
+3376,France,2006,Male,15-19,0.3579356725146199,4.83
+3377,France,2006,Male,20-24,0.3579356725146199,4.139999999999999
+3378,France,2006,Male,25-34,0.3579356725146199,12.42
+3379,France,2006,Male,35-44,0.3579356725146199,15.87
+3380,France,2006,Male,45-54,0.3579356725146199,12.42
+3381,France,2006,Male,5-14,0.3579356725146199,2.0699999999999994
+3382,France,2006,Male,55-64,0.3579356725146199,9.66
+3383,France,2006,Male,65+,0.3579356725146199,4.83
+3384,France,2007,Female,0-4,0.3579356725146199,0.54
+3385,France,2007,Female,15-19,0.3579356725146199,1.8900000000000003
+3386,France,2007,Female,20-24,0.3579356725146199,1.8900000000000003
+3387,France,2007,Female,25-34,0.3579356725146199,4.05
+3388,France,2007,Female,35-44,0.3579356725146199,6.75
+3389,France,2007,Female,45-54,0.3579356725146199,5.130000000000001
+3390,France,2007,Female,5-14,0.3579356725146199,0.0
+3391,France,2007,Female,55-64,0.3579356725146199,3.7800000000000007
+3392,France,2007,Female,65+,0.3579356725146199,1.8900000000000003
+3393,France,2007,Male,0-4,0.3579356725146199,1.44
+3394,France,2007,Male,15-19,0.3579356725146199,5.04
+3395,France,2007,Male,20-24,0.3579356725146199,5.04
+3396,France,2007,Male,25-34,0.3579356725146199,10.8
+3397,France,2007,Male,35-44,0.3579356725146199,18.0
+3398,France,2007,Male,45-54,0.3579356725146199,13.68
+3399,France,2007,Male,5-14,0.3579356725146199,0.0
+3400,France,2007,Male,55-64,0.3579356725146199,10.08
+3401,France,2007,Male,65+,0.3579356725146199,5.04
+3402,France,2008,Female,0-4,0.3579356725146199,0.0
+3403,France,2008,Female,15-19,0.3579356725146199,2.03
+3404,France,2008,Female,20-24,0.3579356725146199,2.61
+3405,France,2008,Female,25-34,0.3579356725146199,5.51
+3406,France,2008,Female,35-44,0.3579356725146199,8.41
+3407,France,2008,Female,45-54,0.3579356725146199,4.0600000000000005
+3408,France,2008,Female,5-14,0.3579356725146199,0.0
+3409,France,2008,Female,55-64,0.3579356725146199,3.19
+3410,France,2008,Female,65+,0.3579356725146199,1.7399999999999998
+3411,France,2008,Male,0-4,0.3579356725146199,0.0
+3412,France,2008,Male,15-19,0.3579356725146199,4.9
+3413,France,2008,Male,20-24,0.3579356725146199,6.3
+3414,France,2008,Male,25-34,0.3579356725146199,13.299999999999995
+3415,France,2008,Male,35-44,0.3579356725146199,20.3
+3416,France,2008,Male,45-54,0.3579356725146199,9.8
+3417,France,2008,Male,5-14,0.3579356725146199,0.0
+3418,France,2008,Male,55-64,0.3579356725146199,7.7
+3419,France,2008,Male,65+,0.3579356725146199,4.199999999999999
+3420,France,2009,Female,0-4,0.3579356725146199,0.21
+3421,France,2009,Female,15-19,0.3579356725146199,1.2599999999999998
+3422,France,2009,Female,20-24,0.3579356725146199,1.4700000000000002
+3423,France,2009,Female,25-34,0.3579356725146199,3.78
+3424,France,2009,Female,35-44,0.3579356725146199,5.880000000000001
+3425,France,2009,Female,45-54,0.3579356725146199,3.15
+3426,France,2009,Female,5-14,0.3579356725146199,0.0
+3427,France,2009,Female,55-64,0.3579356725146199,2.73
+3428,France,2009,Female,65+,0.3579356725146199,1.68
+3429,France,2009,Male,0-4,0.3579356725146199,0.78
+3430,France,2009,Male,15-19,0.3579356725146199,4.68
+3431,France,2009,Male,20-24,0.3579356725146199,5.460000000000001
+3432,France,2009,Male,25-34,0.3579356725146199,14.04
+3433,France,2009,Male,35-44,0.3579356725146199,21.840000000000003
+3434,France,2009,Male,45-54,0.3579356725146199,11.7
+3435,France,2009,Male,5-14,0.3579356725146199,0.0
+3436,France,2009,Male,55-64,0.3579356725146199,10.14
+3437,France,2009,Male,65+,0.3579356725146199,6.24
+3438,France,2010,Female,0-4,0.3579356725146199,0.6
+3439,France,2010,Female,15-19,0.3579356725146199,2.4
+3440,France,2010,Female,20-24,0.3579356725146199,3.0
+3441,France,2010,Female,25-34,0.3579356725146199,5.1000000000000005
+3442,France,2010,Female,35-44,0.3579356725146199,6.9
+3443,France,2010,Female,45-54,0.3579356725146199,4.8
+3444,France,2010,Female,5-14,0.3579356725146199,1.5
+3445,France,2010,Female,55-64,0.3579356725146199,2.4
+3446,France,2010,Female,65+,0.3579356725146199,1.7999999999999998
+3447,France,2010,Male,0-4,0.3579356725146199,1.38
+3448,France,2010,Male,15-19,0.3579356725146199,5.52
+3449,France,2010,Male,20-24,0.3579356725146199,6.9
+3450,France,2010,Male,25-34,0.3579356725146199,11.73
+3451,France,2010,Male,35-44,0.3579356725146199,15.87
+3452,France,2010,Male,45-54,0.3579356725146199,11.04
+3453,France,2010,Male,5-14,0.3579356725146199,3.45
+3454,France,2010,Male,55-64,0.3579356725146199,5.52
+3455,France,2010,Male,65+,0.3579356725146199,4.139999999999999
+3456,France,2011,Female,0-4,0.3579356725146199,0.34
+3457,France,2011,Female,15-19,0.3579356725146199,3.74
+3458,France,2011,Female,20-24,0.3579356725146199,3.74
+3459,France,2011,Female,25-34,0.3579356725146199,4.08
+3460,France,2011,Female,35-44,0.3579356725146199,5.1000000000000005
+3461,France,2011,Female,45-54,0.3579356725146199,7.140000000000001
+3462,France,2011,Female,5-14,0.3579356725146199,0.0
+3463,France,2011,Female,55-64,0.3579356725146199,4.760000000000001
+3464,France,2011,Female,65+,0.3579356725146199,2.72
+3465,France,2011,Male,0-4,0.3579356725146199,0.65
+3466,France,2011,Male,15-19,0.3579356725146199,7.15
+3467,France,2011,Male,20-24,0.3579356725146199,7.15
+3468,France,2011,Male,25-34,0.3579356725146199,7.8
+3469,France,2011,Male,35-44,0.3579356725146199,9.75
+3470,France,2011,Male,45-54,0.3579356725146199,13.65
+3471,France,2011,Male,5-14,0.3579356725146199,0.0
+3472,France,2011,Male,55-64,0.3579356725146199,9.1
+3473,France,2011,Male,65+,0.3579356725146199,5.2
+3474,France,2012,Female,0-4,0.3579356725146199,0.0
+3475,France,2012,Female,15-19,0.3579356725146199,1.36
+3476,France,2012,Female,20-24,0.3579356725146199,1.53
+3477,France,2012,Female,25-34,0.3579356725146199,3.4000000000000004
+3478,France,2012,Female,35-44,0.3579356725146199,2.890000000000001
+3479,France,2012,Female,45-54,0.3579356725146199,3.5700000000000003
+3480,France,2012,Female,5-14,0.3579356725146199,0.34
+3481,France,2012,Female,55-64,0.3579356725146199,2.3800000000000003
+3482,France,2012,Female,65+,0.3579356725146199,1.36
+3483,France,2012,Male,0-4,0.3579356725146199,0.0
+3484,France,2012,Male,15-19,0.3579356725146199,6.559999999999999
+3485,France,2012,Male,20-24,0.3579356725146199,7.379999999999999
+3486,France,2012,Male,25-34,0.3579356725146199,16.400000000000002
+3487,France,2012,Male,35-44,0.3579356725146199,13.94
+3488,France,2012,Male,45-54,0.3579356725146199,17.22
+3489,France,2012,Male,5-14,0.3579356725146199,1.6399999999999997
+3490,France,2012,Male,55-64,0.3579356725146199,11.48
+3491,France,2012,Male,65+,0.3579356725146199,6.559999999999999
+3492,France,2013,Female,0-4,0.3579356725146199,0.27
+3493,France,2013,Female,15-19,0.3579356725146199,1.08
+3494,France,2013,Female,20-24,0.3579356725146199,1.08
+3495,France,2013,Female,25-34,0.3579356725146199,5.67
+3496,France,2013,Female,35-44,0.3579356725146199,8.1
+3497,France,2013,Female,45-54,0.3579356725146199,5.130000000000001
+3498,France,2013,Female,5-14,0.3579356725146199,0.0
+3499,France,2013,Female,55-64,0.3579356725146199,3.5100000000000007
+3500,France,2013,Female,65+,0.3579356725146199,1.08
+3501,France,2013,Male,0-4,0.3579356725146199,0.72
+3502,France,2013,Male,15-19,0.3579356725146199,2.88
+3503,France,2013,Male,20-24,0.3579356725146199,2.88
+3504,France,2013,Male,25-34,0.3579356725146199,15.12
+3505,France,2013,Male,35-44,0.3579356725146199,21.6
+3506,France,2013,Male,45-54,0.3579356725146199,13.68
+3507,France,2013,Male,5-14,0.3579356725146199,0.0
+3508,France,2013,Male,55-64,0.3579356725146199,9.36
+3509,France,2013,Male,65+,0.3579356725146199,2.88
+3510,France,2014,Female,0-4,0.3579356725146199,0.0
+3511,France,2014,Female,15-19,0.3579356725146199,2.43
+3512,France,2014,Female,20-24,0.3579356725146199,2.16
+3513,France,2014,Female,25-34,0.3579356725146199,3.24
+3514,France,2014,Female,35-44,0.3579356725146199,5.4
+3515,France,2014,Female,45-54,0.3579356725146199,5.94
+3516,France,2014,Female,5-14,0.3579356725146199,0.0
+3517,France,2014,Female,55-64,0.3579356725146199,3.24
+3518,France,2014,Female,65+,0.3579356725146199,3.5100000000000007
+3519,France,2014,Male,0-4,0.3579356725146199,0.0
+3520,France,2014,Male,15-19,0.3579356725146199,6.48
+3521,France,2014,Male,20-24,0.3579356725146199,5.76
+3522,France,2014,Male,25-34,0.3579356725146199,8.639999999999999
+3523,France,2014,Male,35-44,0.3579356725146199,14.4
+3524,France,2014,Male,45-54,0.3579356725146199,15.839999999999998
+3525,France,2014,Male,5-14,0.3579356725146199,0.0
+3526,France,2014,Male,55-64,0.3579356725146199,8.639999999999999
+3527,France,2014,Male,65+,0.3579356725146199,9.36
+3528,France,2015,Female,0-4,0.3579356725146199,0.0
+3529,France,2015,Female,15-19,0.3579356725146199,1.4
+3530,France,2015,Female,20-24,0.3579356725146199,3.0800000000000005
+3531,France,2015,Female,25-34,0.3579356725146199,6.440000000000001
+3532,France,2015,Female,35-44,0.3579356725146199,4.48
+3533,France,2015,Female,45-54,0.3579356725146199,4.48
+3534,France,2015,Female,5-14,0.3579356725146199,0.56
+3535,France,2015,Female,55-64,0.3579356725146199,2.8000000000000003
+3536,France,2015,Female,65+,0.3579356725146199,4.48
+3537,France,2015,Male,0-4,0.3579356725146199,0.0
+3538,France,2015,Male,15-19,0.3579356725146199,3.55
+3539,France,2015,Male,20-24,0.3579356725146199,7.81
+3540,France,2015,Male,25-34,0.3579356725146199,16.33
+3541,France,2015,Male,35-44,0.3579356725146199,11.36
+3542,France,2015,Male,45-54,0.3579356725146199,11.36
+3543,France,2015,Male,5-14,0.3579356725146199,1.42
+3544,France,2015,Male,55-64,0.3579356725146199,7.1
+3545,France,2015,Male,65+,0.3579356725146199,11.36
+3546,France,2016,Female,0-4,0.3579356725146199,0.0
+3547,France,2016,Female,15-19,0.3579356725146199,1.7000000000000002
+3548,France,2016,Female,20-24,0.3579356725146199,5.1000000000000005
+3549,France,2016,Female,25-34,0.3579356725146199,7.48
+3550,France,2016,Female,35-44,0.3579356725146199,4.08
+3551,France,2016,Female,45-54,0.3579356725146199,3.74
+3552,France,2016,Female,5-14,0.3579356725146199,0.0
+3553,France,2016,Female,55-64,0.3579356725146199,6.460000000000001
+3554,France,2016,Female,65+,0.3579356725146199,4.08
+3555,France,2016,Male,0-4,0.3579356725146199,0.0
+3556,France,2016,Male,15-19,0.3579356725146199,3.25
+3557,France,2016,Male,20-24,0.3579356725146199,9.75
+3558,France,2016,Male,25-34,0.3579356725146199,14.3
+3559,France,2016,Male,35-44,0.3579356725146199,7.8
+3560,France,2016,Male,45-54,0.3579356725146199,7.15
+3561,France,2016,Male,5-14,0.3579356725146199,0.0
+3562,France,2016,Male,55-64,0.3579356725146199,12.35
+3563,France,2016,Male,65+,0.3579356725146199,7.8
+3564,France,2017,Female,0-4,0.3579356725146199,0.0
+3565,France,2017,Female,15-19,0.3579356725146199,2.52
+3566,France,2017,Female,20-24,0.3579356725146199,4.68
+3567,France,2017,Female,25-34,0.3579356725146199,7.199999999999999
+3568,France,2017,Female,35-44,0.3579356725146199,6.84
+3569,France,2017,Female,45-54,0.3579356725146199,5.04
+3570,France,2017,Female,5-14,0.3579356725146199,0.72
+3571,France,2017,Female,55-64,0.3579356725146199,2.88
+3572,France,2017,Female,65+,0.3579356725146199,4.68
+3573,France,2017,Male,0-4,0.3579356725146199,0.0
+3574,France,2017,Male,15-19,0.3579356725146199,4.410000000000001
+3575,France,2017,Male,20-24,0.3579356725146199,8.19
+3576,France,2017,Male,25-34,0.3579356725146199,12.6
+3577,France,2017,Male,35-44,0.3579356725146199,11.97
+3578,France,2017,Male,45-54,0.3579356725146199,8.820000000000002
+3579,France,2017,Male,5-14,0.3579356725146199,1.26
+3580,France,2017,Male,55-64,0.3579356725146199,5.04
+3581,France,2017,Male,65+,0.3579356725146199,8.19
+3582,France,2018,Female,0-4,0.3579356725146199,0.0
+3583,France,2018,Female,15-19,0.3579356725146199,0.58
+3584,France,2018,Female,20-24,0.3579356725146199,2.9
+3585,France,2018,Female,25-34,0.3579356725146199,5.8
+3586,France,2018,Female,35-44,0.3579356725146199,7.539999999999999
+3587,France,2018,Female,45-54,0.3579356725146199,6.09
+3588,France,2018,Female,5-14,0.3579356725146199,0.29
+3589,France,2018,Female,55-64,0.3579356725146199,2.32
+3590,France,2018,Female,65+,0.3579356725146199,2.61
+3591,France,2018,Male,0-4,0.3579356725146199,0.0
+3592,France,2018,Male,15-19,0.3579356725146199,1.4
+3593,France,2018,Male,20-24,0.3579356725146199,6.999999999999999
+3594,France,2018,Male,25-34,0.3579356725146199,13.999999999999998
+3595,France,2018,Male,35-44,0.3579356725146199,18.2
+3596,France,2018,Male,45-54,0.3579356725146199,14.7
+3597,France,2018,Male,5-14,0.3579356725146199,0.7
+3598,France,2018,Male,55-64,0.3579356725146199,5.6
+3599,France,2018,Male,65+,0.3579356725146199,6.3
+3600,France,2019,Female,0-4,0.3579356725146199,0.0
+3601,France,2019,Female,15-19,0.3579356725146199,2.86
+3602,France,2019,Female,20-24,0.3579356725146199,3.74
+3603,France,2019,Female,25-34,0.3579356725146199,2.86
+3604,France,2019,Female,35-44,0.3579356725146199,2.64
+3605,France,2019,Female,45-54,0.3579356725146199,2.86
+3606,France,2019,Female,5-14,0.3579356725146199,0.22
+3607,France,2019,Female,55-64,0.3579356725146199,3.0800000000000005
+3608,France,2019,Female,65+,0.3579356725146199,2.86
+3609,France,2019,Male,0-4,0.3579356725146199,0.0
+3610,France,2019,Male,15-19,0.3579356725146199,10.010000000000002
+3611,France,2019,Male,20-24,0.3579356725146199,13.090000000000002
+3612,France,2019,Male,25-34,0.3579356725146199,10.010000000000002
+3613,France,2019,Male,35-44,0.3579356725146199,9.24
+3614,France,2019,Male,45-54,0.3579356725146199,10.010000000000002
+3615,France,2019,Male,5-14,0.3579356725146199,0.77
+3616,France,2019,Male,55-64,0.3579356725146199,10.78
+3617,France,2019,Male,65+,0.3579356725146199,10.010000000000002
+3618,France,2020,Female,0-4,0.3579356725146199,0.0
+3619,France,2020,Female,15-19,0.3579356725146199,1.2599999999999998
+3620,France,2020,Female,20-24,0.3579356725146199,2.31
+3621,France,2020,Female,25-34,0.3579356725146199,3.99
+3622,France,2020,Female,35-44,0.3579356725146199,3.78
+3623,France,2020,Female,45-54,0.3579356725146199,2.9400000000000004
+3624,France,2020,Female,5-14,0.3579356725146199,0.0
+3625,France,2020,Female,55-64,0.3579356725146199,3.99
+3626,France,2020,Female,65+,0.3579356725146199,1.89
+3627,France,2020,Male,0-4,0.3579356725146199,0.0
+3628,France,2020,Male,15-19,0.3579356725146199,4.68
+3629,France,2020,Male,20-24,0.3579356725146199,8.58
+3630,France,2020,Male,25-34,0.3579356725146199,14.82
+3631,France,2020,Male,35-44,0.3579356725146199,14.04
+3632,France,2020,Male,45-54,0.3579356725146199,10.920000000000002
+3633,France,2020,Male,5-14,0.3579356725146199,0.0
+3634,France,2020,Male,55-64,0.3579356725146199,14.82
+3635,France,2020,Male,65+,0.3579356725146199,7.02
+3636,France,2021,Female,0-4,0.3579356725146199,0.0
+3637,France,2021,Female,15-19,0.3579356725146199,3.24
+3638,France,2021,Female,20-24,0.3579356725146199,6.12
+3639,France,2021,Female,25-34,0.3579356725146199,8.28
+3640,France,2021,Female,35-44,0.3579356725146199,5.76
+3641,France,2021,Female,45-54,0.3579356725146199,4.319999999999999
+3642,France,2021,Female,5-14,0.3579356725146199,0.36
+3643,France,2021,Female,55-64,0.3579356725146199,2.88
+3644,France,2021,Female,65+,0.3579356725146199,3.96
+3645,France,2021,Male,0-4,0.3579356725146199,0.0
+3646,France,2021,Male,15-19,0.3579356725146199,5.67
+3647,France,2021,Male,20-24,0.3579356725146199,10.71
+3648,France,2021,Male,25-34,0.3579356725146199,14.49
+3649,France,2021,Male,35-44,0.3579356725146199,10.08
+3650,France,2021,Male,45-54,0.3579356725146199,7.56
+3651,France,2021,Male,5-14,0.3579356725146199,0.63
+3652,France,2021,Male,55-64,0.3579356725146199,5.04
+3653,France,2021,Male,65+,0.3579356725146199,6.93
+3654,France,2022,Female,0-4,0.3579356725146199,0.0
+3655,France,2022,Female,15-19,0.3579356725146199,2.24
+3656,France,2022,Female,20-24,0.3579356725146199,2.24
+3657,France,2022,Female,25-34,0.3579356725146199,8.4
+3658,France,2022,Female,35-44,0.3579356725146199,5.6000000000000005
+3659,France,2022,Female,45-54,0.3579356725146199,2.8000000000000003
+3660,France,2022,Female,5-14,0.3579356725146199,0.0
+3661,France,2022,Female,55-64,0.3579356725146199,3.0800000000000005
+3662,France,2022,Female,65+,0.3579356725146199,3.3600000000000003
+3663,France,2022,Male,0-4,0.3579356725146199,0.0
+3664,France,2022,Male,15-19,0.3579356725146199,5.68
+3665,France,2022,Male,20-24,0.3579356725146199,5.68
+3666,France,2022,Male,25-34,0.3579356725146199,21.3
+3667,France,2022,Male,35-44,0.3579356725146199,14.2
+3668,France,2022,Male,45-54,0.3579356725146199,7.1
+3669,France,2022,Male,5-14,0.3579356725146199,0.0
+3670,France,2022,Male,55-64,0.3579356725146199,7.81
+3671,France,2022,Male,65+,0.3579356725146199,8.52
+3672,France,2023,Female,0-4,0.3579356725146199,0.0
+3673,France,2023,Female,15-19,0.3579356725146199,2.0900000000000003
+3674,France,2023,Female,20-24,0.3579356725146199,1.52
+3675,France,2023,Female,25-34,0.3579356725146199,4.94
+3676,France,2023,Female,35-44,0.3579356725146199,3.61
+3677,France,2023,Female,45-54,0.3579356725146199,1.71
+3678,France,2023,Female,5-14,0.3579356725146199,0.0
+3679,France,2023,Female,55-64,0.3579356725146199,2.66
+3680,France,2023,Female,65+,0.3579356725146199,1.9000000000000004
+3681,France,2023,Male,0-4,0.3579356725146199,0.0
+3682,France,2023,Male,15-19,0.3579356725146199,8.8
+3683,France,2023,Male,20-24,0.3579356725146199,6.4
+3684,France,2023,Male,25-34,0.3579356725146199,20.8
+3685,France,2023,Male,35-44,0.3579356725146199,15.200000000000005
+3686,France,2023,Male,45-54,0.3579356725146199,7.199999999999999
+3687,France,2023,Male,5-14,0.3579356725146199,0.0
+3688,France,2023,Male,55-64,0.3579356725146199,11.2
+3689,France,2023,Male,65+,0.3579356725146199,8.000000000000002
 3690,Germany,2006,Female,0-4,0.0,0.0
 3691,Germany,2006,Female,15-19,0.0,1.2
 3692,Germany,2006,Female,20-24,0.0,2.1
@@ -4337,330 +3041,330 @@
 4335,Greece,2023,Male,5-14,0.0,0.0
 4336,Greece,2023,Male,55-64,0.04,7.04
 4337,Greece,2023,Male,65+,0.06,14.72
-4338,Hungary,2006,Female,0-4,,0.4099999999999999
-4339,Hungary,2006,Female,15-19,,0.8199999999999998
-4340,Hungary,2006,Female,20-24,,3.28
-4341,Hungary,2006,Female,25-34,,13.119999999999996
-4342,Hungary,2006,Female,35-44,,9.839999999999998
-4343,Hungary,2006,Female,45-54,,4.919999999999999
-4344,Hungary,2006,Female,5-14,,1.2299999999999998
-4345,Hungary,2006,Female,55-64,,3.28
-4346,Hungary,2006,Female,65+,,2.4599999999999995
-4347,Hungary,2006,Male,0-4,,0.58
-4348,Hungary,2006,Male,15-19,,1.16
-4349,Hungary,2006,Male,20-24,,4.64
-4350,Hungary,2006,Male,25-34,,18.56
-4351,Hungary,2006,Male,35-44,,13.919999999999998
-4352,Hungary,2006,Male,45-54,,6.959999999999999
-4353,Hungary,2006,Male,5-14,,1.7399999999999998
-4354,Hungary,2006,Male,55-64,,4.64
-4355,Hungary,2006,Male,65+,,3.4799999999999995
-4356,Hungary,2007,Female,0-4,,0.0
-4357,Hungary,2007,Female,15-19,,0.66
-4358,Hungary,2007,Female,20-24,,1.1
-4359,Hungary,2007,Female,25-34,,7.919999999999999
-4360,Hungary,2007,Female,35-44,,3.3000000000000003
-4361,Hungary,2007,Female,45-54,,2.64
-4362,Hungary,2007,Female,5-14,,0.44
-4363,Hungary,2007,Female,55-64,,2.42
-4364,Hungary,2007,Female,65+,,2.86
-4365,Hungary,2007,Male,0-4,,0.0
-4366,Hungary,2007,Male,15-19,,2.31
-4367,Hungary,2007,Male,20-24,,3.850000000000001
-4368,Hungary,2007,Male,25-34,,27.72
-4369,Hungary,2007,Male,35-44,,11.55
-4370,Hungary,2007,Male,45-54,,9.24
-4371,Hungary,2007,Male,5-14,,1.54
-4372,Hungary,2007,Male,55-64,,8.469999999999999
-4373,Hungary,2007,Male,65+,,10.010000000000002
-4374,Hungary,2008,Female,0-4,,0.36
-4375,Hungary,2008,Female,15-19,,0.72
-4376,Hungary,2008,Female,20-24,,2.16
-4377,Hungary,2008,Female,25-34,,7.56
-4378,Hungary,2008,Female,35-44,,6.84
-4379,Hungary,2008,Female,45-54,,6.48
-4380,Hungary,2008,Female,5-14,,1.7999999999999998
-4381,Hungary,2008,Female,55-64,,6.12
-4382,Hungary,2008,Female,65+,,2.52
-4383,Hungary,2008,Male,0-4,,0.63
-4384,Hungary,2008,Male,15-19,,1.26
-4385,Hungary,2008,Male,20-24,,3.78
-4386,Hungary,2008,Male,25-34,,13.23
-4387,Hungary,2008,Male,35-44,,11.97
-4388,Hungary,2008,Male,45-54,,11.34
-4389,Hungary,2008,Male,5-14,,3.15
-4390,Hungary,2008,Male,55-64,,10.71
-4391,Hungary,2008,Male,65+,,4.410000000000001
-4392,Hungary,2009,Female,0-4,,0.26
-4393,Hungary,2009,Female,15-19,,0.0
-4394,Hungary,2009,Female,20-24,,0.26
-4395,Hungary,2009,Female,25-34,,7.28
-4396,Hungary,2009,Female,35-44,,7.539999999999999
-4397,Hungary,2009,Female,45-54,,2.08
-4398,Hungary,2009,Female,5-14,,1.04
-4399,Hungary,2009,Female,55-64,,3.64
-4400,Hungary,2009,Female,65+,,2.6
-4401,Hungary,2009,Male,0-4,,0.73
-4402,Hungary,2009,Male,15-19,,0.0
-4403,Hungary,2009,Male,20-24,,0.73
-4404,Hungary,2009,Male,25-34,,20.44
-4405,Hungary,2009,Male,35-44,,21.17
-4406,Hungary,2009,Male,45-54,,5.84
-4407,Hungary,2009,Male,5-14,,2.92
-4408,Hungary,2009,Male,55-64,,10.22
-4409,Hungary,2009,Male,65+,,7.3
-4410,Hungary,2010,Female,0-4,,0.0
-4411,Hungary,2010,Female,15-19,,0.26
-4412,Hungary,2010,Female,20-24,,2.08
-4413,Hungary,2010,Female,25-34,,3.3800000000000003
-4414,Hungary,2010,Female,35-44,,7.28
-4415,Hungary,2010,Female,45-54,,6.5
-4416,Hungary,2010,Female,5-14,,0.26
-4417,Hungary,2010,Female,55-64,,2.86
-4418,Hungary,2010,Female,65+,,2.6
-4419,Hungary,2010,Male,0-4,,0.0
-4420,Hungary,2010,Male,15-19,,0.73
-4421,Hungary,2010,Male,20-24,,5.84
-4422,Hungary,2010,Male,25-34,,9.49
-4423,Hungary,2010,Male,35-44,,20.44
-4424,Hungary,2010,Male,45-54,,18.25
-4425,Hungary,2010,Male,5-14,,0.73
-4426,Hungary,2010,Male,55-64,,8.03
-4427,Hungary,2010,Male,65+,,7.3
-4428,Hungary,2011,Female,0-4,,0.0
-4429,Hungary,2011,Female,15-19,,0.0
-4430,Hungary,2011,Female,20-24,,0.22
-4431,Hungary,2011,Female,25-34,,9.46
-4432,Hungary,2011,Female,35-44,,5.72
-4433,Hungary,2011,Female,45-54,,2.2
-4434,Hungary,2011,Female,5-14,,0.0
-4435,Hungary,2011,Female,55-64,,2.2
-4436,Hungary,2011,Female,65+,,1.5400000000000005
-4437,Hungary,2011,Male,0-4,,0.0
-4438,Hungary,2011,Male,15-19,,0.0
-4439,Hungary,2011,Male,20-24,,0.77
-4440,Hungary,2011,Male,25-34,,33.11
-4441,Hungary,2011,Male,35-44,,20.020000000000003
-4442,Hungary,2011,Male,45-54,,7.700000000000001
-4443,Hungary,2011,Male,5-14,,0.0
-4444,Hungary,2011,Male,55-64,,7.700000000000001
-4445,Hungary,2011,Male,65+,,5.390000000000001
-4446,Hungary,2012,Female,0-4,,0.96
-4447,Hungary,2012,Female,15-19,,0.0
-4448,Hungary,2012,Female,20-24,,0.32
-4449,Hungary,2012,Female,25-34,,10.24
-4450,Hungary,2012,Female,35-44,,8.32
-4451,Hungary,2012,Female,45-54,,4.16
-4452,Hungary,2012,Female,5-14,,0.0
-4453,Hungary,2012,Female,55-64,,4.8
-4454,Hungary,2012,Female,65+,,2.24
-4455,Hungary,2012,Male,0-4,,2.01
-4456,Hungary,2012,Male,15-19,,0.0
-4457,Hungary,2012,Male,20-24,,0.67
-4458,Hungary,2012,Male,25-34,,21.44
-4459,Hungary,2012,Male,35-44,,17.42
-4460,Hungary,2012,Male,45-54,,8.71
-4461,Hungary,2012,Male,5-14,,0.0
-4462,Hungary,2012,Male,55-64,,10.05
-4463,Hungary,2012,Male,65+,,4.69
-4464,Hungary,2013,Female,0-4,,0.29
-4465,Hungary,2013,Female,15-19,,0.0
-4466,Hungary,2013,Female,20-24,,0.0
-4467,Hungary,2013,Female,25-34,,7.829999999999999
-4468,Hungary,2013,Female,35-44,,9.57
-4469,Hungary,2013,Female,45-54,,4.930000000000001
-4470,Hungary,2013,Female,5-14,,0.8699999999999999
-4471,Hungary,2013,Female,55-64,,3.19
-4472,Hungary,2013,Female,65+,,1.16
-4473,Hungary,2013,Male,0-4,,0.7
-4474,Hungary,2013,Male,15-19,,0.0
-4475,Hungary,2013,Male,20-24,,0.0
-4476,Hungary,2013,Male,25-34,,18.9
-4477,Hungary,2013,Male,35-44,,23.1
-4478,Hungary,2013,Male,45-54,,11.9
-4479,Hungary,2013,Male,5-14,,2.1
-4480,Hungary,2013,Male,55-64,,7.7
-4481,Hungary,2013,Male,65+,,2.8
-4482,Hungary,2014,Female,0-4,,1.4
-4483,Hungary,2014,Female,15-19,,0.35
-4484,Hungary,2014,Female,20-24,,0.35
-4485,Hungary,2014,Female,25-34,,8.399999999999999
-4486,Hungary,2014,Female,35-44,,8.05
-4487,Hungary,2014,Female,45-54,,4.55
-4488,Hungary,2014,Female,5-14,,0.35
-4489,Hungary,2014,Female,55-64,,6.3
-4490,Hungary,2014,Female,65+,,3.5
-4491,Hungary,2014,Male,0-4,,2.56
-4492,Hungary,2014,Male,15-19,,0.64
-4493,Hungary,2014,Male,20-24,,0.64
-4494,Hungary,2014,Male,25-34,,15.36
-4495,Hungary,2014,Male,35-44,,14.72
-4496,Hungary,2014,Male,45-54,,8.32
-4497,Hungary,2014,Male,5-14,,0.64
-4498,Hungary,2014,Male,55-64,,11.52
-4499,Hungary,2014,Male,65+,,6.4
-4500,Hungary,2015,Female,0-4,,0.0
-4501,Hungary,2015,Female,15-19,,0.0
-4502,Hungary,2015,Female,20-24,,1.86
-4503,Hungary,2015,Female,25-34,,5.2700000000000005
-4504,Hungary,2015,Female,35-44,,8.68
-4505,Hungary,2015,Female,45-54,,5.2700000000000005
-4506,Hungary,2015,Female,5-14,,0.0
-4507,Hungary,2015,Female,55-64,,5.2700000000000005
-4508,Hungary,2015,Female,65+,,3.41
-4509,Hungary,2015,Male,0-4,,0.0
-4510,Hungary,2015,Male,15-19,,0.0
-4511,Hungary,2015,Male,20-24,,4.08
-4512,Hungary,2015,Male,25-34,,11.560000000000002
-4513,Hungary,2015,Male,35-44,,19.040000000000003
-4514,Hungary,2015,Male,45-54,,11.560000000000002
-4515,Hungary,2015,Male,5-14,,0.0
-4516,Hungary,2015,Male,55-64,,11.560000000000002
-4517,Hungary,2015,Male,65+,,7.48
-4518,Hungary,2016,Female,0-4,,0.0
-4519,Hungary,2016,Female,15-19,,0.36
-4520,Hungary,2016,Female,20-24,,0.0
-4521,Hungary,2016,Female,25-34,,5.04
-4522,Hungary,2016,Female,35-44,,11.52
-4523,Hungary,2016,Female,45-54,,7.199999999999999
-4524,Hungary,2016,Female,5-14,,0.0
-4525,Hungary,2016,Female,55-64,,6.48
-4526,Hungary,2016,Female,65+,,4.319999999999999
-4527,Hungary,2016,Male,0-4,,0.0
-4528,Hungary,2016,Male,15-19,,0.63
-4529,Hungary,2016,Male,20-24,,0.0
-4530,Hungary,2016,Male,25-34,,8.820000000000002
-4531,Hungary,2016,Male,35-44,,20.16
-4532,Hungary,2016,Male,45-54,,12.6
-4533,Hungary,2016,Male,5-14,,0.0
-4534,Hungary,2016,Male,55-64,,11.34
-4535,Hungary,2016,Male,65+,,7.56
-4536,Hungary,2017,Female,0-4,,0.0
-4537,Hungary,2017,Female,15-19,,0.0
-4538,Hungary,2017,Female,20-24,,0.0
-4539,Hungary,2017,Female,25-34,,1.82
-4540,Hungary,2017,Female,35-44,,8.58
-4541,Hungary,2017,Female,45-54,,5.46
-4542,Hungary,2017,Female,5-14,,0.0
-4543,Hungary,2017,Female,55-64,,4.94
-4544,Hungary,2017,Female,65+,,4.94
-4545,Hungary,2017,Male,0-4,,0.0
-4546,Hungary,2017,Male,15-19,,0.0
-4547,Hungary,2017,Male,20-24,,0.0
-4548,Hungary,2017,Male,25-34,,5.11
-4549,Hungary,2017,Male,35-44,,24.09
-4550,Hungary,2017,Male,45-54,,15.329999999999998
-4551,Hungary,2017,Male,5-14,,0.0
-4552,Hungary,2017,Male,55-64,,13.87
-4553,Hungary,2017,Male,65+,,13.87
-4554,Hungary,2018,Female,0-4,,0.68
-4555,Hungary,2018,Female,15-19,,0.68
-4556,Hungary,2018,Female,20-24,,0.0
-4557,Hungary,2018,Female,25-34,,4.760000000000001
-4558,Hungary,2018,Female,35-44,,5.780000000000001
-4559,Hungary,2018,Female,45-54,,9.52
-4560,Hungary,2018,Female,5-14,,0.0
-4561,Hungary,2018,Female,55-64,,5.780000000000001
-4562,Hungary,2018,Female,65+,,5.780000000000001
-4563,Hungary,2018,Male,0-4,,1.3
-4564,Hungary,2018,Male,15-19,,1.3
-4565,Hungary,2018,Male,20-24,,0.0
-4566,Hungary,2018,Male,25-34,,9.1
-4567,Hungary,2018,Male,35-44,,11.05
-4568,Hungary,2018,Male,45-54,,18.200000000000003
-4569,Hungary,2018,Male,5-14,,0.0
-4570,Hungary,2018,Male,55-64,,11.05
-4571,Hungary,2018,Male,65+,,11.05
-4572,Hungary,2019,Female,0-4,,0.0
-4573,Hungary,2019,Female,15-19,,0.0
-4574,Hungary,2019,Female,20-24,,0.0
-4575,Hungary,2019,Female,25-34,,6.97
-4576,Hungary,2019,Female,35-44,,4.51
-4577,Hungary,2019,Female,45-54,,9.43
-4578,Hungary,2019,Female,5-14,,0.0
-4579,Hungary,2019,Female,55-64,,9.43
-4580,Hungary,2019,Female,65+,,9.43
-4581,Hungary,2019,Male,0-4,,0.0
-4582,Hungary,2019,Male,15-19,,0.0
-4583,Hungary,2019,Male,20-24,,0.0
-4584,Hungary,2019,Male,25-34,,9.86
-4585,Hungary,2019,Male,35-44,,6.38
-4586,Hungary,2019,Male,45-54,,13.34
-4587,Hungary,2019,Male,5-14,,0.0
-4588,Hungary,2019,Male,55-64,,13.34
-4589,Hungary,2019,Male,65+,,13.34
-4590,Hungary,2020,Female,0-4,,0.0
-4591,Hungary,2020,Female,15-19,,0.0
-4592,Hungary,2020,Female,20-24,,5.880000000000001
-4593,Hungary,2020,Female,25-34,,2.9400000000000004
-4594,Hungary,2020,Female,35-44,,8.819999999999999
-4595,Hungary,2020,Female,45-54,,14.7
-4596,Hungary,2020,Female,5-14,,0.0
-4597,Hungary,2020,Female,55-64,,5.880000000000001
-4598,Hungary,2020,Female,65+,,2.9400000000000004
-4599,Hungary,2020,Male,0-4,,0.0
-4600,Hungary,2020,Male,15-19,,0.0
-4601,Hungary,2020,Male,20-24,,7.979999999999999
-4602,Hungary,2020,Male,25-34,,3.99
-4603,Hungary,2020,Male,35-44,,11.97
-4604,Hungary,2020,Male,45-54,,19.95
-4605,Hungary,2020,Male,5-14,,0.0
-4606,Hungary,2020,Male,55-64,,7.979999999999999
-4607,Hungary,2020,Male,65+,,3.99
-4608,Hungary,2021,Female,0-4,,0.0
-4609,Hungary,2021,Female,15-19,,0.0
-4610,Hungary,2021,Female,20-24,,0.0
-4611,Hungary,2021,Female,25-34,,8.819999999999999
-4612,Hungary,2021,Female,35-44,,11.760000000000002
-4613,Hungary,2021,Female,45-54,,5.880000000000001
-4614,Hungary,2021,Female,5-14,,0.0
-4615,Hungary,2021,Female,55-64,,8.819999999999999
-4616,Hungary,2021,Female,65+,,5.880000000000001
-4617,Hungary,2021,Male,0-4,,0.0
-4618,Hungary,2021,Male,15-19,,0.0
-4619,Hungary,2021,Male,20-24,,0.0
-4620,Hungary,2021,Male,25-34,,11.97
-4621,Hungary,2021,Male,35-44,,15.96
-4622,Hungary,2021,Male,45-54,,7.979999999999999
-4623,Hungary,2021,Male,5-14,,0.0
-4624,Hungary,2021,Male,55-64,,11.97
-4625,Hungary,2021,Male,65+,,7.979999999999999
-4626,Hungary,2022,Female,0-4,,0.0
-4627,Hungary,2022,Female,15-19,,0.0
-4628,Hungary,2022,Female,20-24,,0.0
-4629,Hungary,2022,Female,25-34,,4.42
-4630,Hungary,2022,Female,35-44,,5.780000000000001
-4631,Hungary,2022,Female,45-54,,11.560000000000002
-4632,Hungary,2022,Female,5-14,,0.0
-4633,Hungary,2022,Female,55-64,,8.84
-4634,Hungary,2022,Female,65+,,2.72
-4635,Hungary,2022,Male,0-4,,0.0
-4636,Hungary,2022,Male,15-19,,0.0
-4637,Hungary,2022,Male,20-24,,0.0
-4638,Hungary,2022,Male,25-34,,8.450000000000001
-4639,Hungary,2022,Male,35-44,,11.05
-4640,Hungary,2022,Male,45-54,,22.1
-4641,Hungary,2022,Male,5-14,,0.0
-4642,Hungary,2022,Male,55-64,,16.900000000000002
-4643,Hungary,2022,Male,65+,,5.2
-4644,Hungary,2023,Female,0-4,,0.0
-4645,Hungary,2023,Female,15-19,,0.0
-4646,Hungary,2023,Female,20-24,,0.0
-4647,Hungary,2023,Female,25-34,,5.72
-4648,Hungary,2023,Female,35-44,,8.84
-4649,Hungary,2023,Female,45-54,,11.96
-4650,Hungary,2023,Female,5-14,,0.0
-4651,Hungary,2023,Female,55-64,,8.84
-4652,Hungary,2023,Female,65+,,15.079999999999998
-4653,Hungary,2023,Male,0-4,,0.0
-4654,Hungary,2023,Male,15-19,,0.0
-4655,Hungary,2023,Male,20-24,,0.0
-4656,Hungary,2023,Male,25-34,,5.17
-4657,Hungary,2023,Male,35-44,,7.99
-4658,Hungary,2023,Male,45-54,,10.81
-4659,Hungary,2023,Male,5-14,,0.0
-4660,Hungary,2023,Male,55-64,,7.99
-4661,Hungary,2023,Male,65+,,13.629999999999995
+4338,Hungary,2006,Female,0-4,0.3579356725146199,0.4099999999999999
+4339,Hungary,2006,Female,15-19,0.3579356725146199,0.8199999999999998
+4340,Hungary,2006,Female,20-24,0.3579356725146199,3.28
+4341,Hungary,2006,Female,25-34,0.3579356725146199,13.119999999999996
+4342,Hungary,2006,Female,35-44,0.3579356725146199,9.839999999999998
+4343,Hungary,2006,Female,45-54,0.3579356725146199,4.919999999999999
+4344,Hungary,2006,Female,5-14,0.3579356725146199,1.2299999999999998
+4345,Hungary,2006,Female,55-64,0.3579356725146199,3.28
+4346,Hungary,2006,Female,65+,0.3579356725146199,2.4599999999999995
+4347,Hungary,2006,Male,0-4,0.3579356725146199,0.58
+4348,Hungary,2006,Male,15-19,0.3579356725146199,1.16
+4349,Hungary,2006,Male,20-24,0.3579356725146199,4.64
+4350,Hungary,2006,Male,25-34,0.3579356725146199,18.56
+4351,Hungary,2006,Male,35-44,0.3579356725146199,13.919999999999998
+4352,Hungary,2006,Male,45-54,0.3579356725146199,6.959999999999999
+4353,Hungary,2006,Male,5-14,0.3579356725146199,1.7399999999999998
+4354,Hungary,2006,Male,55-64,0.3579356725146199,4.64
+4355,Hungary,2006,Male,65+,0.3579356725146199,3.4799999999999995
+4356,Hungary,2007,Female,0-4,0.3579356725146199,0.0
+4357,Hungary,2007,Female,15-19,0.3579356725146199,0.66
+4358,Hungary,2007,Female,20-24,0.3579356725146199,1.1
+4359,Hungary,2007,Female,25-34,0.3579356725146199,7.919999999999999
+4360,Hungary,2007,Female,35-44,0.3579356725146199,3.3000000000000003
+4361,Hungary,2007,Female,45-54,0.3579356725146199,2.64
+4362,Hungary,2007,Female,5-14,0.3579356725146199,0.44
+4363,Hungary,2007,Female,55-64,0.3579356725146199,2.42
+4364,Hungary,2007,Female,65+,0.3579356725146199,2.86
+4365,Hungary,2007,Male,0-4,0.3579356725146199,0.0
+4366,Hungary,2007,Male,15-19,0.3579356725146199,2.31
+4367,Hungary,2007,Male,20-24,0.3579356725146199,3.850000000000001
+4368,Hungary,2007,Male,25-34,0.3579356725146199,27.72
+4369,Hungary,2007,Male,35-44,0.3579356725146199,11.55
+4370,Hungary,2007,Male,45-54,0.3579356725146199,9.24
+4371,Hungary,2007,Male,5-14,0.3579356725146199,1.54
+4372,Hungary,2007,Male,55-64,0.3579356725146199,8.469999999999999
+4373,Hungary,2007,Male,65+,0.3579356725146199,10.010000000000002
+4374,Hungary,2008,Female,0-4,0.3579356725146199,0.36
+4375,Hungary,2008,Female,15-19,0.3579356725146199,0.72
+4376,Hungary,2008,Female,20-24,0.3579356725146199,2.16
+4377,Hungary,2008,Female,25-34,0.3579356725146199,7.56
+4378,Hungary,2008,Female,35-44,0.3579356725146199,6.84
+4379,Hungary,2008,Female,45-54,0.3579356725146199,6.48
+4380,Hungary,2008,Female,5-14,0.3579356725146199,1.7999999999999998
+4381,Hungary,2008,Female,55-64,0.3579356725146199,6.12
+4382,Hungary,2008,Female,65+,0.3579356725146199,2.52
+4383,Hungary,2008,Male,0-4,0.3579356725146199,0.63
+4384,Hungary,2008,Male,15-19,0.3579356725146199,1.26
+4385,Hungary,2008,Male,20-24,0.3579356725146199,3.78
+4386,Hungary,2008,Male,25-34,0.3579356725146199,13.23
+4387,Hungary,2008,Male,35-44,0.3579356725146199,11.97
+4388,Hungary,2008,Male,45-54,0.3579356725146199,11.34
+4389,Hungary,2008,Male,5-14,0.3579356725146199,3.15
+4390,Hungary,2008,Male,55-64,0.3579356725146199,10.71
+4391,Hungary,2008,Male,65+,0.3579356725146199,4.410000000000001
+4392,Hungary,2009,Female,0-4,0.3579356725146199,0.26
+4393,Hungary,2009,Female,15-19,0.3579356725146199,0.0
+4394,Hungary,2009,Female,20-24,0.3579356725146199,0.26
+4395,Hungary,2009,Female,25-34,0.3579356725146199,7.28
+4396,Hungary,2009,Female,35-44,0.3579356725146199,7.539999999999999
+4397,Hungary,2009,Female,45-54,0.3579356725146199,2.08
+4398,Hungary,2009,Female,5-14,0.3579356725146199,1.04
+4399,Hungary,2009,Female,55-64,0.3579356725146199,3.64
+4400,Hungary,2009,Female,65+,0.3579356725146199,2.6
+4401,Hungary,2009,Male,0-4,0.3579356725146199,0.73
+4402,Hungary,2009,Male,15-19,0.3579356725146199,0.0
+4403,Hungary,2009,Male,20-24,0.3579356725146199,0.73
+4404,Hungary,2009,Male,25-34,0.3579356725146199,20.44
+4405,Hungary,2009,Male,35-44,0.3579356725146199,21.17
+4406,Hungary,2009,Male,45-54,0.3579356725146199,5.84
+4407,Hungary,2009,Male,5-14,0.3579356725146199,2.92
+4408,Hungary,2009,Male,55-64,0.3579356725146199,10.22
+4409,Hungary,2009,Male,65+,0.3579356725146199,7.3
+4410,Hungary,2010,Female,0-4,0.3579356725146199,0.0
+4411,Hungary,2010,Female,15-19,0.3579356725146199,0.26
+4412,Hungary,2010,Female,20-24,0.3579356725146199,2.08
+4413,Hungary,2010,Female,25-34,0.3579356725146199,3.3800000000000003
+4414,Hungary,2010,Female,35-44,0.3579356725146199,7.28
+4415,Hungary,2010,Female,45-54,0.3579356725146199,6.5
+4416,Hungary,2010,Female,5-14,0.3579356725146199,0.26
+4417,Hungary,2010,Female,55-64,0.3579356725146199,2.86
+4418,Hungary,2010,Female,65+,0.3579356725146199,2.6
+4419,Hungary,2010,Male,0-4,0.3579356725146199,0.0
+4420,Hungary,2010,Male,15-19,0.3579356725146199,0.73
+4421,Hungary,2010,Male,20-24,0.3579356725146199,5.84
+4422,Hungary,2010,Male,25-34,0.3579356725146199,9.49
+4423,Hungary,2010,Male,35-44,0.3579356725146199,20.44
+4424,Hungary,2010,Male,45-54,0.3579356725146199,18.25
+4425,Hungary,2010,Male,5-14,0.3579356725146199,0.73
+4426,Hungary,2010,Male,55-64,0.3579356725146199,8.03
+4427,Hungary,2010,Male,65+,0.3579356725146199,7.3
+4428,Hungary,2011,Female,0-4,0.3579356725146199,0.0
+4429,Hungary,2011,Female,15-19,0.3579356725146199,0.0
+4430,Hungary,2011,Female,20-24,0.3579356725146199,0.22
+4431,Hungary,2011,Female,25-34,0.3579356725146199,9.46
+4432,Hungary,2011,Female,35-44,0.3579356725146199,5.72
+4433,Hungary,2011,Female,45-54,0.3579356725146199,2.2
+4434,Hungary,2011,Female,5-14,0.3579356725146199,0.0
+4435,Hungary,2011,Female,55-64,0.3579356725146199,2.2
+4436,Hungary,2011,Female,65+,0.3579356725146199,1.5400000000000005
+4437,Hungary,2011,Male,0-4,0.3579356725146199,0.0
+4438,Hungary,2011,Male,15-19,0.3579356725146199,0.0
+4439,Hungary,2011,Male,20-24,0.3579356725146199,0.77
+4440,Hungary,2011,Male,25-34,0.3579356725146199,33.11
+4441,Hungary,2011,Male,35-44,0.3579356725146199,20.020000000000003
+4442,Hungary,2011,Male,45-54,0.3579356725146199,7.700000000000001
+4443,Hungary,2011,Male,5-14,0.3579356725146199,0.0
+4444,Hungary,2011,Male,55-64,0.3579356725146199,7.700000000000001
+4445,Hungary,2011,Male,65+,0.3579356725146199,5.390000000000001
+4446,Hungary,2012,Female,0-4,0.3579356725146199,0.96
+4447,Hungary,2012,Female,15-19,0.3579356725146199,0.0
+4448,Hungary,2012,Female,20-24,0.3579356725146199,0.32
+4449,Hungary,2012,Female,25-34,0.3579356725146199,10.24
+4450,Hungary,2012,Female,35-44,0.3579356725146199,8.32
+4451,Hungary,2012,Female,45-54,0.3579356725146199,4.16
+4452,Hungary,2012,Female,5-14,0.3579356725146199,0.0
+4453,Hungary,2012,Female,55-64,0.3579356725146199,4.8
+4454,Hungary,2012,Female,65+,0.3579356725146199,2.24
+4455,Hungary,2012,Male,0-4,0.3579356725146199,2.01
+4456,Hungary,2012,Male,15-19,0.3579356725146199,0.0
+4457,Hungary,2012,Male,20-24,0.3579356725146199,0.67
+4458,Hungary,2012,Male,25-34,0.3579356725146199,21.44
+4459,Hungary,2012,Male,35-44,0.3579356725146199,17.42
+4460,Hungary,2012,Male,45-54,0.3579356725146199,8.71
+4461,Hungary,2012,Male,5-14,0.3579356725146199,0.0
+4462,Hungary,2012,Male,55-64,0.3579356725146199,10.05
+4463,Hungary,2012,Male,65+,0.3579356725146199,4.69
+4464,Hungary,2013,Female,0-4,0.3579356725146199,0.29
+4465,Hungary,2013,Female,15-19,0.3579356725146199,0.0
+4466,Hungary,2013,Female,20-24,0.3579356725146199,0.0
+4467,Hungary,2013,Female,25-34,0.3579356725146199,7.829999999999999
+4468,Hungary,2013,Female,35-44,0.3579356725146199,9.57
+4469,Hungary,2013,Female,45-54,0.3579356725146199,4.930000000000001
+4470,Hungary,2013,Female,5-14,0.3579356725146199,0.8699999999999999
+4471,Hungary,2013,Female,55-64,0.3579356725146199,3.19
+4472,Hungary,2013,Female,65+,0.3579356725146199,1.16
+4473,Hungary,2013,Male,0-4,0.3579356725146199,0.7
+4474,Hungary,2013,Male,15-19,0.3579356725146199,0.0
+4475,Hungary,2013,Male,20-24,0.3579356725146199,0.0
+4476,Hungary,2013,Male,25-34,0.3579356725146199,18.9
+4477,Hungary,2013,Male,35-44,0.3579356725146199,23.1
+4478,Hungary,2013,Male,45-54,0.3579356725146199,11.9
+4479,Hungary,2013,Male,5-14,0.3579356725146199,2.1
+4480,Hungary,2013,Male,55-64,0.3579356725146199,7.7
+4481,Hungary,2013,Male,65+,0.3579356725146199,2.8
+4482,Hungary,2014,Female,0-4,0.3579356725146199,1.4
+4483,Hungary,2014,Female,15-19,0.3579356725146199,0.35
+4484,Hungary,2014,Female,20-24,0.3579356725146199,0.35
+4485,Hungary,2014,Female,25-34,0.3579356725146199,8.399999999999999
+4486,Hungary,2014,Female,35-44,0.3579356725146199,8.05
+4487,Hungary,2014,Female,45-54,0.3579356725146199,4.55
+4488,Hungary,2014,Female,5-14,0.3579356725146199,0.35
+4489,Hungary,2014,Female,55-64,0.3579356725146199,6.3
+4490,Hungary,2014,Female,65+,0.3579356725146199,3.5
+4491,Hungary,2014,Male,0-4,0.3579356725146199,2.56
+4492,Hungary,2014,Male,15-19,0.3579356725146199,0.64
+4493,Hungary,2014,Male,20-24,0.3579356725146199,0.64
+4494,Hungary,2014,Male,25-34,0.3579356725146199,15.36
+4495,Hungary,2014,Male,35-44,0.3579356725146199,14.72
+4496,Hungary,2014,Male,45-54,0.3579356725146199,8.32
+4497,Hungary,2014,Male,5-14,0.3579356725146199,0.64
+4498,Hungary,2014,Male,55-64,0.3579356725146199,11.52
+4499,Hungary,2014,Male,65+,0.3579356725146199,6.4
+4500,Hungary,2015,Female,0-4,0.3579356725146199,0.0
+4501,Hungary,2015,Female,15-19,0.3579356725146199,0.0
+4502,Hungary,2015,Female,20-24,0.3579356725146199,1.86
+4503,Hungary,2015,Female,25-34,0.3579356725146199,5.2700000000000005
+4504,Hungary,2015,Female,35-44,0.3579356725146199,8.68
+4505,Hungary,2015,Female,45-54,0.3579356725146199,5.2700000000000005
+4506,Hungary,2015,Female,5-14,0.3579356725146199,0.0
+4507,Hungary,2015,Female,55-64,0.3579356725146199,5.2700000000000005
+4508,Hungary,2015,Female,65+,0.3579356725146199,3.41
+4509,Hungary,2015,Male,0-4,0.3579356725146199,0.0
+4510,Hungary,2015,Male,15-19,0.3579356725146199,0.0
+4511,Hungary,2015,Male,20-24,0.3579356725146199,4.08
+4512,Hungary,2015,Male,25-34,0.3579356725146199,11.560000000000002
+4513,Hungary,2015,Male,35-44,0.3579356725146199,19.040000000000003
+4514,Hungary,2015,Male,45-54,0.3579356725146199,11.560000000000002
+4515,Hungary,2015,Male,5-14,0.3579356725146199,0.0
+4516,Hungary,2015,Male,55-64,0.3579356725146199,11.560000000000002
+4517,Hungary,2015,Male,65+,0.3579356725146199,7.48
+4518,Hungary,2016,Female,0-4,0.3579356725146199,0.0
+4519,Hungary,2016,Female,15-19,0.3579356725146199,0.36
+4520,Hungary,2016,Female,20-24,0.3579356725146199,0.0
+4521,Hungary,2016,Female,25-34,0.3579356725146199,5.04
+4522,Hungary,2016,Female,35-44,0.3579356725146199,11.52
+4523,Hungary,2016,Female,45-54,0.3579356725146199,7.199999999999999
+4524,Hungary,2016,Female,5-14,0.3579356725146199,0.0
+4525,Hungary,2016,Female,55-64,0.3579356725146199,6.48
+4526,Hungary,2016,Female,65+,0.3579356725146199,4.319999999999999
+4527,Hungary,2016,Male,0-4,0.3579356725146199,0.0
+4528,Hungary,2016,Male,15-19,0.3579356725146199,0.63
+4529,Hungary,2016,Male,20-24,0.3579356725146199,0.0
+4530,Hungary,2016,Male,25-34,0.3579356725146199,8.820000000000002
+4531,Hungary,2016,Male,35-44,0.3579356725146199,20.16
+4532,Hungary,2016,Male,45-54,0.3579356725146199,12.6
+4533,Hungary,2016,Male,5-14,0.3579356725146199,0.0
+4534,Hungary,2016,Male,55-64,0.3579356725146199,11.34
+4535,Hungary,2016,Male,65+,0.3579356725146199,7.56
+4536,Hungary,2017,Female,0-4,0.3579356725146199,0.0
+4537,Hungary,2017,Female,15-19,0.3579356725146199,0.0
+4538,Hungary,2017,Female,20-24,0.3579356725146199,0.0
+4539,Hungary,2017,Female,25-34,0.3579356725146199,1.82
+4540,Hungary,2017,Female,35-44,0.3579356725146199,8.58
+4541,Hungary,2017,Female,45-54,0.3579356725146199,5.46
+4542,Hungary,2017,Female,5-14,0.3579356725146199,0.0
+4543,Hungary,2017,Female,55-64,0.3579356725146199,4.94
+4544,Hungary,2017,Female,65+,0.3579356725146199,4.94
+4545,Hungary,2017,Male,0-4,0.3579356725146199,0.0
+4546,Hungary,2017,Male,15-19,0.3579356725146199,0.0
+4547,Hungary,2017,Male,20-24,0.3579356725146199,0.0
+4548,Hungary,2017,Male,25-34,0.3579356725146199,5.11
+4549,Hungary,2017,Male,35-44,0.3579356725146199,24.09
+4550,Hungary,2017,Male,45-54,0.3579356725146199,15.329999999999998
+4551,Hungary,2017,Male,5-14,0.3579356725146199,0.0
+4552,Hungary,2017,Male,55-64,0.3579356725146199,13.87
+4553,Hungary,2017,Male,65+,0.3579356725146199,13.87
+4554,Hungary,2018,Female,0-4,0.3579356725146199,0.68
+4555,Hungary,2018,Female,15-19,0.3579356725146199,0.68
+4556,Hungary,2018,Female,20-24,0.3579356725146199,0.0
+4557,Hungary,2018,Female,25-34,0.3579356725146199,4.760000000000001
+4558,Hungary,2018,Female,35-44,0.3579356725146199,5.780000000000001
+4559,Hungary,2018,Female,45-54,0.3579356725146199,9.52
+4560,Hungary,2018,Female,5-14,0.3579356725146199,0.0
+4561,Hungary,2018,Female,55-64,0.3579356725146199,5.780000000000001
+4562,Hungary,2018,Female,65+,0.3579356725146199,5.780000000000001
+4563,Hungary,2018,Male,0-4,0.3579356725146199,1.3
+4564,Hungary,2018,Male,15-19,0.3579356725146199,1.3
+4565,Hungary,2018,Male,20-24,0.3579356725146199,0.0
+4566,Hungary,2018,Male,25-34,0.3579356725146199,9.1
+4567,Hungary,2018,Male,35-44,0.3579356725146199,11.05
+4568,Hungary,2018,Male,45-54,0.3579356725146199,18.200000000000003
+4569,Hungary,2018,Male,5-14,0.3579356725146199,0.0
+4570,Hungary,2018,Male,55-64,0.3579356725146199,11.05
+4571,Hungary,2018,Male,65+,0.3579356725146199,11.05
+4572,Hungary,2019,Female,0-4,0.3579356725146199,0.0
+4573,Hungary,2019,Female,15-19,0.3579356725146199,0.0
+4574,Hungary,2019,Female,20-24,0.3579356725146199,0.0
+4575,Hungary,2019,Female,25-34,0.3579356725146199,6.97
+4576,Hungary,2019,Female,35-44,0.3579356725146199,4.51
+4577,Hungary,2019,Female,45-54,0.3579356725146199,9.43
+4578,Hungary,2019,Female,5-14,0.3579356725146199,0.0
+4579,Hungary,2019,Female,55-64,0.3579356725146199,9.43
+4580,Hungary,2019,Female,65+,0.3579356725146199,9.43
+4581,Hungary,2019,Male,0-4,0.3579356725146199,0.0
+4582,Hungary,2019,Male,15-19,0.3579356725146199,0.0
+4583,Hungary,2019,Male,20-24,0.3579356725146199,0.0
+4584,Hungary,2019,Male,25-34,0.3579356725146199,9.86
+4585,Hungary,2019,Male,35-44,0.3579356725146199,6.38
+4586,Hungary,2019,Male,45-54,0.3579356725146199,13.34
+4587,Hungary,2019,Male,5-14,0.3579356725146199,0.0
+4588,Hungary,2019,Male,55-64,0.3579356725146199,13.34
+4589,Hungary,2019,Male,65+,0.3579356725146199,13.34
+4590,Hungary,2020,Female,0-4,0.3579356725146199,0.0
+4591,Hungary,2020,Female,15-19,0.3579356725146199,0.0
+4592,Hungary,2020,Female,20-24,0.3579356725146199,5.880000000000001
+4593,Hungary,2020,Female,25-34,0.3579356725146199,2.9400000000000004
+4594,Hungary,2020,Female,35-44,0.3579356725146199,8.819999999999999
+4595,Hungary,2020,Female,45-54,0.3579356725146199,14.7
+4596,Hungary,2020,Female,5-14,0.3579356725146199,0.0
+4597,Hungary,2020,Female,55-64,0.3579356725146199,5.880000000000001
+4598,Hungary,2020,Female,65+,0.3579356725146199,2.9400000000000004
+4599,Hungary,2020,Male,0-4,0.3579356725146199,0.0
+4600,Hungary,2020,Male,15-19,0.3579356725146199,0.0
+4601,Hungary,2020,Male,20-24,0.3579356725146199,7.979999999999999
+4602,Hungary,2020,Male,25-34,0.3579356725146199,3.99
+4603,Hungary,2020,Male,35-44,0.3579356725146199,11.97
+4604,Hungary,2020,Male,45-54,0.3579356725146199,19.95
+4605,Hungary,2020,Male,5-14,0.3579356725146199,0.0
+4606,Hungary,2020,Male,55-64,0.3579356725146199,7.979999999999999
+4607,Hungary,2020,Male,65+,0.3579356725146199,3.99
+4608,Hungary,2021,Female,0-4,0.3579356725146199,0.0
+4609,Hungary,2021,Female,15-19,0.3579356725146199,0.0
+4610,Hungary,2021,Female,20-24,0.3579356725146199,0.0
+4611,Hungary,2021,Female,25-34,0.3579356725146199,8.819999999999999
+4612,Hungary,2021,Female,35-44,0.3579356725146199,11.760000000000002
+4613,Hungary,2021,Female,45-54,0.3579356725146199,5.880000000000001
+4614,Hungary,2021,Female,5-14,0.3579356725146199,0.0
+4615,Hungary,2021,Female,55-64,0.3579356725146199,8.819999999999999
+4616,Hungary,2021,Female,65+,0.3579356725146199,5.880000000000001
+4617,Hungary,2021,Male,0-4,0.3579356725146199,0.0
+4618,Hungary,2021,Male,15-19,0.3579356725146199,0.0
+4619,Hungary,2021,Male,20-24,0.3579356725146199,0.0
+4620,Hungary,2021,Male,25-34,0.3579356725146199,11.97
+4621,Hungary,2021,Male,35-44,0.3579356725146199,15.96
+4622,Hungary,2021,Male,45-54,0.3579356725146199,7.979999999999999
+4623,Hungary,2021,Male,5-14,0.3579356725146199,0.0
+4624,Hungary,2021,Male,55-64,0.3579356725146199,11.97
+4625,Hungary,2021,Male,65+,0.3579356725146199,7.979999999999999
+4626,Hungary,2022,Female,0-4,0.3579356725146199,0.0
+4627,Hungary,2022,Female,15-19,0.3579356725146199,0.0
+4628,Hungary,2022,Female,20-24,0.3579356725146199,0.0
+4629,Hungary,2022,Female,25-34,0.3579356725146199,4.42
+4630,Hungary,2022,Female,35-44,0.3579356725146199,5.780000000000001
+4631,Hungary,2022,Female,45-54,0.3579356725146199,11.560000000000002
+4632,Hungary,2022,Female,5-14,0.3579356725146199,0.0
+4633,Hungary,2022,Female,55-64,0.3579356725146199,8.84
+4634,Hungary,2022,Female,65+,0.3579356725146199,2.72
+4635,Hungary,2022,Male,0-4,0.3579356725146199,0.0
+4636,Hungary,2022,Male,15-19,0.3579356725146199,0.0
+4637,Hungary,2022,Male,20-24,0.3579356725146199,0.0
+4638,Hungary,2022,Male,25-34,0.3579356725146199,8.450000000000001
+4639,Hungary,2022,Male,35-44,0.3579356725146199,11.05
+4640,Hungary,2022,Male,45-54,0.3579356725146199,22.1
+4641,Hungary,2022,Male,5-14,0.3579356725146199,0.0
+4642,Hungary,2022,Male,55-64,0.3579356725146199,16.900000000000002
+4643,Hungary,2022,Male,65+,0.3579356725146199,5.2
+4644,Hungary,2023,Female,0-4,0.3579356725146199,0.0
+4645,Hungary,2023,Female,15-19,0.3579356725146199,0.0
+4646,Hungary,2023,Female,20-24,0.3579356725146199,0.0
+4647,Hungary,2023,Female,25-34,0.3579356725146199,5.72
+4648,Hungary,2023,Female,35-44,0.3579356725146199,8.84
+4649,Hungary,2023,Female,45-54,0.3579356725146199,11.96
+4650,Hungary,2023,Female,5-14,0.3579356725146199,0.0
+4651,Hungary,2023,Female,55-64,0.3579356725146199,8.84
+4652,Hungary,2023,Female,65+,0.3579356725146199,15.079999999999998
+4653,Hungary,2023,Male,0-4,0.3579356725146199,0.0
+4654,Hungary,2023,Male,15-19,0.3579356725146199,0.0
+4655,Hungary,2023,Male,20-24,0.3579356725146199,0.0
+4656,Hungary,2023,Male,25-34,0.3579356725146199,5.17
+4657,Hungary,2023,Male,35-44,0.3579356725146199,7.99
+4658,Hungary,2023,Male,45-54,0.3579356725146199,10.81
+4659,Hungary,2023,Male,5-14,0.3579356725146199,0.0
+4660,Hungary,2023,Male,55-64,0.3579356725146199,7.99
+4661,Hungary,2023,Male,65+,0.3579356725146199,13.629999999999995
 4662,Iceland,2010,Female,0-4,0.0,0.0
 4663,Iceland,2010,Female,15-19,0.0,0.0
 4664,Iceland,2010,Female,20-24,0.0,0.0
@@ -8621,312 +7325,312 @@
 8619,Slovenia,2023,Male,5-14,0.0,0.0
 8620,Slovenia,2023,Male,55-64,0.06,11.96
 8621,Slovenia,2023,Male,65+,0.02,5.72
-8622,Spain,2007,Female,0-4,,0.0
-8623,Spain,2007,Female,15-19,,0.56
-8624,Spain,2007,Female,20-24,,1.96
-8625,Spain,2007,Female,25-34,,8.96
-8626,Spain,2007,Female,35-44,,6.720000000000001
-8627,Spain,2007,Female,45-54,,4.48
-8628,Spain,2007,Female,5-14,,0.0
-8629,Spain,2007,Female,55-64,,2.24
-8630,Spain,2007,Female,65+,,1.6800000000000002
-8631,Spain,2007,Male,0-4,,0.0
-8632,Spain,2007,Male,15-19,,1.42
-8633,Spain,2007,Male,20-24,,4.97
-8634,Spain,2007,Male,25-34,,22.72
-8635,Spain,2007,Male,35-44,,17.04
-8636,Spain,2007,Male,45-54,,11.36
-8637,Spain,2007,Male,5-14,,0.0
-8638,Spain,2007,Male,55-64,,5.68
-8639,Spain,2007,Male,65+,,4.26
-8640,Spain,2008,Female,0-4,,0.0
-8641,Spain,2008,Female,15-19,,0.75
-8642,Spain,2008,Female,20-24,,1.5
-8643,Spain,2008,Female,25-34,,8.75
-8644,Spain,2008,Female,35-44,,6.0
-8645,Spain,2008,Female,45-54,,3.5000000000000004
-8646,Spain,2008,Female,5-14,,0.0
-8647,Spain,2008,Female,55-64,,2.0
-8648,Spain,2008,Female,65+,,1.25
-8649,Spain,2008,Male,0-4,,0.0
-8650,Spain,2008,Male,15-19,,2.22
-8651,Spain,2008,Male,20-24,,4.44
-8652,Spain,2008,Male,25-34,,25.9
-8653,Spain,2008,Male,35-44,,17.759999999999998
-8654,Spain,2008,Male,45-54,,10.36
-8655,Spain,2008,Male,5-14,,0.0
-8656,Spain,2008,Male,55-64,,5.92
-8657,Spain,2008,Male,65+,,3.7
-8658,Spain,2009,Female,0-4,,0.0
-8659,Spain,2009,Female,15-19,,0.58
-8660,Spain,2009,Female,20-24,,2.32
-8661,Spain,2009,Female,25-34,,8.41
-8662,Spain,2009,Female,35-44,,7.539999999999999
-8663,Spain,2009,Female,45-54,,4.0600000000000005
-8664,Spain,2009,Female,5-14,,0.0
-8665,Spain,2009,Female,55-64,,2.32
-8666,Spain,2009,Female,65+,,2.32
-8667,Spain,2009,Male,0-4,,0.0
-8668,Spain,2009,Male,15-19,,1.4
-8669,Spain,2009,Male,20-24,,5.6
-8670,Spain,2009,Male,25-34,,20.3
-8671,Spain,2009,Male,35-44,,18.2
-8672,Spain,2009,Male,45-54,,9.8
-8673,Spain,2009,Male,5-14,,0.0
-8674,Spain,2009,Male,55-64,,5.6
-8675,Spain,2009,Male,65+,,5.6
-8676,Spain,2010,Female,0-4,,0.25
-8677,Spain,2010,Female,15-19,,0.75
-8678,Spain,2010,Female,20-24,,1.5
-8679,Spain,2010,Female,25-34,,6.0
-8680,Spain,2010,Female,35-44,,6.25
-8681,Spain,2010,Female,45-54,,4.75
-8682,Spain,2010,Female,5-14,,0.0
-8683,Spain,2010,Female,55-64,,2.5
-8684,Spain,2010,Female,65+,,2.5
-8685,Spain,2010,Male,0-4,,0.74
-8686,Spain,2010,Male,15-19,,2.22
-8687,Spain,2010,Male,20-24,,4.44
-8688,Spain,2010,Male,25-34,,17.759999999999998
-8689,Spain,2010,Male,35-44,,18.5
-8690,Spain,2010,Male,45-54,,14.06
-8691,Spain,2010,Male,5-14,,0.0
-8692,Spain,2010,Male,55-64,,7.399999999999999
-8693,Spain,2010,Male,65+,,7.399999999999999
-8694,Spain,2011,Female,0-4,,0.3
-8695,Spain,2011,Female,15-19,,0.3
-8696,Spain,2011,Female,20-24,,1.2
-8697,Spain,2011,Female,25-34,,7.5
-8698,Spain,2011,Female,35-44,,8.7
-8699,Spain,2011,Female,45-54,,5.4
-8700,Spain,2011,Female,5-14,,0.3
-8701,Spain,2011,Female,55-64,,2.1
-8702,Spain,2011,Female,65+,,2.7
-8703,Spain,2011,Male,0-4,,0.69
-8704,Spain,2011,Male,15-19,,0.69
-8705,Spain,2011,Male,20-24,,2.76
-8706,Spain,2011,Male,25-34,,17.25
-8707,Spain,2011,Male,35-44,,20.01
-8708,Spain,2011,Male,45-54,,12.42
-8709,Spain,2011,Male,5-14,,0.69
-8710,Spain,2011,Male,55-64,,4.83
-8711,Spain,2011,Male,65+,,6.21
-8712,Spain,2012,Female,0-4,,0.0
-8713,Spain,2012,Female,15-19,,0.54
-8714,Spain,2012,Female,20-24,,1.08
-8715,Spain,2012,Female,25-34,,5.130000000000001
-8716,Spain,2012,Female,35-44,,8.370000000000001
-8717,Spain,2012,Female,45-54,,4.86
-8718,Spain,2012,Female,5-14,,0.0
-8719,Spain,2012,Female,55-64,,2.97
-8720,Spain,2012,Female,65+,,2.43
-8721,Spain,2012,Male,0-4,,0.0
-8722,Spain,2012,Male,15-19,,1.44
-8723,Spain,2012,Male,20-24,,2.88
-8724,Spain,2012,Male,25-34,,13.68
-8725,Spain,2012,Male,35-44,,22.32
-8726,Spain,2012,Male,45-54,,12.96
-8727,Spain,2012,Male,5-14,,0.0
-8728,Spain,2012,Male,55-64,,7.919999999999999
-8729,Spain,2012,Male,65+,,6.48
-8730,Spain,2013,Female,0-4,,0.27
-8731,Spain,2013,Female,15-19,,0.54
-8732,Spain,2013,Female,20-24,,1.08
-8733,Spain,2013,Female,25-34,,5.94
-8734,Spain,2013,Female,35-44,,8.64
-8735,Spain,2013,Female,45-54,,4.05
-8736,Spain,2013,Female,5-14,,0.0
-8737,Spain,2013,Female,55-64,,2.43
-8738,Spain,2013,Female,65+,,2.43
-8739,Spain,2013,Male,0-4,,0.72
-8740,Spain,2013,Male,15-19,,1.44
-8741,Spain,2013,Male,20-24,,2.88
-8742,Spain,2013,Male,25-34,,15.839999999999998
-8743,Spain,2013,Male,35-44,,23.04
-8744,Spain,2013,Male,45-54,,10.8
-8745,Spain,2013,Male,5-14,,0.0
-8746,Spain,2013,Male,55-64,,6.48
-8747,Spain,2013,Male,65+,,6.48
-8748,Spain,2014,Female,0-4,,0.0
-8749,Spain,2014,Female,15-19,,0.25
-8750,Spain,2014,Female,20-24,,0.75
-8751,Spain,2014,Female,25-34,,4.75
-8752,Spain,2014,Female,35-44,,6.75
-8753,Spain,2014,Female,45-54,,5.5
-8754,Spain,2014,Female,5-14,,0.0
-8755,Spain,2014,Female,55-64,,3.25
-8756,Spain,2014,Female,65+,,2.75
-8757,Spain,2014,Male,0-4,,0.0
-8758,Spain,2014,Male,15-19,,0.74
-8759,Spain,2014,Male,20-24,,2.22
-8760,Spain,2014,Male,25-34,,14.06
-8761,Spain,2014,Male,35-44,,19.98
-8762,Spain,2014,Male,45-54,,16.28
-8763,Spain,2014,Male,5-14,,0.0
-8764,Spain,2014,Male,55-64,,9.62
-8765,Spain,2014,Male,65+,,8.14
-8766,Spain,2015,Female,0-4,,0.0
-8767,Spain,2015,Female,15-19,,0.54
-8768,Spain,2015,Female,20-24,,0.8099999999999999
-8769,Spain,2015,Female,25-34,,4.05
-8770,Spain,2015,Female,35-44,,7.020000000000001
-8771,Spain,2015,Female,45-54,,6.75
-8772,Spain,2015,Female,5-14,,0.0
-8773,Spain,2015,Female,55-64,,3.24
-8774,Spain,2015,Female,65+,,3.24
-8775,Spain,2015,Male,0-4,,0.0
-8776,Spain,2015,Male,15-19,,1.44
-8777,Spain,2015,Male,20-24,,2.16
-8778,Spain,2015,Male,25-34,,10.8
-8779,Spain,2015,Male,35-44,,18.72
-8780,Spain,2015,Male,45-54,,18.0
-8781,Spain,2015,Male,5-14,,0.0
-8782,Spain,2015,Male,55-64,,8.639999999999999
-8783,Spain,2015,Male,65+,,8.639999999999999
-8784,Spain,2016,Female,0-4,,0.0
-8785,Spain,2016,Female,15-19,,0.69
-8786,Spain,2016,Female,20-24,,0.92
-8787,Spain,2016,Female,25-34,,2.99
-8788,Spain,2016,Female,35-44,,6.210000000000001
-8789,Spain,2016,Female,45-54,,5.75
-8790,Spain,2016,Female,5-14,,0.0
-8791,Spain,2016,Female,55-64,,2.99
-8792,Spain,2016,Female,65+,,2.53
-8793,Spain,2016,Male,0-4,,0.0
-8794,Spain,2016,Male,15-19,,2.28
-8795,Spain,2016,Male,20-24,,3.04
-8796,Spain,2016,Male,25-34,,9.88
-8797,Spain,2016,Male,35-44,,20.520000000000003
-8798,Spain,2016,Male,45-54,,19.0
-8799,Spain,2016,Male,5-14,,0.0
-8800,Spain,2016,Male,55-64,,9.88
-8801,Spain,2016,Male,65+,,8.360000000000001
-8802,Spain,2017,Female,0-4,,0.0
-8803,Spain,2017,Female,15-19,,0.48
-8804,Spain,2017,Female,20-24,,0.96
-8805,Spain,2017,Female,25-34,,2.88
-8806,Spain,2017,Female,35-44,,6.959999999999999
-8807,Spain,2017,Female,45-54,,6.48
-8808,Spain,2017,Female,5-14,,0.0
-8809,Spain,2017,Female,55-64,,2.88
-8810,Spain,2017,Female,65+,,2.4
-8811,Spain,2017,Male,0-4,,0.0
-8812,Spain,2017,Male,15-19,,1.5
-8813,Spain,2017,Male,20-24,,3.0
-8814,Spain,2017,Male,25-34,,9.0
-8815,Spain,2017,Male,35-44,,21.75
-8816,Spain,2017,Male,45-54,,20.25
-8817,Spain,2017,Male,5-14,,0.0
-8818,Spain,2017,Male,55-64,,9.0
-8819,Spain,2017,Male,65+,,7.500000000000001
-8820,Spain,2018,Female,0-4,,0.0
-8821,Spain,2018,Female,15-19,,0.96
-8822,Spain,2018,Female,20-24,,0.72
-8823,Spain,2018,Female,25-34,,1.92
-8824,Spain,2018,Female,35-44,,6.0
-8825,Spain,2018,Female,45-54,,6.0
-8826,Spain,2018,Female,5-14,,0.0
-8827,Spain,2018,Female,55-64,,3.6
-8828,Spain,2018,Female,65+,,3.6
-8829,Spain,2018,Male,0-4,,0.0
-8830,Spain,2018,Male,15-19,,3.0
-8831,Spain,2018,Male,20-24,,2.25
-8832,Spain,2018,Male,25-34,,6.0
-8833,Spain,2018,Male,35-44,,18.75
-8834,Spain,2018,Male,45-54,,18.75
-8835,Spain,2018,Male,5-14,,0.0
-8836,Spain,2018,Male,55-64,,11.249999999999998
-8837,Spain,2018,Male,65+,,11.249999999999998
-8838,Spain,2019,Female,0-4,,0.0
-8839,Spain,2019,Female,15-19,,0.5
-8840,Spain,2019,Female,20-24,,1.25
-8841,Spain,2019,Female,25-34,,3.0
-8842,Spain,2019,Female,35-44,,6.25
-8843,Spain,2019,Female,45-54,,5.75
-8844,Spain,2019,Female,5-14,,0.0
-8845,Spain,2019,Female,55-64,,4.25
-8846,Spain,2019,Female,65+,,3.0
-8847,Spain,2019,Male,0-4,,0.0
-8848,Spain,2019,Male,15-19,,1.48
-8849,Spain,2019,Male,20-24,,3.7
-8850,Spain,2019,Male,25-34,,8.879999999999999
-8851,Spain,2019,Male,35-44,,18.5
-8852,Spain,2019,Male,45-54,,17.020000000000003
-8853,Spain,2019,Male,5-14,,0.0
-8854,Spain,2019,Male,55-64,,12.58
-8855,Spain,2019,Male,65+,,8.879999999999999
-8856,Spain,2020,Female,0-4,,0.0
-8857,Spain,2020,Female,15-19,,0.66
-8858,Spain,2020,Female,20-24,,0.33
-8859,Spain,2020,Female,25-34,,2.97
-8860,Spain,2020,Female,35-44,,8.910000000000002
-8861,Spain,2020,Female,45-54,,9.9
-8862,Spain,2020,Female,5-14,,0.0
-8863,Spain,2020,Female,55-64,,3.96
-8864,Spain,2020,Female,65+,,4.95
-8865,Spain,2020,Male,0-4,,0.0
-8866,Spain,2020,Male,15-19,,1.32
-8867,Spain,2020,Male,20-24,,0.66
-8868,Spain,2020,Male,25-34,,5.94
-8869,Spain,2020,Male,35-44,,17.820000000000004
-8870,Spain,2020,Male,45-54,,19.8
-8871,Spain,2020,Male,5-14,,0.0
-8872,Spain,2020,Male,55-64,,7.920000000000001
-8873,Spain,2020,Male,65+,,9.9
-8874,Spain,2021,Female,0-4,,0.0
-8875,Spain,2021,Female,15-19,,1.04
-8876,Spain,2021,Female,20-24,,1.82
-8877,Spain,2021,Female,25-34,,2.34
-8878,Spain,2021,Female,35-44,,4.68
-8879,Spain,2021,Female,45-54,,5.2
-8880,Spain,2021,Female,5-14,,0.0
-8881,Spain,2021,Female,55-64,,5.2
-8882,Spain,2021,Female,65+,,4.42
-8883,Spain,2021,Male,0-4,,0.0
-8884,Spain,2021,Male,15-19,,2.92
-8885,Spain,2021,Male,20-24,,5.11
-8886,Spain,2021,Male,25-34,,6.569999999999999
-8887,Spain,2021,Male,35-44,,13.14
-8888,Spain,2021,Male,45-54,,14.6
-8889,Spain,2021,Male,5-14,,0.0
-8890,Spain,2021,Male,55-64,,14.6
-8891,Spain,2021,Male,65+,,12.41
-8892,Spain,2022,Female,0-4,,0.0
-8893,Spain,2022,Female,15-19,,0.5
-8894,Spain,2022,Female,20-24,,1.5
-8895,Spain,2022,Female,25-34,,3.25
-8896,Spain,2022,Female,35-44,,5.0
-8897,Spain,2022,Female,45-54,,6.75
-8898,Spain,2022,Female,5-14,,0.0
-8899,Spain,2022,Female,55-64,,3.75
-8900,Spain,2022,Female,65+,,3.0
-8901,Spain,2022,Male,0-4,,0.0
-8902,Spain,2022,Male,15-19,,1.48
-8903,Spain,2022,Male,20-24,,4.44
-8904,Spain,2022,Male,25-34,,9.62
-8905,Spain,2022,Male,35-44,,14.8
-8906,Spain,2022,Male,45-54,,19.98
-8907,Spain,2022,Male,5-14,,0.0
-8908,Spain,2022,Male,55-64,,11.1
-8909,Spain,2022,Male,65+,,8.879999999999999
-8910,Spain,2023,Female,0-4,,0.0
-8911,Spain,2023,Female,15-19,,0.24
-8912,Spain,2023,Female,20-24,,0.96
-8913,Spain,2023,Female,25-34,,3.6
-8914,Spain,2023,Female,35-44,,4.08
-8915,Spain,2023,Female,45-54,,6.0
-8916,Spain,2023,Female,5-14,,0.0
-8917,Spain,2023,Female,55-64,,4.319999999999999
-8918,Spain,2023,Female,65+,,3.6
-8919,Spain,2023,Male,0-4,,0.0
-8920,Spain,2023,Male,15-19,,0.75
-8921,Spain,2023,Male,20-24,,3.0
-8922,Spain,2023,Male,25-34,,11.249999999999998
-8923,Spain,2023,Male,35-44,,12.75
-8924,Spain,2023,Male,45-54,,18.75
-8925,Spain,2023,Male,5-14,,0.0
-8926,Spain,2023,Male,55-64,,13.5
-8927,Spain,2023,Male,65+,,11.249999999999998
+8622,Spain,2007,Female,0-4,0.3579356725146199,0.0
+8623,Spain,2007,Female,15-19,0.3579356725146199,0.56
+8624,Spain,2007,Female,20-24,0.3579356725146199,1.96
+8625,Spain,2007,Female,25-34,0.3579356725146199,8.96
+8626,Spain,2007,Female,35-44,0.3579356725146199,6.720000000000001
+8627,Spain,2007,Female,45-54,0.3579356725146199,4.48
+8628,Spain,2007,Female,5-14,0.3579356725146199,0.0
+8629,Spain,2007,Female,55-64,0.3579356725146199,2.24
+8630,Spain,2007,Female,65+,0.3579356725146199,1.6800000000000002
+8631,Spain,2007,Male,0-4,0.3579356725146199,0.0
+8632,Spain,2007,Male,15-19,0.3579356725146199,1.42
+8633,Spain,2007,Male,20-24,0.3579356725146199,4.97
+8634,Spain,2007,Male,25-34,0.3579356725146199,22.72
+8635,Spain,2007,Male,35-44,0.3579356725146199,17.04
+8636,Spain,2007,Male,45-54,0.3579356725146199,11.36
+8637,Spain,2007,Male,5-14,0.3579356725146199,0.0
+8638,Spain,2007,Male,55-64,0.3579356725146199,5.68
+8639,Spain,2007,Male,65+,0.3579356725146199,4.26
+8640,Spain,2008,Female,0-4,0.3579356725146199,0.0
+8641,Spain,2008,Female,15-19,0.3579356725146199,0.75
+8642,Spain,2008,Female,20-24,0.3579356725146199,1.5
+8643,Spain,2008,Female,25-34,0.3579356725146199,8.75
+8644,Spain,2008,Female,35-44,0.3579356725146199,6.0
+8645,Spain,2008,Female,45-54,0.3579356725146199,3.5000000000000004
+8646,Spain,2008,Female,5-14,0.3579356725146199,0.0
+8647,Spain,2008,Female,55-64,0.3579356725146199,2.0
+8648,Spain,2008,Female,65+,0.3579356725146199,1.25
+8649,Spain,2008,Male,0-4,0.3579356725146199,0.0
+8650,Spain,2008,Male,15-19,0.3579356725146199,2.22
+8651,Spain,2008,Male,20-24,0.3579356725146199,4.44
+8652,Spain,2008,Male,25-34,0.3579356725146199,25.9
+8653,Spain,2008,Male,35-44,0.3579356725146199,17.759999999999998
+8654,Spain,2008,Male,45-54,0.3579356725146199,10.36
+8655,Spain,2008,Male,5-14,0.3579356725146199,0.0
+8656,Spain,2008,Male,55-64,0.3579356725146199,5.92
+8657,Spain,2008,Male,65+,0.3579356725146199,3.7
+8658,Spain,2009,Female,0-4,0.3579356725146199,0.0
+8659,Spain,2009,Female,15-19,0.3579356725146199,0.58
+8660,Spain,2009,Female,20-24,0.3579356725146199,2.32
+8661,Spain,2009,Female,25-34,0.3579356725146199,8.41
+8662,Spain,2009,Female,35-44,0.3579356725146199,7.539999999999999
+8663,Spain,2009,Female,45-54,0.3579356725146199,4.0600000000000005
+8664,Spain,2009,Female,5-14,0.3579356725146199,0.0
+8665,Spain,2009,Female,55-64,0.3579356725146199,2.32
+8666,Spain,2009,Female,65+,0.3579356725146199,2.32
+8667,Spain,2009,Male,0-4,0.3579356725146199,0.0
+8668,Spain,2009,Male,15-19,0.3579356725146199,1.4
+8669,Spain,2009,Male,20-24,0.3579356725146199,5.6
+8670,Spain,2009,Male,25-34,0.3579356725146199,20.3
+8671,Spain,2009,Male,35-44,0.3579356725146199,18.2
+8672,Spain,2009,Male,45-54,0.3579356725146199,9.8
+8673,Spain,2009,Male,5-14,0.3579356725146199,0.0
+8674,Spain,2009,Male,55-64,0.3579356725146199,5.6
+8675,Spain,2009,Male,65+,0.3579356725146199,5.6
+8676,Spain,2010,Female,0-4,0.3579356725146199,0.25
+8677,Spain,2010,Female,15-19,0.3579356725146199,0.75
+8678,Spain,2010,Female,20-24,0.3579356725146199,1.5
+8679,Spain,2010,Female,25-34,0.3579356725146199,6.0
+8680,Spain,2010,Female,35-44,0.3579356725146199,6.25
+8681,Spain,2010,Female,45-54,0.3579356725146199,4.75
+8682,Spain,2010,Female,5-14,0.3579356725146199,0.0
+8683,Spain,2010,Female,55-64,0.3579356725146199,2.5
+8684,Spain,2010,Female,65+,0.3579356725146199,2.5
+8685,Spain,2010,Male,0-4,0.3579356725146199,0.74
+8686,Spain,2010,Male,15-19,0.3579356725146199,2.22
+8687,Spain,2010,Male,20-24,0.3579356725146199,4.44
+8688,Spain,2010,Male,25-34,0.3579356725146199,17.759999999999998
+8689,Spain,2010,Male,35-44,0.3579356725146199,18.5
+8690,Spain,2010,Male,45-54,0.3579356725146199,14.06
+8691,Spain,2010,Male,5-14,0.3579356725146199,0.0
+8692,Spain,2010,Male,55-64,0.3579356725146199,7.399999999999999
+8693,Spain,2010,Male,65+,0.3579356725146199,7.399999999999999
+8694,Spain,2011,Female,0-4,0.3579356725146199,0.3
+8695,Spain,2011,Female,15-19,0.3579356725146199,0.3
+8696,Spain,2011,Female,20-24,0.3579356725146199,1.2
+8697,Spain,2011,Female,25-34,0.3579356725146199,7.5
+8698,Spain,2011,Female,35-44,0.3579356725146199,8.7
+8699,Spain,2011,Female,45-54,0.3579356725146199,5.4
+8700,Spain,2011,Female,5-14,0.3579356725146199,0.3
+8701,Spain,2011,Female,55-64,0.3579356725146199,2.1
+8702,Spain,2011,Female,65+,0.3579356725146199,2.7
+8703,Spain,2011,Male,0-4,0.3579356725146199,0.69
+8704,Spain,2011,Male,15-19,0.3579356725146199,0.69
+8705,Spain,2011,Male,20-24,0.3579356725146199,2.76
+8706,Spain,2011,Male,25-34,0.3579356725146199,17.25
+8707,Spain,2011,Male,35-44,0.3579356725146199,20.01
+8708,Spain,2011,Male,45-54,0.3579356725146199,12.42
+8709,Spain,2011,Male,5-14,0.3579356725146199,0.69
+8710,Spain,2011,Male,55-64,0.3579356725146199,4.83
+8711,Spain,2011,Male,65+,0.3579356725146199,6.21
+8712,Spain,2012,Female,0-4,0.3579356725146199,0.0
+8713,Spain,2012,Female,15-19,0.3579356725146199,0.54
+8714,Spain,2012,Female,20-24,0.3579356725146199,1.08
+8715,Spain,2012,Female,25-34,0.3579356725146199,5.130000000000001
+8716,Spain,2012,Female,35-44,0.3579356725146199,8.370000000000001
+8717,Spain,2012,Female,45-54,0.3579356725146199,4.86
+8718,Spain,2012,Female,5-14,0.3579356725146199,0.0
+8719,Spain,2012,Female,55-64,0.3579356725146199,2.97
+8720,Spain,2012,Female,65+,0.3579356725146199,2.43
+8721,Spain,2012,Male,0-4,0.3579356725146199,0.0
+8722,Spain,2012,Male,15-19,0.3579356725146199,1.44
+8723,Spain,2012,Male,20-24,0.3579356725146199,2.88
+8724,Spain,2012,Male,25-34,0.3579356725146199,13.68
+8725,Spain,2012,Male,35-44,0.3579356725146199,22.32
+8726,Spain,2012,Male,45-54,0.3579356725146199,12.96
+8727,Spain,2012,Male,5-14,0.3579356725146199,0.0
+8728,Spain,2012,Male,55-64,0.3579356725146199,7.919999999999999
+8729,Spain,2012,Male,65+,0.3579356725146199,6.48
+8730,Spain,2013,Female,0-4,0.3579356725146199,0.27
+8731,Spain,2013,Female,15-19,0.3579356725146199,0.54
+8732,Spain,2013,Female,20-24,0.3579356725146199,1.08
+8733,Spain,2013,Female,25-34,0.3579356725146199,5.94
+8734,Spain,2013,Female,35-44,0.3579356725146199,8.64
+8735,Spain,2013,Female,45-54,0.3579356725146199,4.05
+8736,Spain,2013,Female,5-14,0.3579356725146199,0.0
+8737,Spain,2013,Female,55-64,0.3579356725146199,2.43
+8738,Spain,2013,Female,65+,0.3579356725146199,2.43
+8739,Spain,2013,Male,0-4,0.3579356725146199,0.72
+8740,Spain,2013,Male,15-19,0.3579356725146199,1.44
+8741,Spain,2013,Male,20-24,0.3579356725146199,2.88
+8742,Spain,2013,Male,25-34,0.3579356725146199,15.839999999999998
+8743,Spain,2013,Male,35-44,0.3579356725146199,23.04
+8744,Spain,2013,Male,45-54,0.3579356725146199,10.8
+8745,Spain,2013,Male,5-14,0.3579356725146199,0.0
+8746,Spain,2013,Male,55-64,0.3579356725146199,6.48
+8747,Spain,2013,Male,65+,0.3579356725146199,6.48
+8748,Spain,2014,Female,0-4,0.3579356725146199,0.0
+8749,Spain,2014,Female,15-19,0.3579356725146199,0.25
+8750,Spain,2014,Female,20-24,0.3579356725146199,0.75
+8751,Spain,2014,Female,25-34,0.3579356725146199,4.75
+8752,Spain,2014,Female,35-44,0.3579356725146199,6.75
+8753,Spain,2014,Female,45-54,0.3579356725146199,5.5
+8754,Spain,2014,Female,5-14,0.3579356725146199,0.0
+8755,Spain,2014,Female,55-64,0.3579356725146199,3.25
+8756,Spain,2014,Female,65+,0.3579356725146199,2.75
+8757,Spain,2014,Male,0-4,0.3579356725146199,0.0
+8758,Spain,2014,Male,15-19,0.3579356725146199,0.74
+8759,Spain,2014,Male,20-24,0.3579356725146199,2.22
+8760,Spain,2014,Male,25-34,0.3579356725146199,14.06
+8761,Spain,2014,Male,35-44,0.3579356725146199,19.98
+8762,Spain,2014,Male,45-54,0.3579356725146199,16.28
+8763,Spain,2014,Male,5-14,0.3579356725146199,0.0
+8764,Spain,2014,Male,55-64,0.3579356725146199,9.62
+8765,Spain,2014,Male,65+,0.3579356725146199,8.14
+8766,Spain,2015,Female,0-4,0.3579356725146199,0.0
+8767,Spain,2015,Female,15-19,0.3579356725146199,0.54
+8768,Spain,2015,Female,20-24,0.3579356725146199,0.8099999999999999
+8769,Spain,2015,Female,25-34,0.3579356725146199,4.05
+8770,Spain,2015,Female,35-44,0.3579356725146199,7.020000000000001
+8771,Spain,2015,Female,45-54,0.3579356725146199,6.75
+8772,Spain,2015,Female,5-14,0.3579356725146199,0.0
+8773,Spain,2015,Female,55-64,0.3579356725146199,3.24
+8774,Spain,2015,Female,65+,0.3579356725146199,3.24
+8775,Spain,2015,Male,0-4,0.3579356725146199,0.0
+8776,Spain,2015,Male,15-19,0.3579356725146199,1.44
+8777,Spain,2015,Male,20-24,0.3579356725146199,2.16
+8778,Spain,2015,Male,25-34,0.3579356725146199,10.8
+8779,Spain,2015,Male,35-44,0.3579356725146199,18.72
+8780,Spain,2015,Male,45-54,0.3579356725146199,18.0
+8781,Spain,2015,Male,5-14,0.3579356725146199,0.0
+8782,Spain,2015,Male,55-64,0.3579356725146199,8.639999999999999
+8783,Spain,2015,Male,65+,0.3579356725146199,8.639999999999999
+8784,Spain,2016,Female,0-4,0.3579356725146199,0.0
+8785,Spain,2016,Female,15-19,0.3579356725146199,0.69
+8786,Spain,2016,Female,20-24,0.3579356725146199,0.92
+8787,Spain,2016,Female,25-34,0.3579356725146199,2.99
+8788,Spain,2016,Female,35-44,0.3579356725146199,6.210000000000001
+8789,Spain,2016,Female,45-54,0.3579356725146199,5.75
+8790,Spain,2016,Female,5-14,0.3579356725146199,0.0
+8791,Spain,2016,Female,55-64,0.3579356725146199,2.99
+8792,Spain,2016,Female,65+,0.3579356725146199,2.53
+8793,Spain,2016,Male,0-4,0.3579356725146199,0.0
+8794,Spain,2016,Male,15-19,0.3579356725146199,2.28
+8795,Spain,2016,Male,20-24,0.3579356725146199,3.04
+8796,Spain,2016,Male,25-34,0.3579356725146199,9.88
+8797,Spain,2016,Male,35-44,0.3579356725146199,20.520000000000003
+8798,Spain,2016,Male,45-54,0.3579356725146199,19.0
+8799,Spain,2016,Male,5-14,0.3579356725146199,0.0
+8800,Spain,2016,Male,55-64,0.3579356725146199,9.88
+8801,Spain,2016,Male,65+,0.3579356725146199,8.360000000000001
+8802,Spain,2017,Female,0-4,0.3579356725146199,0.0
+8803,Spain,2017,Female,15-19,0.3579356725146199,0.48
+8804,Spain,2017,Female,20-24,0.3579356725146199,0.96
+8805,Spain,2017,Female,25-34,0.3579356725146199,2.88
+8806,Spain,2017,Female,35-44,0.3579356725146199,6.959999999999999
+8807,Spain,2017,Female,45-54,0.3579356725146199,6.48
+8808,Spain,2017,Female,5-14,0.3579356725146199,0.0
+8809,Spain,2017,Female,55-64,0.3579356725146199,2.88
+8810,Spain,2017,Female,65+,0.3579356725146199,2.4
+8811,Spain,2017,Male,0-4,0.3579356725146199,0.0
+8812,Spain,2017,Male,15-19,0.3579356725146199,1.5
+8813,Spain,2017,Male,20-24,0.3579356725146199,3.0
+8814,Spain,2017,Male,25-34,0.3579356725146199,9.0
+8815,Spain,2017,Male,35-44,0.3579356725146199,21.75
+8816,Spain,2017,Male,45-54,0.3579356725146199,20.25
+8817,Spain,2017,Male,5-14,0.3579356725146199,0.0
+8818,Spain,2017,Male,55-64,0.3579356725146199,9.0
+8819,Spain,2017,Male,65+,0.3579356725146199,7.500000000000001
+8820,Spain,2018,Female,0-4,0.3579356725146199,0.0
+8821,Spain,2018,Female,15-19,0.3579356725146199,0.96
+8822,Spain,2018,Female,20-24,0.3579356725146199,0.72
+8823,Spain,2018,Female,25-34,0.3579356725146199,1.92
+8824,Spain,2018,Female,35-44,0.3579356725146199,6.0
+8825,Spain,2018,Female,45-54,0.3579356725146199,6.0
+8826,Spain,2018,Female,5-14,0.3579356725146199,0.0
+8827,Spain,2018,Female,55-64,0.3579356725146199,3.6
+8828,Spain,2018,Female,65+,0.3579356725146199,3.6
+8829,Spain,2018,Male,0-4,0.3579356725146199,0.0
+8830,Spain,2018,Male,15-19,0.3579356725146199,3.0
+8831,Spain,2018,Male,20-24,0.3579356725146199,2.25
+8832,Spain,2018,Male,25-34,0.3579356725146199,6.0
+8833,Spain,2018,Male,35-44,0.3579356725146199,18.75
+8834,Spain,2018,Male,45-54,0.3579356725146199,18.75
+8835,Spain,2018,Male,5-14,0.3579356725146199,0.0
+8836,Spain,2018,Male,55-64,0.3579356725146199,11.249999999999998
+8837,Spain,2018,Male,65+,0.3579356725146199,11.249999999999998
+8838,Spain,2019,Female,0-4,0.3579356725146199,0.0
+8839,Spain,2019,Female,15-19,0.3579356725146199,0.5
+8840,Spain,2019,Female,20-24,0.3579356725146199,1.25
+8841,Spain,2019,Female,25-34,0.3579356725146199,3.0
+8842,Spain,2019,Female,35-44,0.3579356725146199,6.25
+8843,Spain,2019,Female,45-54,0.3579356725146199,5.75
+8844,Spain,2019,Female,5-14,0.3579356725146199,0.0
+8845,Spain,2019,Female,55-64,0.3579356725146199,4.25
+8846,Spain,2019,Female,65+,0.3579356725146199,3.0
+8847,Spain,2019,Male,0-4,0.3579356725146199,0.0
+8848,Spain,2019,Male,15-19,0.3579356725146199,1.48
+8849,Spain,2019,Male,20-24,0.3579356725146199,3.7
+8850,Spain,2019,Male,25-34,0.3579356725146199,8.879999999999999
+8851,Spain,2019,Male,35-44,0.3579356725146199,18.5
+8852,Spain,2019,Male,45-54,0.3579356725146199,17.020000000000003
+8853,Spain,2019,Male,5-14,0.3579356725146199,0.0
+8854,Spain,2019,Male,55-64,0.3579356725146199,12.58
+8855,Spain,2019,Male,65+,0.3579356725146199,8.879999999999999
+8856,Spain,2020,Female,0-4,0.3579356725146199,0.0
+8857,Spain,2020,Female,15-19,0.3579356725146199,0.66
+8858,Spain,2020,Female,20-24,0.3579356725146199,0.33
+8859,Spain,2020,Female,25-34,0.3579356725146199,2.97
+8860,Spain,2020,Female,35-44,0.3579356725146199,8.910000000000002
+8861,Spain,2020,Female,45-54,0.3579356725146199,9.9
+8862,Spain,2020,Female,5-14,0.3579356725146199,0.0
+8863,Spain,2020,Female,55-64,0.3579356725146199,3.96
+8864,Spain,2020,Female,65+,0.3579356725146199,4.95
+8865,Spain,2020,Male,0-4,0.3579356725146199,0.0
+8866,Spain,2020,Male,15-19,0.3579356725146199,1.32
+8867,Spain,2020,Male,20-24,0.3579356725146199,0.66
+8868,Spain,2020,Male,25-34,0.3579356725146199,5.94
+8869,Spain,2020,Male,35-44,0.3579356725146199,17.820000000000004
+8870,Spain,2020,Male,45-54,0.3579356725146199,19.8
+8871,Spain,2020,Male,5-14,0.3579356725146199,0.0
+8872,Spain,2020,Male,55-64,0.3579356725146199,7.920000000000001
+8873,Spain,2020,Male,65+,0.3579356725146199,9.9
+8874,Spain,2021,Female,0-4,0.3579356725146199,0.0
+8875,Spain,2021,Female,15-19,0.3579356725146199,1.04
+8876,Spain,2021,Female,20-24,0.3579356725146199,1.82
+8877,Spain,2021,Female,25-34,0.3579356725146199,2.34
+8878,Spain,2021,Female,35-44,0.3579356725146199,4.68
+8879,Spain,2021,Female,45-54,0.3579356725146199,5.2
+8880,Spain,2021,Female,5-14,0.3579356725146199,0.0
+8881,Spain,2021,Female,55-64,0.3579356725146199,5.2
+8882,Spain,2021,Female,65+,0.3579356725146199,4.42
+8883,Spain,2021,Male,0-4,0.3579356725146199,0.0
+8884,Spain,2021,Male,15-19,0.3579356725146199,2.92
+8885,Spain,2021,Male,20-24,0.3579356725146199,5.11
+8886,Spain,2021,Male,25-34,0.3579356725146199,6.569999999999999
+8887,Spain,2021,Male,35-44,0.3579356725146199,13.14
+8888,Spain,2021,Male,45-54,0.3579356725146199,14.6
+8889,Spain,2021,Male,5-14,0.3579356725146199,0.0
+8890,Spain,2021,Male,55-64,0.3579356725146199,14.6
+8891,Spain,2021,Male,65+,0.3579356725146199,12.41
+8892,Spain,2022,Female,0-4,0.3579356725146199,0.0
+8893,Spain,2022,Female,15-19,0.3579356725146199,0.5
+8894,Spain,2022,Female,20-24,0.3579356725146199,1.5
+8895,Spain,2022,Female,25-34,0.3579356725146199,3.25
+8896,Spain,2022,Female,35-44,0.3579356725146199,5.0
+8897,Spain,2022,Female,45-54,0.3579356725146199,6.75
+8898,Spain,2022,Female,5-14,0.3579356725146199,0.0
+8899,Spain,2022,Female,55-64,0.3579356725146199,3.75
+8900,Spain,2022,Female,65+,0.3579356725146199,3.0
+8901,Spain,2022,Male,0-4,0.3579356725146199,0.0
+8902,Spain,2022,Male,15-19,0.3579356725146199,1.48
+8903,Spain,2022,Male,20-24,0.3579356725146199,4.44
+8904,Spain,2022,Male,25-34,0.3579356725146199,9.62
+8905,Spain,2022,Male,35-44,0.3579356725146199,14.8
+8906,Spain,2022,Male,45-54,0.3579356725146199,19.98
+8907,Spain,2022,Male,5-14,0.3579356725146199,0.0
+8908,Spain,2022,Male,55-64,0.3579356725146199,11.1
+8909,Spain,2022,Male,65+,0.3579356725146199,8.879999999999999
+8910,Spain,2023,Female,0-4,0.3579356725146199,0.0
+8911,Spain,2023,Female,15-19,0.3579356725146199,0.24
+8912,Spain,2023,Female,20-24,0.3579356725146199,0.96
+8913,Spain,2023,Female,25-34,0.3579356725146199,3.6
+8914,Spain,2023,Female,35-44,0.3579356725146199,4.08
+8915,Spain,2023,Female,45-54,0.3579356725146199,6.0
+8916,Spain,2023,Female,5-14,0.3579356725146199,0.0
+8917,Spain,2023,Female,55-64,0.3579356725146199,4.319999999999999
+8918,Spain,2023,Female,65+,0.3579356725146199,3.6
+8919,Spain,2023,Male,0-4,0.3579356725146199,0.0
+8920,Spain,2023,Male,15-19,0.3579356725146199,0.75
+8921,Spain,2023,Male,20-24,0.3579356725146199,3.0
+8922,Spain,2023,Male,25-34,0.3579356725146199,11.249999999999998
+8923,Spain,2023,Male,35-44,0.3579356725146199,12.75
+8924,Spain,2023,Male,45-54,0.3579356725146199,18.75
+8925,Spain,2023,Male,5-14,0.3579356725146199,0.0
+8926,Spain,2023,Male,55-64,0.3579356725146199,13.5
+8927,Spain,2023,Male,65+,0.3579356725146199,11.249999999999998
 8928,Sweden,2006,Female,0-4,0.07,0.34
 8929,Sweden,2006,Female,15-19,0.63,2.3800000000000003
 8930,Sweden,2006,Female,20-24,1.26,5.44
