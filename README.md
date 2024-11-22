@@ -98,6 +98,8 @@ Acute Hepatitis B Risk: 8.3%
 
 ### Contact
 **Author:** Giada
+
 **Email:** giada@decarlo#gmail.com
+
 **GitHub:** JGiadaDC
 
