@@ -86,7 +86,7 @@ def make_prediction(gender, age, country, year):
 
 
 # Streamlit
-st.title("Calculate your risk of contracting Hepatitis B in its Chronic and Acute phases")
+st.title("Calculate the risk of contracting Hepatitis B in its Chronic and Acute phases")
 
 # Input
 country = st.selectbox("Select Country:", ['Croatia', 'Cyprus','Czechia','Denmark','Estonia', 'Finland','France',
