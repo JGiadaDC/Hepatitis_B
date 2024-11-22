@@ -35,7 +35,8 @@ cd Hepatitis_B
 3. Create a virtual environment:
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+source venv/bin/activate  # On Windows, use: .\venv\Scripts\activate
+
 ```
 
 4. Install dependencies:
