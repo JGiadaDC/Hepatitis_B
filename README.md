@@ -36,29 +36,33 @@ Follow these steps to install the project on your computer:
 
 ```bash
 git clone https://github.com/JGiadaDC/Hepatitis_B.git
+```
 
-# Navigate into the project directory
+2. Navigate into the project directory
+
+```bash
 cd Hepatitis_B
 ```
 
-3. Create a virtual environment:
+2. Create and activate a virtual environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use: .\venv\Scripts\activate
-
 ```
 
-4. Install dependencies:
+3. Install Dependencies
+Install the required Python packages listed in the requirements.txt file:
 ```bash
 pip install -r requirements.txt
 ```
 
-5. Ensure that the required .pkl files are in the main directory.
+4. Download Necessary Files
+Some files, such as the .pkl models, are included in the models folder. 
 
 ### Usage 
 To run the Streamlit application, use the command:
 ```bash
-streamlit run app.py
+streamlit run src/app.py
 ```
 
 - Follow the on-screen instructions to input data (country, gender, age, year).
