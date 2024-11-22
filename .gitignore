@@ -14,3 +14,7 @@ Thumbs.db
 
 # Ignora il file global_requirements.txt se non necessario per il repository
 global_requirements.txt
+
+# ignora pip 
+pip/
+requirements.txt
