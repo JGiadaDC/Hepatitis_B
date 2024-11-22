@@ -5,11 +5,22 @@ from sklearn.linear_model import LinearRegression
 
 
 # Load models and encoders
-models = joblib.load("models_rf.pkl")
+models = joblib.load("models/models_rf.pkl")
 
-label_encoder_country = joblib.load("label_encoder_country.pkl")
-label_encoder_gender = joblib.load("label_encoder_gender.pkl")
-label_encoder_age = joblib.load("label_encoder_age.pkl")
+label_encoder_country = joblib.load("models/label_encoder_country.pkl")
+label_encoder_gender = joblib.load("models/label_encoder_gender.pkl")
+#label_encoder_age = joblib.load("models/label_encoder_age.pkl")
+age_mapping = {
+    '0-4': 0,
+    '15-19': 2,
+    '20-24': 3,
+    '25-34': 4,
+    '35-44': 5,
+    '45-54': 6,
+    '5-14': 1,
+    '55-64': 7,
+    '65+': 8
+}
 
 
 # Future predictions
@@ -48,18 +59,20 @@ def predict_future(chronic_model, acute_model, input_data, year):
 
 
 # Function to make predictions
-def make_prediction(gender, age_category, country, year):
+def make_prediction(gender, age, country, year):
     # Codify categorical values
     gender_encoded = label_encoder_gender.transform([gender])[0]
-    age_category_encoded = label_encoder_age.transform([age_category])[0]
+    #age_category_encoded = label_encoder_age.transform([age_category])[0]
     country_encoded = label_encoder_country.transform([country])[0]
+    # Convert age using the predefined mapping
+    age_encoded = age_mapping.get(age, -1)  # Use -1 if age is not found in the mapping
 
     # Prepare input data
     input_data = pd.DataFrame({
         'Country': [country_encoded],
         'Time': [year], 
         'Gender': [gender_encoded],
-        'Category_age': [age_category_encoded]
+        'Age': [age_encoded]
     })
 
     # Models for prediction
@@ -81,8 +94,8 @@ country = st.selectbox("Select Country:", ['Croatia', 'Cyprus','Czechia','Denmar
                                            'Lithuania','Luxembourg','Malta','Netherlands','Norway','Poland','Portugal',
                                            'Romania','Slovakia','Slovenia','Spain','Sweden','United Kingdom'])
 gender = st.selectbox("Select gender:", ["Female", "Male"])
-age = st.selectbox("Select age:", ["0-4", "5-14", "15-19", "20-34", "35-44", "45-54", "55-64", "65-74", "75+"])
-year = st.number_input('Inserisci l\'anno:', min_value=2000, max_value=2050, value=2024)
+age = st.selectbox("Select age:", ["0-4", "5-14", "15-19", "20-34", "35-44", "45-54", "55-64", "65+"])
+year = st.number_input('Select year:', min_value=2000, max_value=2050, value=2024)
 
 # Button to calculate risk
 if st.button("Calculate risk (%)"):

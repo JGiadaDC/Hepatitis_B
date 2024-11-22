@@ -7,23 +7,35 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 
 # Load the dataset
-df = pd.read_csv("hepatitis_eda.csv")
+df = pd.read_csv("data/hepatitis_eda.csv")
 
 # Feature selection and preprocessing
 label_encoder_country = LabelEncoder()
 df['Country'] = label_encoder_country.fit_transform(df['Country'])
 label_encoder_gender = LabelEncoder()
 df['Gender'] = label_encoder_gender.fit_transform(df['Gender'])
-label_encoder_age = LabelEncoder()
-df['Category_age'] = label_encoder_age.fit_transform(df['Category_age'])
+
+age_mapping = {
+    '0-4': 0,
+    '15-19': 2,
+    '20-24': 3,
+    '25-34': 4,
+    '35-44': 5,
+    '45-54': 6,
+    '5-14': 1,
+    '55-64': 7,
+    '65+': 8
+}
+df['Age'] = df['Age'].map(age_mapping)
+
+'''label_encoder_age = LabelEncoder()
+df['Age'] = label_encoder_age.fit_transform(df['Age'])'''
 
 
 # Select features and targets
-X = df[['Country', 'Time', 'Gender', 'Category_age']]
+X = df[['Country', 'Time', 'Gender', 'Age']]
 y_chronic = df['Chronic_percentage']  
 y_acute = df['Acute_percentage']  
-
-
 
 # Train-test split
 X_train, X_test, y_train_chronic, y_test_chronic = train_test_split(X, y_chronic, test_size=0.2, random_state=42)
@@ -36,7 +48,6 @@ rf_chronic.fit(X_train, y_train_chronic)
 # Create and train Random Forest model for Acute_percentage
 rf_acute = RandomForestRegressor(n_estimators=100, random_state=42)
 rf_acute.fit(X_train, y_train_acute)
-
 
 # Evaluate models
 chronic_preds = rf_chronic.predict(X_test)
@@ -57,11 +68,10 @@ models = {
 }
 
 # Salva il dizionario in un unico file
-joblib.dump(models, 'models_rf.pkl')
+joblib.dump(models, 'models/models_rf.pkl')
 
-joblib.dump(label_encoder_country, "label_encoder_country.pkl")
-joblib.dump(label_encoder_gender, "label_encoder_gender.pkl")
-joblib.dump(label_encoder_age, "label_encoder_age.pkl")
+joblib.dump(label_encoder_country, "models/label_encoder_country.pkl")
+joblib.dump(label_encoder_gender, "models/label_encoder_gender.pkl")
+#joblib.dump(label_encoder_age, "models/label_encoder_age.pkl")
 
-print("Models and encoders saved successfully!")
 
