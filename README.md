@@ -1,4 +1,4 @@
-# HEPATITIS B RISK PREDICTION APP (EUORPE)
+# HEPATITIS B RISK PREDICTION APP (EUROPE)
 
 ### Description 
 This application predicts the risk of contracting Hepatitis B  (in its chronic and acute forms) in Europe, based on factors such as country of residence, gender, age group, and year. It is designed to provide predictive estimates using a machine learning model trained with epidemiological data.
